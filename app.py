@@ -5,4 +5,4 @@ from resources.bike import Bike
 app = Flask(__name__)
 api = Api(app)
 api.add_resource(Bike, '/bikes')
-app.run(debug=True)
+app.run(threaded=True)
