@@ -2,7 +2,7 @@
   "openapi": "3.0.3",
   "info": {
     "title": "PeloBairro Python API",
-    "description": "API Desenvolvida para a HACKABIP 2021 para o projeto Pelo Bairro. Essa API que retorna informações de múltiplas bases de dados abertas da Câmara Municipal de Lisboa.",
+    "description": "API Desenvolvida para a HACKABIP 2021 para o projeto Pelo Bairro. Essa API retorna de forma integrada informações colhidas nas bases de dados abertas da Câmara Municipal de Lisboa sobre Estacionamento de velocípides do formato HotSpotm (com o sem suporte), Estacionamento para velocípedes, Elementos de Água, e também da rede de bicicletas GIRA .",
     "version": "1.0.0"
   },
   "servers": [
