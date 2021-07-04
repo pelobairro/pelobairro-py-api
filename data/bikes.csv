@@ -1,0 +1,98 @@
+,desigcomercial,numbicicletas,numdocasvacias,position,add_data,add_hora,_lat_,_lng_,_type_,_name_
+0,303 - Avenida da Liberdade / Rua das Pretas,0,16,"{""coordinates"": [-9.14455, 38.71957], ""type"": ""Point""}",2019-07-01,16:35:49.,38.71957,-9.14455,GIRABIKE,303 - Avenida da Liberdade / Rua das Pretas
+1,205 - Av. Brasília / Cordoaria,1,9,"{""coordinates"": [-9.188, 38.697], ""type"": ""Point""}",2021-06-28,09:02:06.,38.697,-9.188,GIRABIKE,205 - Av. Brasília / Cordoaria
+2,203 - Padrão dos Descobrimentos,0,22,"{""coordinates"": [-9.20633, 38.6935], ""type"": ""Point""}",2021-06-28,10:02:53.,38.6935,-9.20633,GIRABIKE,203 - Padrão dos Descobrimentos
+3,113 - Alameda dos Oceanos/ Passeio do Levante,7,7,"{""coordinates"": [-9.09825, 38.78414], ""type"": ""Point""}",2021-07-04,11:11:49.,38.78414,-9.09825,GIRABIKE,113 - Alameda dos Oceanos/ Passeio do Levante
+4,443 - Av. de Roma / Fórum Lisboa,3,11,"{""coordinates"": [-9.13866, 38.74351], ""type"": ""Point""}",2021-07-04,11:11:50.,38.74351,-9.13866,GIRABIKE,443 - Av. de Roma / Fórum Lisboa
+5,104 - Gare do Oriente,5,35,"{""coordinates"": [-9.097322, 38.766716], ""type"": ""Point""}",2021-07-04,11:11:50.,38.766716,-9.097322,GIRABIKE,104 - Gare do Oriente
+6,403 - Av. Fontes Pereira de Melo,1,19,"{""coordinates"": [-9.146522, 38.731698], ""type"": ""Point""}",2021-07-04,11:11:50.,38.731698,-9.146522,GIRABIKE,403 - Av. Fontes Pereira de Melo
+7,106 - Jardim Garcia da Orta,7,7,"{""coordinates"": [-9.092506, 38.769459], ""type"": ""Point""}",2021-07-04,11:11:50.,38.769459,-9.092506,GIRABIKE,106 - Jardim Garcia da Orta
+8,479 - Rua Professor Oliveira Marques,3,12,"{""coordinates"": [-9.15724, 38.75491], ""type"": ""Point""}",2021-07-04,11:11:50.,38.75491,-9.15724,GIRABIKE,479 - Rua Professor Oliveira Marques
+9,426 - Av. Elias Garcia / Av. 5 de Outubro,6,8,"{""coordinates"": [-9.14793, 38.739046], ""type"": ""Point""}",2021-07-04,11:11:51.,38.739046,-9.14793,GIRABIKE,426 - Av. Elias Garcia / Av. 5 de Outubro
+10,481 - Campo Grande / Museu da Cidade,3,17,"{""coordinates"": [-9.156169, 38.758207], ""type"": ""Point""}",2021-07-04,11:11:52.,38.758207,-9.156169,GIRABIKE,481 - Campo Grande / Museu da Cidade
+11,478 - Alameda da Universidade / Faculdade de Letras,13,19,"{""coordinates"": [-9.15717, 38.75359], ""type"": ""Point""}",2021-07-04,11:11:52.,38.75359,-9.15717,GIRABIKE,478 - Alameda da Universidade / Faculdade de Letras
+12,430 - Av. Barbosa Du Bocage / Rua Arco do Cego,3,17,"{""coordinates"": [-9.14329, 38.74081], ""type"": ""Point""}",2021-07-04,11:11:53.,38.74081,-9.14329,GIRABIKE,430 - Av. Barbosa Du Bocage / Rua Arco do Cego
+13,414 - Av. Duque de Ávila / Rua Pinheiro Chagas,17,2,"{""coordinates"": [-9.151, 38.735], ""type"": ""Point""}",2021-07-04,11:11:53.,38.735,-9.151,GIRABIKE,414 - Av. Duque de Ávila / Rua Pinheiro Chagas
+14,475 - Av. Professor Gama Pinto / Cantina Velha,10,31,"{""coordinates"": [-9.15907, 38.75115], ""type"": ""Point""}",2021-07-04,11:11:53.,38.75115,-9.15907,GIRABIKE,475 - Av. Professor Gama Pinto / Cantina Velha
+15,301 - Avenida da Liberdade / Restauradores,12,10,"{""coordinates"": [-9.14242, 38.71702], ""type"": ""Point""}",2021-07-04,11:11:53.,38.71702,-9.14242,GIRABIKE,301 - Avenida da Liberdade / Restauradores
+16,105 - CC Vasco da Gama,14,26,"{""coordinates"": [-9.096222, 38.768548], ""type"": ""Point""}",2021-07-04,11:11:51.,38.768548,-9.096222,GIRABIKE,105 - CC Vasco da Gama
+17,222 - Praça da Figueira,16,14,"{""coordinates"": [-9.13828, 38.71383], ""type"": ""Point""}",2021-07-04,11:11:51.,38.71383,-9.13828,GIRABIKE,222 - Praça da Figueira
+18,408 - Praça Duque de Saldanha,2,8,"{""coordinates"": [-9.144117, 38.733749], ""type"": ""Point""}",2021-07-04,11:11:51.,38.733749,-9.144117,GIRABIKE,408 - Praça Duque de Saldanha
+19,433 - Av. Paris / Av. Almirante Reis,7,7,"{""coordinates"": [-9.13409, 38.74095], ""type"": ""Point""}",2021-07-04,11:11:51.,38.74095,-9.13409,GIRABIKE,433 - Av. Paris / Av. Almirante Reis
+20,449 - Av. 5 de Outubro / Rua da Cruz Vermelha,6,8,"{""coordinates"": [-9.150085, 38.746836], ""type"": ""Point""}",2021-07-04,11:11:51.,38.746836,-9.150085,GIRABIKE,449 - Av. 5 de Outubro / Rua da Cruz Vermelha
+21,406 - Praça Duque de Saldanha,2,15,"{""coordinates"": [-9.145341, 38.734247], ""type"": ""Point""}",2021-07-04,11:11:52.,38.734247,-9.145341,GIRABIKE,406 - Praça Duque de Saldanha
+22,457 - Rua Aboim Ascensão,3,7,"{""coordinates"": [-9.14722, 38.74975], ""type"": ""Point""}",2021-07-04,11:11:52.,38.74975,-9.14722,GIRABIKE,457 - Rua Aboim Ascensão
+23,218 - Cais do Sodré,9,13,"{""coordinates"": [-9.14471, 38.70617], ""type"": ""Point""}",2021-07-04,11:11:52.,38.70617,-9.14471,GIRABIKE,218 - Cais do Sodré
+24,224 - Martim Moniz,3,19,"{""coordinates"": [-9.13651, 38.71498], ""type"": ""Point""}",2021-07-04,11:11:52.,38.71498,-9.13651,GIRABIKE,224 - Martim Moniz
+25,474 - Av. do Brasil / Av. Rio de Janeiro,5,11,"{""coordinates"": [-9.1409, 38.75832], ""type"": ""Point""}",2021-07-04,11:11:52.,38.75832,-9.1409,GIRABIKE,474 - Av. do Brasil / Av. Rio de Janeiro
+26,416 - Av. República / Avenida Duque de Ávila,0,16,"{""coordinates"": [-9.14553, 38.735304], ""type"": ""Point""}",2021-07-04,11:11:52.,38.735304,-9.14553,GIRABIKE,416 - Av. República / Avenida Duque de Ávila
+27,480 - Faculdade de Ciências,17,8,"{""coordinates"": [-9.15503, 38.75587], ""type"": ""Point""}",2021-07-04,11:11:52.,38.75587,-9.15503,GIRABIKE,480 - Faculdade de Ciências
+28,428 - Av. República / Avenida Barbosa Du Bocage,1,11,"{""coordinates"": [-9.14684, 38.74047], ""type"": ""Point""}",2021-07-04,11:11:52.,38.74047,-9.14684,GIRABIKE,428 - Av. República / Avenida Barbosa Du Bocage
+29,401 - Rua Martens Ferrão / Av. Fontes Pereira de Melo,4,12,"{""coordinates"": [-9.14742, 38.72894], ""type"": ""Point""}",2021-07-04,11:11:53.,38.72894,-9.14742,GIRABIKE,401 - Rua Martens Ferrão / Av. Fontes Pereira de Melo
+30,413 - Av. Ressano Garcia / Av. António Augusto de Aguiar,9,1,"{""coordinates"": [-9.15425, 38.73432], ""type"": ""Point""}",2021-07-04,11:11:53.,38.73432,-9.15425,GIRABIKE,413 - Av. Ressano Garcia / Av. António Augusto de Aguiar
+31,477 - Alameda da Universidade / Faculdade de Direito,11,13,"{""coordinates"": [-9.15671, 38.75264], ""type"": ""Point""}",2021-07-04,11:11:53.,38.75264,-9.15671,GIRABIKE,477 - Alameda da Universidade / Faculdade de Direito
+32,461 - Rua Professora Teresa Ambrósio,9,23,"{""coordinates"": [-9.155564, 38.749141], ""type"": ""Point""}",2021-07-04,11:11:53.,38.749141,-9.155564,GIRABIKE,461 - Rua Professora Teresa Ambrósio
+33,208 - Cais das Pombas,8,14,"{""coordinates"": [-9.14373, 38.70523], ""type"": ""Point""}",2021-07-04,11:11:49.,38.70523,-9.14373,GIRABIKE,208 - Cais das Pombas
+34,112 - Alameda dos Oceanos / Passeio das Garças,1,13,"{""coordinates"": [-9.09622, 38.78069], ""type"": ""Point""}",2021-07-04,11:11:49.,38.78069,-9.09622,GIRABIKE,112 - Alameda dos Oceanos / Passeio das Garças
+35,109 - Alameda dos Oceanos / Rua Ilha dos Amores,0,14,"{""coordinates"": [-9.094672, 38.777589], ""type"": ""Point""}",2021-07-04,11:11:49.,38.777589,-9.094672,GIRABIKE,109 - Alameda dos Oceanos / Rua Ilha dos Amores
+36,456 - Entrecampos / Av. das Forças Armadas,27,14,"{""coordinates"": [-9.14872, 38.74877], ""type"": ""Point""}",2021-07-04,11:11:50.,38.74877,-9.14872,GIRABIKE,456 - Entrecampos / Av. das Forças Armadas
+37,103 - Jardim da Água,3,17,"{""coordinates"": [-9.095019, 38.761218], ""type"": ""Point""}",2021-07-04,11:11:50.,38.761218,-9.095019,GIRABIKE,103 - Jardim da Água
+38,110 - Rua de Moscavide,3,15,"{""coordinates"": [-9.097068, 38.778466], ""type"": ""Point""}",2021-07-04,11:11:50.,38.778466,-9.097068,GIRABIKE,110 - Rua de Moscavide
+39,102 - Porta do Mar,9,6,"{""coordinates"": [-9.096439, 38.759156], ""type"": ""Point""}",2021-07-04,11:11:50.,38.759156,-9.096439,GIRABIKE,102 - Porta do Mar
+40,214 - Largo de Santos,16,8,"{""coordinates"": [-9.15424, 38.70673], ""type"": ""Point""}",2021-07-04,11:11:51.,38.70673,-9.15424,GIRABIKE,214 - Largo de Santos
+41,412 - Av. Ressano Garcia / Av. António Augusto de Aguiar,10,6,"{""coordinates"": [-9.1546, 38.73448], ""type"": ""Point""}",2021-07-04,11:11:51.,38.73448,-9.1546,GIRABIKE,412 - Av. Ressano Garcia / Av. António Augusto de Aguiar
+42,114 - Via do Oriente,6,4,"{""coordinates"": [-9.09974, 38.78836], ""type"": ""Point""}",2021-07-04,11:11:51.,38.78836,-9.09974,GIRABIKE,114 - Via do Oriente
+43,486 - Rua Hermano Neves / Rua José Escada,3,11,"{""coordinates"": [-9.16985, 38.75954], ""type"": ""Point""}",2021-07-04,11:11:51.,38.75954,-9.16985,GIRABIKE,486 - Rua Hermano Neves / Rua José Escada
+44,490 - Rua Fernando Namora / Azinhaga da Torre do Fato,8,8,"{""coordinates"": [-9.17849, 38.76026], ""type"": ""Point""}",2021-07-04,11:11:51.,38.76026,-9.17849,GIRABIKE,490 - Rua Fernando Namora / Azinhaga da Torre do Fato
+45,420 - Av. Rovisco Pais / Av. Manuel da Maia,8,18,"{""coordinates"": [-9.13672, 38.73617], ""type"": ""Point""}",2021-07-04,11:11:52.,38.73617,-9.13672,GIRABIKE,420 - Av. Rovisco Pais / Av. Manuel da Maia
+46,207 - Av. Brasília / Santos {Rio},0,10,"{""coordinates"": [-9.151101, 38.705443], ""type"": ""Point""}",2020-04-15,14:19:12.,38.705443,-9.151101,GIRABIKE,207 - Av. Brasília / Santos {Rio}
+47,222 - Praça da Figueira,5,25,"{""coordinates"": [-9.13828, 38.71383], ""type"": ""Point""}",2020-09-24,10:32:47.,38.71383,-9.13828,GIRABIKE,222 - Praça da Figueira
+48,215 - Av. 24 de Julho,3,14,"{""coordinates"": [-9.14949, 38.70662], ""type"": ""Point""}",2020-09-24,10:32:43.,38.70662,-9.14949,GIRABIKE,215 - Av. 24 de Julho
+49,103-Jardim da Ã�gua,2,18,"{""coordinates"": [-9.095019, 38.761218], ""type"": ""Point""}",2020-09-23,16:12:26.,38.761218,-9.095019,GIRABIKE,103-Jardim da Ã�gua
+50,206 - Av. Brasília / Doca de Alcântara,3,19,"{""coordinates"": [-9.17502, 38.70141], ""type"": ""Point""}",2021-06-28,08:21:28.,38.70141,-9.17502,GIRABIKE,206 - Av. Brasília / Doca de Alcântara
+51,305 - Avenida da Liberdade / Rua Barata Salgueiro,6,10,"{""coordinates"": [-9.147, 38.72228], ""type"": ""Point""}",2021-07-04,11:11:49.,38.72228,-9.147,GIRABIKE,305 - Avenida da Liberdade / Rua Barata Salgueiro
+52,442 - Campo Pequeno,5,11,"{""coordinates"": [-9.14523, 38.743371], ""type"": ""Point""}",2021-07-04,11:11:49.,38.743371,-9.14523,GIRABIKE,442 - Campo Pequeno
+53,452 - Rua Teixeira de Pascoais / Rua Dr. Gama Barros,8,2,"{""coordinates"": [-9.136681, 38.747751], ""type"": ""Point""}",2021-07-04,11:11:49.,38.747751,-9.136681,GIRABIKE,452 - Rua Teixeira de Pascoais / Rua Dr. Gama Barros
+54,483 - Rua Professor Francisco Lucas Pires ,7,9,"{""coordinates"": [-9.16405, 38.75939], ""type"": ""Point""}",2021-07-04,11:11:50.,38.75939,-9.16405,GIRABIKE,483 - Rua Professor Francisco Lucas Pires 
+55,215 - Av. 24 de Julho,3,14,"{""coordinates"": [-9.14949, 38.70662], ""type"": ""Point""}",2021-07-04,11:11:50.,38.70662,-9.14949,GIRABIKE,215 - Av. 24 de Julho
+56,446 - Av. República / Interface Entrecampos ,15,26,"{""coordinates"": [-9.14773, 38.74456], ""type"": ""Point""}",2021-07-04,11:11:50.,38.74456,-9.14773,GIRABIKE,446 - Av. República / Interface Entrecampos 
+57,415 - Av. Duque de Ávila / Av. Conde Valbom,4,16,"{""coordinates"": [-9.148443, 38.735188], ""type"": ""Point""}",2021-07-04,11:11:51.,38.735188,-9.148443,GIRABIKE,415 - Av. Duque de Ávila / Av. Conde Valbom
+58,453 - Av. Roma / Av. EUA,0,14,"{""coordinates"": [-9.14207, 38.74873], ""type"": ""Point""}",2021-07-04,11:11:51.,38.74873,-9.14207,GIRABIKE,453 - Av. Roma / Av. EUA
+59,410 - Rua da Mesquita / Universidade Nova de Lisboa,26,14,"{""coordinates"": [-9.16015, 38.73492], ""type"": ""Point""}",2021-07-04,11:11:52.,38.73492,-9.16015,GIRABIKE,410 - Rua da Mesquita / Universidade Nova de Lisboa
+60,473 - Av. do Brasil / Av. de Roma,5,9,"{""coordinates"": [-9.14697, 38.75643], ""type"": ""Point""}",2021-07-04,11:11:53.,38.75643,-9.14697,GIRABIKE,473 - Av. do Brasil / Av. de Roma
+61,101 - Alameda dos Oceanos / Rua dos Argonautas,7,9,"{""coordinates"": [-9.096804, 38.756161], ""type"": ""Point""}",2021-07-04,11:11:50.,38.756161,-9.096804,GIRABIKE,101 - Alameda dos Oceanos / Rua dos Argonautas
+62,460 - Av. Rio de Janeiro / Parque de Jogos 1º de Maio,7,8,"{""coordinates"": [-9.13749, 38.75176], ""type"": ""Point""}",2021-07-04,11:11:51.,38.75176,-9.13749,GIRABIKE,460 - Av. Rio de Janeiro / Parque de Jogos 1º de Maio
+63,309 - Rua da Palma,0,10,"{""coordinates"": [-9.13577, 38.71901], ""type"": ""Point""}",2021-07-04,11:11:51.,38.71901,-9.13577,GIRABIKE,309 - Rua da Palma
+64,462 - Campo Grande / Biblioteca Nacional,13,16,"{""coordinates"": [-9.15031, 38.75027], ""type"": ""Point""}",2021-07-04,11:11:51.,38.75027,-9.15031,GIRABIKE,462 - Campo Grande / Biblioteca Nacional
+65,459 - Rua Maria Amália Vaz de Carvalho / ES Rainha D. Leonor,8,12,"{""coordinates"": [-9.141741, 38.751481], ""type"": ""Point""}",2021-07-04,11:11:51.,38.751481,-9.141741,GIRABIKE,459 - Rua Maria Amália Vaz de Carvalho / ES Rainha D. Leonor
+66,488 - Rua Fernando Namora / Rua António Quadros,7,13,"{""coordinates"": [-9.17526, 38.76014], ""type"": ""Point""}",2021-07-04,11:11:51.,38.76014,-9.17526,GIRABIKE,488 - Rua Fernando Namora / Rua António Quadros
+67,484 - Rua Professor Vieira de Almeida,10,12,"{""coordinates"": [-9.16658, 38.76081], ""type"": ""Point""}",2021-07-04,11:11:51.,38.76081,-9.16658,GIRABIKE,484 - Rua Professor Vieira de Almeida
+68,304 - Avenida da Liberdade / São Jorge,6,10,"{""coordinates"": [-9.14637, 38.72026], ""type"": ""Point""}",2021-07-04,11:11:52.,38.72026,-9.14637,GIRABIKE,304 - Avenida da Liberdade / São Jorge
+69,419 - Av. António José de Almeida / Instituto Superior Técnico,7,18,"{""coordinates"": [-9.13956, 38.73811], ""type"": ""Point""}",2021-07-04,11:11:52.,38.73811,-9.13956,GIRABIKE,419 - Av. António José de Almeida / Instituto Superior Técnico
+70,307 - Marquês de Pombal,9,24,"{""coordinates"": [-9.149334, 38.724954], ""type"": ""Point""}",2021-07-04,11:11:52.,38.724954,-9.149334,GIRABIKE,307 - Marquês de Pombal
+71,421 - Alameda D. Afonso Henriques,4,16,"{""coordinates"": [-9.13416, 38.73736], ""type"": ""Point""}",2021-07-04,11:11:52.,38.73736,-9.13416,GIRABIKE,421 - Alameda D. Afonso Henriques
+72,464 - Av. da Igreja / Rua Afonso Lopes Vieira,4,10,"{""coordinates"": [-9.148427, 38.75165], ""type"": ""Point""}",2021-07-04,11:11:52.,38.75165,-9.148427,GIRABIKE,464 - Av. da Igreja / Rua Afonso Lopes Vieira
+73,487 - Rua Professor João Barreira,10,4,"{""coordinates"": [-9.17096, 38.76136], ""type"": ""Point""}",2021-07-04,11:11:52.,38.76136,-9.17096,GIRABIKE,487 - Rua Professor João Barreira
+74,417 - Av. Duque de Ávila / Jardim Arco Do Cego,3,20,"{""coordinates"": [-9.142703, 38.735352], ""type"": ""Point""}",2021-07-04,11:11:53.,38.735352,-9.142703,GIRABIKE,417 - Av. Duque de Ávila / Jardim Arco Do Cego
+75,463 - Campo Grande / Av. da Igreja,3,7,"{""coordinates"": [-9.14951, 38.75243], ""type"": ""Point""}",2021-07-04,11:11:53.,38.75243,-9.14951,GIRABIKE,463 - Campo Grande / Av. da Igreja
+76,Avenida das Gaivotas - Rua dos Corvos,18,2,"{""coordinates"": [-9.180755, 38.769083], ""type"": ""Point""}",2020-09-24,10:52:51.,38.769083,-9.180755,GIRABIKE,Avenida das Gaivotas - Rua dos Corvos
+77,407 - Praça Duque de Saldanha,0,17,"{""coordinates"": [-9.14446, 38.73434], ""type"": ""Point""}",2021-07-04,11:11:50.,38.73434,-9.14446,GIRABIKE,407 - Praça Duque de Saldanha
+78,216 - Praça D. Luís I,6,15,"{""coordinates"": [-9.14655, 38.70663], ""type"": ""Point""}",2021-07-04,11:11:50.,38.70663,-9.14655,GIRABIKE,216 - Praça D. Luís I
+79,115 - Passeio dos Heróis do Mar / Rua Capitão Cook,4,9,"{""coordinates"": [-9.09781, 38.793], ""type"": ""Point""}",2021-07-04,11:11:50.,38.793,-9.09781,GIRABIKE,115 - Passeio dos Heróis do Mar / Rua Capitão Cook
+80,108 - Rua do Bojador,2,12,"{""coordinates"": [-9.09235, 38.774289], ""type"": ""Point""}",2021-07-04,11:11:50.,38.774289,-9.09235,GIRABIKE,108 - Rua do Bojador
+81,212 - Av. Infante Dom Henrique / Terminal de Cruzeiros,0,20,"{""coordinates"": [-9.12769, 38.71035], ""type"": ""Point""}",2021-07-04,11:11:50.,38.71035,-9.12769,GIRABIKE,212 - Av. Infante Dom Henrique / Terminal de Cruzeiros
+82,107 - Rotunda dos Vice-Reis,2,12,"{""coordinates"": [-9.095416, 38.774505], ""type"": ""Point""}",2021-07-04,11:11:50.,38.774505,-9.095416,GIRABIKE,107 - Rotunda dos Vice-Reis
+83,450 - Rua Alfredo Cortês,6,4,"{""coordinates"": [-9.14399, 38.74626], ""type"": ""Point""}",2021-07-04,11:11:51.,38.74626,-9.14399,GIRABIKE,450 - Rua Alfredo Cortês
+84,306 - Avenida da Liberdade / Rua Alexandre Herculano,4,12,"{""coordinates"": [-9.14854, 38.72281], ""type"": ""Point""}",2021-07-04,11:11:51.,38.72281,-9.14854,GIRABIKE,306 - Avenida da Liberdade / Rua Alexandre Herculano
+85,471 - Rua Lopes de Mendonça / EB São João de Brito,5,5,"{""coordinates"": [-9.137337, 38.756487], ""type"": ""Point""}",2021-07-04,11:11:51.,38.756487,-9.137337,GIRABIKE,471 - Rua Lopes de Mendonça / EB São João de Brito
+86,225 - Martim Moniz,7,9,"{""coordinates"": [-9.13694, 38.71526], ""type"": ""Point""}",2021-07-04,11:11:51.,38.71526,-9.13694,GIRABIKE,225 - Martim Moniz
+87,432 - Praça de Londres,3,7,"{""coordinates"": [-9.1377, 38.7407], ""type"": ""Point""}",2021-07-04,11:11:51.,38.7407,-9.1377,GIRABIKE,432 - Praça de Londres
+88,219 - Praça do Município,20,2,"{""coordinates"": [-9.13951, 38.70797], ""type"": ""Point""}",2021-07-04,11:11:52.,38.70797,-9.13951,GIRABIKE,219 - Praça do Município
+89,485 - Rua Tomás da Fonseca / Rua António Albino Machado,2,8,"{""coordinates"": [-9.17, 38.756], ""type"": ""Point""}",2021-07-04,11:11:52.,38.756,-9.17,GIRABIKE,485 - Rua Tomás da Fonseca / Rua António Albino Machado
+90,472 - Rua Marquês Soveral / ES Padre António Vieira,8,6,"{""coordinates"": [-9.13608, 38.75784], ""type"": ""Point""}",2021-07-04,11:11:52.,38.75784,-9.13608,GIRABIKE,472 - Rua Marquês Soveral / ES Padre António Vieira
+91,476 - Av. Professor Gama Pinto / Reitoria,12,11,"{""coordinates"": [-9.15885, 38.75231], ""type"": ""Point""}",2021-07-04,11:11:52.,38.75231,-9.15885,GIRABIKE,476 - Av. Professor Gama Pinto / Reitoria
+92,423 - Av. Conde Valbom / Rua Marquês Sá da Bandeira,4,6,"{""coordinates"": [-9.152295, 38.737911], ""type"": ""Point""}",2021-07-04,11:11:52.,38.737911,-9.152295,GIRABIKE,423 - Av. Conde Valbom / Rua Marquês Sá da Bandeira
+93,431 - Rua do Arco Cego / Av. Magalhães Lima,7,7,"{""coordinates"": [-9.14199, 38.73937], ""type"": ""Point""}",2021-07-04,11:11:52.,38.73937,-9.14199,GIRABIKE,431 - Rua do Arco Cego / Av. Magalhães Lima
+94,308 - Marquês de Pombal,7,4,"{""coordinates"": [-9.14969, 38.7246], ""type"": ""Point""}",2021-07-04,11:11:53.,38.7246,-9.14969,GIRABIKE,308 - Marquês de Pombal
+95,427 - Av. República / Av. Visconde Valmor,3,9,"{""coordinates"": [-9.14617, 38.73812], ""type"": ""Point""}",2021-07-04,11:11:53.,38.73812,-9.14617,GIRABIKE,427 - Av. República / Av. Visconde Valmor
+96,468 - Largo Frei Heitor Pinto,8,13,"{""coordinates"": [-9.13827, 38.75482], ""type"": ""Point""}",2021-07-04,11:11:53.,38.75482,-9.13827,GIRABIKE,468 - Largo Frei Heitor Pinto

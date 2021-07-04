@@ -1,0 +1,884 @@
+,X,Y,OBJECTID,COD_SIG,IDTIPO,MORADA,DESIGNACAO,TIPOLOGIA,SE_ANNO_CAD_DATA,GlobalID,_lat_,_lng_,_type_,_name_
+0,-9.14606908947091,38.7099629258795,1,4904,4,Travessa da Laranjeira,Fontanário na Travessa da Laranjeira,Fontanário,,2eb707a7-8791-4e39-9db9-cc13dcbf3bc2,0.0,0.0,,
+1,-9.2146783531818,38.7156940855157,2,4007,4,Rua Sam Levy(antigo Troço da Estrada de Caselas),Fontanário na Rua Sam Levy,Fontanário,,3f50e050-02ad-4b73-ba53-9fc3b57bcce7,0.0,0.0,,
+2,-9.12813441167303,38.7113079999168,3,4703,4,Largo do Chafariz de Dentro,Reservatório do Chafariz de Dentro,Reservatório,,49e8b3e0-efad-4be5-910a-ed24faa84341,0.0,0.0,,
+3,-9.14676193579502,38.7089222089291,4,4905,4,Largo de Santo Antoninho,Fontanário no Largo de Santo Antoninho,Fontanário,,98b49bb4-9743-4c8b-8c32-b339a253a7cf,0.0,0.0,,
+4,-9.15448657138105,38.7303708929669,5,5002,4,Alameda Cardeal Cerejeira,Lago do Monumento ao 25 de Abril de 1974,Lago,,259a03be-cf97-4fbd-97c4-e0efa1ba5ad2,0.0,0.0,,
+5,-9.12964541750678,38.7097181289075,6,5202,4,Travessa do Chafariz de El-Rei,Depósito do Chafariz d'El Rey,Reservatório,,d215905f-3cdc-43e9-94ac-26ac79d0586f,0.0,0.0,,
+6,-9.1452230848824,38.7178672592848,7,4510,4,Praça da Alegria,Lago do Jardim Alfredo Keil,Lago,,1b7fea54-bb11-49c4-9433-316e4b42fb81,0.0,0.0,,
+7,-9.13384624250759,38.7159650139069,8,5301,4,Rua da Guia,Fontanário da Rua da Guia,Fontanário,,b5bd6eb1-1154-4ea5-8c76-9b4b486cc141,0.0,0.0,,
+8,-9.15483988866377,38.7288785726626,9,5003,4,Parque Eduardo VII de Inglaterra,Lago da Estufa Fria,Lago,,a798949b-fa01-423b-ac0f-8f69a89acd2b,0.0,0.0,,
+9,-9.19461199926588,38.7427400840742,10,804,4,"Travessa de Francisco Rezende, Quinta da Fonte",Lago da Quinta da Fonte,,,198299df-e885-4813-9524-03c48d61a21d,0.0,0.0,,
+10,-9.1543454559314,38.7171117194583,11,4602,4,Rua do Arco a São Mamede,Chafariz da Rua do Arco a São Mamede,Chafariz,,e2929029-e067-4cc6-8350-480e561978d3,0.0,0.0,,
+11,-9.15708436084216,38.7580263821765,12,906,4,Campo Grande,Lago 1 no Museu da Cidade,Lago,,72f2559d-c58f-4255-840f-8fcd19b939ae,0.0,0.0,,
+12,-9.12256115585251,38.7158721081273,13,5107,4,Largo Dr. Bernardino António Gomes (Pai),Chafariz do Largo Dr. Bernardino António Gomes (Pai),Chafariz,,2b6d69ad-7205-40b8-b3d6-0d9568ce60f3,0.0,0.0,,
+13,-9.14874997129918,38.7097001046763,14,4903,4,Rua de Santa Catarina,Fontanário na Rua de Santa Catarina,Fontanário,,0a6e1959-7be3-46ea-9ad5-6e03a979bb46,0.0,0.0,,
+14,-9.12957851008613,38.7109962289977,15,4702,4,"Beco de São Miguel, Escadinhas de São Miguel",Chafariz das Escadinhas de São Miguel,Chafariz,,43e880f8-84b0-480d-882e-1a5eb547e5cd,0.0,0.0,,
+15,-9.15939980980951,38.7824942499611,16,502,4,Largo do Ministro,Fontanário no Largo do Ministro,Fontanário,,9c76e2ea-fb8a-439c-bcbb-3baca1ea735c,0.0,0.0,,
+16,-9.15570358467345,38.7212526459075,17,4604,4,Rua das Amoreiras,Reservatório da Mãe d'Água das Amoreiras,Reservatório,,a6ecbd4f-3a7f-42f4-9596-ae264108e643,0.0,0.0,,
+17,-9.2009714166056,38.750460324748,18,805,4,Estrada de Benfica,Chafariz das Garridas ou de Benfica,Chafariz,,d140dae6-ae16-4b29-be8d-f218bd162dae,0.0,0.0,,
+18,-9.12402019414711,38.7135065626157,19,5102,4,"Calçada do Forte, Rua dos Caminhos de Ferro",Bebedouro de Animais,Fontanário,,45cfed45-5b18-4187-aba0-b0f6cc5a83ef,0.0,0.0,,
+19,-9.12805386423308,38.7153045089401,20,5104,4,Telheiro de São Vicente,Fontanário no Jardim João Lopes,Fontanário,,ee3d9c1b-d82d-45aa-85a9-b87cdd9036e3,0.0,0.0,,
+20,-9.1776113582594,38.7331150103789,21,801,4,"Caminho Pedreiras, Parque Recreativo da Serafina",Lago do Barco do Parque Recreativo da Serafina,Lago,,c43375d1-94d1-43ac-943c-6215ba24ffd9,0.0,0.0,,
+21,-9.21488603379403,38.7157245109877,22,4006,4,Rua do Gabarete,Fontanário da Rua do Gabarete,Fontanário,,da279ab5-25cb-4d73-a5a6-31f2e95bac7f,0.0,0.0,,
+22,-9.13045495139306,38.7114796238739,23,4706,4,"Largo de Santa Luzia, (Miradouro)",Chafariz do Miradouro de Santa Luzia,Chafariz,,16826cfa-9d38-4bf3-bf69-2842b7a5de10,0.0,0.0,,
+23,-9.20757799102269,38.7247687087755,24,812,4,"Estrada da Circunvalação, Parque de Campismo de Monsanto",Lago na entrada do Parque de Campismo de Monsanto,Lago,,aa29307f-cf42-4bfa-bb29-47000ea0b7c0,0.0,0.0,,
+24,-9.12007685864609,38.7236070418795,25,4107,4,Alto Varejão,Chafariz do Alto do Varejão,Chafariz,,e42805c9-fd3f-41e0-aa06-ed6e8d043d86,0.0,0.0,,
+25,-9.19098029293019,38.7496095276913,26,809,4,Avenida do Colégio Militar,Lago na Avenida do Colégio Militar,Lago,,054b4db3-255c-4df3-ae1b-c1d47b2932f2,0.0,0.0,,
+26,-9.20228816265749,38.7489464325895,27,811,4,Alameda Padre Álvaro Proença,Lago na Alameda Padre Álvaro Proença,Lago,,356020ce-da54-4b7f-8407-da86de25b67b,0.0,0.0,,
+27,-9.15625918549019,38.7220755061763,28,4603,4,"Praça das Amoreiras, Jardim Marcelino Mesquita",Lago do Jardim Marcelino Mesquita,Lago,,357f45c2-9014-431f-9f25-c08b65c7ae13,0.0,0.0,,
+28,-9.15755453277369,38.7840298916134,29,503,4,Largo do Terreiro,Fontanário no Largo do Terreiro,Fontanário,,ac2beb87-981a-459f-9e7f-3ad944ac542e,0.0,0.0,,
+29,-9.12512438802298,38.714304989958,30,5105,4,Calçada do Cascão,Fontanário na Calçada do Cascão,Fontanário,,5249cddd-c2c5-4bfb-957c-7b9ada39a524,0.0,0.0,,
+30,-9.12821061216532,38.7150373322005,31,5101,4,"Largo de São Vicente, Arco Grande de Cima",Chafariz do Largo de São Vicente,Chafariz,,7d1432cc-cd5c-4b60-b101-d1be913d0c9f,0.0,0.0,,
+31,-9.11919454864539,38.7300048486498,32,4106,4,Parada do Alto de São João,Lago 2 do Cemitério do Alto de São João,Lago,,4bae1643-3d67-4350-b9be-8c0c8194342a,0.0,0.0,,
+32,-9.12948873155832,38.710147804963,33,4708,4,Rua da Judiaria,Chafariz da Rua da Judiaria,Chafariz,,d12c63ef-fe50-463d-90c8-18fe417fe36a,0.0,0.0,,
+33,-9.13493205505612,38.7205809057875,34,601,4,"Largo do Intendente Pina Manique, Rua do Benformoso",Lago do Largo do Intendente Pina Manique,Lago,,9fdb6060-da26-4078-b62b-f7b495ddedc0,0.0,0.0,,
+34,-9.19763560634134,38.7586045991383,35,864,4,Rua 19 do Cemitério de Benfica,Bica 35 no Cemitério de Benfica,Bica,,f0391bc4-79db-44d9-9266-5bd0fa970cbb,0.0,0.0,,
+35,-9.19828312008299,38.758507947202,36,866,4,Rua 17 do Cemitério de Benfica,Bica 37 no Cemitério de Benfica,Bica,,7f9f3f2c-3ae4-4f84-b1f6-3c22209886f4,0.0,0.0,,
+36,-9.1994688432574,38.7577430889421,37,869,4,Rua 3 do Cemitério de Benfica,Bica 40 no Cemitério de Benfica,Bica,,3898d596-499c-4613-bd70-dfe98e2e992a,0.0,0.0,,
+37,-9.20532734651998,38.6969284487376,38,3223,4,Praça do Império,Bebedouro 1 do Jardim da Praça do Império,Bebedouro,,0e8b0af0-b8fc-4752-b7d2-8518382a8ae7,38.6969284487376,-9.20532734651998,BEBEDOURO,Bebedouro 1 do Jardim da Praça do Império - Praça do Império
+38,-9.20481918573343,38.6956901406633,39,3224,4,Praça do Império,Bebedouro 2 do Jardim da Praça do Império,Bebedouro,,a14f8d61-a25e-4746-aa0a-2b48f8638ef0,38.6956901406633,-9.20481918573343,BEBEDOURO,Bebedouro 2 do Jardim da Praça do Império - Praça do Império
+39,-9.20671303467665,38.69521411788,40,3225,4,Praça do Império,Bebedouro 3 do Jardim da Praça do Império,Bebedouro,,9347a1f0-abc9-45be-9a3c-7395ee4dc1cf,38.69521411788,-9.20671303467665,BEBEDOURO,Bebedouro 3 do Jardim da Praça do Império - Praça do Império
+40,-9.20721605440484,38.6964506519805,41,3226,4,Praça do Império,Bebedouro 4 do Jardim da Praça do Império,Bebedouro,,fd3dd6a0-cb91-48c1-aa56-a2a6168dfefa,38.6964506519805,-9.20721605440484,BEBEDOURO,Bebedouro 4 do Jardim da Praça do Império - Praça do Império
+41,-9.13381285212848,38.7125476504461,42,1243,4,Castelo de São Jorge,Fontanário 8,Fontanário,,8cf2420c-ea37-48b4-a9b6-82feacb38ffe,0.0,0.0,,
+42,-9.19800913122637,38.708422205731,43,109,4,Calçada do Mirante à Ajuda,Chafariz na Calçada do Mirante à Ajuda,Chafariz,,2f0578d0-42b9-4c34-af1c-513f9b56b376,0.0,0.0,,
+43,-9.1642903954214,38.7355869242249,44,1015,4,Jardim Amnistia Internacional,Bebedouro 1 no Jardim da Amnistia,Bebedouro,,0a1f36d4-634f-42b4-8c91-ea375567e600,38.7355869242249,-9.1642903954214,BEBEDOURO,Bebedouro 1 no Jardim da Amnistia - Jardim Amnistia Internacional
+44,-9.16555337101534,38.7367299248602,45,1016,4,Jardim Amnistia Internacional,Bebedouro 2 no Jardim da Amnistia,Bebedouro,,07f6cb52-baf4-4840-8da4-81e7df0c2328,38.7367299248602,-9.16555337101534,BEBEDOURO,Bebedouro 2 no Jardim da Amnistia - Jardim Amnistia Internacional
+45,-9.16734856607575,38.7366574501441,46,1018,4,Avenida General Correia Barreto(antiga Radial de Benfica),Bebedouro junto ao Parque Infantil da Quinta José Pinto,Bebedouro,,cd921b8b-8437-4d06-9026-05cb909ba2e5,38.7366574501441,-9.16734856607575,BEBEDOURO,Bebedouro junto ao Parque Infantil da Quinta José Pinto - Avenida General Correia Barreto(antiga Radial de Benfica)
+46,-9.18623704629623,38.7738050479784,47,1130,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 12 Cemitério de Carnide,Bica,,570f714a-4ca4-4d6c-bea7-335909d890b9,0.0,0.0,,
+47,-9.18754436812244,38.7735550385413,48,1132,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 14 Cemitério de Carnide,Bica,,26c1730b-ff19-48aa-b78f-d7f86926f2c5,0.0,0.0,,
+48,-9.18541550373122,38.7749235825704,49,1136,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 18 Cemitério de Carnide,Bica,,0b6f6f99-811f-40ae-ace7-d75993aedd48,0.0,0.0,,
+49,-9.14791168234064,38.7771794950433,50,1312,4,Avenida Nuno Krus Abecassis(antiga Avenida 4 do Alto do Lumiar),"Furo de captação Parque Oeste, Vale Grande SS-01",Furo de captação,,6c48b8c0-b351-4544-80a2-030a91a98469,0.0,0.0,,
+50,-9.14995893927991,38.7777435134852,51,1313,4,Alameda da Música(antigo Arrua. Inte. da Malha 15 - Alto do Lumiar),"Furo de captação Parque Oeste, Vale Grande SS-02",Furo de captação,,9461a647-12f5-4c12-a278-82eae763ec9f,0.0,0.0,,
+51,-9.15389531643072,38.7806254465001,52,1314,4,Avenida Dr. José Salvado Sampaio,"Furo de captação Parque Oeste, Vale Grande SS-03",Furo de captação,,553ca965-dbcc-4f69-867b-89a73e772ada,0.0,0.0,,
+52,-9.15752733178688,38.7772121549422,53,1878,4,Eixo Norte-Sul,"Furo de captação Parque Oeste, Vale Grande SS-04",Furo de captação,,7bc430f8-b33b-4f7c-a0ed-3a010d35eb05,0.0,0.0,,
+53,-9.14882264680229,38.7727091398643,54,1316,4,Eixo Central(Alto do Lumiar),Furo de captação Eixo Central F2,Furo de captação,,507f6f56-c0bf-40d2-97e5-4f19002aa090,0.0,0.0,,
+54,-9.09111872762133,38.7797058960243,55,3383,4,Passeio do Tejo,Bebedouro 8 do Parque Tejo,Bebedouro,,1a0b6945-77bc-46eb-b0c4-2f9eb60e472c,38.7797058960243,-9.09111872762133,BEBEDOURO,Bebedouro 8 do Parque Tejo - Passeio do Tejo
+55,-9.18725099092707,38.743518877091,56,3933,4,Estrada do Barcal,Bebedouro 1 na Mata de São Domingos de Benfica,Bebedouro,,03170e0d-a9a4-4e9e-922c-c6ec07489d4d,38.743518877091,-9.18725099092707,BEBEDOURO,Bebedouro 1 na Mata de São Domingos de Benfica - Estrada do Barcal
+56,-9.18719193388366,38.7438248750588,57,3937,4,Estrada do Barcal,Bebedouro junto à Parede de Escalada da Mata de São Domingos de Benfica,Bebedouro,,c41c6146-0a6e-4647-b9dd-d9f6297dc28c,38.7438248750588,-9.18719193388366,BEBEDOURO,Bebedouro junto à Parede de Escalada da Mata de São Domingos de Benfica - Estrada do Barcal
+57,-9.1887902523698,38.7434772405046,58,3938,4,Estrada do Barcal,Bebedouro 3 na Mata de São Domingos de Benfica,Bebedouro,,26cb904e-c333-4385-ad6b-5dec59d9a696,38.7434772405046,-9.1887902523698,BEBEDOURO,Bebedouro 3 na Mata de São Domingos de Benfica - Estrada do Barcal
+58,-9.09312326158398,38.7870426214852,59,3368,4,Caminho dos Rouxinóis,Furo de Captação- Luso Ponte PS1,Furo de captação,,6e33748c-c2c5-4aaf-962e-5b56cc25a76a,0.0,0.0,,
+59,-9.09391095652739,38.7844694394749,60,3369,4,Passeio do Parque,Furo de Captação - Lote Hotel HS1,Furo de captação,,72ab5726-c6d1-4da3-894e-a75c19740a43,0.0,0.0,,
+60,-9.09896220223461,38.7602336278781,61,3370,4,Cabeço das Rolas,"Furo de captação PN - Cabeço das Rolas, rua do Corsário das Ilhas",Furo de captação,,0ecf2d01-328b-4076-afc7-ac0d814308b0,0.0,0.0,,
+61,-9.15015562181811,38.7519629365658,62,922,4,Campo Grande,Furo de captação Jardim do Campo Grande Sul ,Furo de captação,,6aeec56a-27a8-4b21-92cf-8f94ca9318b7,0.0,0.0,,
+62,-9.15325863277817,38.7554365524896,63,923,4,Campo Grande,Furo de captação Jardim do Campo Grande Norte,Furo de captação,,9c28d62a-128e-43d0-82ef-e2c4904df041,0.0,0.0,,
+63,-9.15480969359214,38.7297886785298,64,5019,4,Alameda Cardeal Cerejeira,"Furo de captação Estufa fria, Parque Eduardo VII",Furo de captação,,f2eab5dc-52c3-416c-9208-606f6f8e347e,0.0,0.0,,
+64,-9.16772665170748,38.7108525408919,65,2619,4,Calçada das Necessidades,"Furo de captação Tapada das Necessidades, zona N",Furo de captação,,64d11661-e25b-47f2-bd65-c333a8b90769,0.0,0.0,,
+65,-9.1079324705397,38.763838179301,66,3394,4,Rua 8 do Cemitério dos Olivais,Bica 9 no Cemitério dos Olivais,Bica,,27b53419-4760-4b98-a8ee-baa369859a89,0.0,0.0,,
+66,-9.10823500516108,38.7638779142092,67,3395,4,Rua 10 do Cemitério dos Olivais,Bica 10 no Cemitério dos Olivais,Bica,,385588ce-a44f-4c9c-bba5-bd81294094d0,0.0,0.0,,
+67,-9.1085155130917,38.7636201727531,68,3396,4,Rua 12 do Cemitério dos Olivais,Bica 11 no Cemitério dos Olivais,Bica,,901e6bcb-bbc5-4f9c-bc83-3ece7d3da5f5,0.0,0.0,,
+68,-9.10855413256408,38.7639141958987,69,3397,4,Rua 12 do Cemitério dos Olivais,Bica 12 no Cemitério dos Olivais,Bica,,cbd6da57-3748-4be6-b136-90490bc49057,0.0,0.0,,
+69,-9.10875177001143,38.7642973435067,70,33100,4,Rua 12 do Cemitério dos Olivais,Bica 14 no Cemitério dos Olivais,Bica,,78788642-965e-4a73-88f5-cc0800515a00,0.0,0.0,,
+70,-9.17869858745115,38.7344698254734,71,817,4,Caminho Pedreiras,Bebedouro 1 no Parque Recreativo do Alto da Serafina,Bebedouro,,9a788e83-5cea-4869-b392-f42d1b81e9fa,38.7344698254734,-9.17869858745115,BEBEDOURO,Bebedouro 1 no Parque Recreativo do Alto da Serafina - Caminho Pedreiras
+71,-9.17776504742811,38.7342719770087,72,818,4,Caminho Pedreiras,Bebedouro 2 no Parque Recreativo do Alto da Serafina,Bebedouro,,341abe1a-b234-4a07-885c-e0c454bb1748,38.7342719770087,-9.17776504742811,BEBEDOURO,Bebedouro 2 no Parque Recreativo do Alto da Serafina - Caminho Pedreiras
+72,-9.17792469152882,38.7339227984701,73,819,4,Caminho Pedreiras,Bebedouro 3 no Parque Recreativo do Alto da Serafina,Bebedouro,,a18ec8dc-40ab-4012-867a-8245f3c4982d,38.7339227984701,-9.17792469152882,BEBEDOURO,Bebedouro 3 no Parque Recreativo do Alto da Serafina - Caminho Pedreiras
+73,-9.17617675503888,38.7336912273836,74,820,4,Caminho Pedreiras,Bebedouro 4 no Parque Recreativo do Alto da Serafina,Bebedouro,,85229aca-ffb1-4024-844e-aff2744ab380,38.7336912273836,-9.17617675503888,BEBEDOURO,Bebedouro 4 no Parque Recreativo do Alto da Serafina - Caminho Pedreiras
+74,-9.14318155110984,38.7177715236478,75,4507,4,Avenida da Liberdade,Lago Nascente-Sul da Avenida da Liberdade,Lago,,9008c1c5-2c41-44bd-b1e9-a2f29bc77b1a,0.0,0.0,,
+75,-9.15371521948763,38.7573464983809,76,918,4,Campo Grande,Bebedouro 5 no Jardim do Campo Grande,Bebedouro,,f7cda3b1-463a-4472-9d12-040d331b0c71,38.7573464983809,-9.15371521948763,BEBEDOURO,Bebedouro 5 no Jardim do Campo Grande - Campo Grande
+76,-9.13962667768039,38.7229438370872,77,2407,4,Campo dos Mártires da Pátria,Bebedouro junto do Parque Infantil do Jardim Braancamp Freire,Bebedouro,,5394ea64-a94a-4fde-806c-e4159d3e015b,38.7229438370872,-9.13962667768039,BEBEDOURO,Bebedouro junto do Parque Infantil do Jardim Braancamp Freire - Campo dos Mártires da Pátria
+77,-9.14008801737602,38.7221852047908,78,2408,4,Campo dos Mártires da Pátria,Bebedouro no Jardim Braancamp Freire,Bebedouro,,e22c7e42-cf4e-4fbc-b557-c5a9da569985,38.7221852047908,-9.14008801737602,BEBEDOURO,Bebedouro no Jardim Braancamp Freire - Campo dos Mártires da Pátria
+78,-9.13490268463792,38.7246420624304,79,602,4,Avenida Almirante Reis,Bebedouro no Jardim António Feijó,Bebedouro,,3ab25062-66e4-4fff-a89f-188418456ba0,38.7246420624304,-9.13490268463792,BEBEDOURO,Bebedouro no Jardim António Feijó - Avenida Almirante Reis
+79,-9.13132039911758,38.7369487850231,80,4407,4,Alameda Dom Afonso Henriques,Bebedouro na Alameda Dom Afonso Henriques,Bebedouro,,b1a200eb-f339-47d3-b360-d0528f7cb5ab,38.7369487850231,-9.13132039911758,BEBEDOURO,Bebedouro na Alameda Dom Afonso Henriques - Alameda Dom Afonso Henriques
+80,-9.1439403032331,38.7179768241799,81,4508,4,Avenida da Liberdade,"Lago Poente-Norte (""O Douro"") da Avenida da Liberdade",Lago,,322f281e-55d0-4759-8a0e-a2519ddfed24,0.0,0.0,,
+81,-9.14495036534529,38.7434539145889,82,2306,4,Campo Pequeno,Bebedouro no Parque Infantil do Jardim Marquês de Marialva,Bebedouro,,c06d4833-d6cc-4a85-acb8-e5472efc06bb,38.7434539145889,-9.14495036534529,BEBEDOURO,Bebedouro no Parque Infantil do Jardim Marquês de Marialva - Campo Pequeno
+82,-9.14357519915555,38.737801840657,83,2307,4,Avenida de António José de Almeida,Bebedouro no Parque Infantil do Jardim Gomes de Amorim,Bebedouro,,3f908da1-2462-44f0-9fd9-f73ab52f856e,38.737801840657,-9.14357519915555,BEBEDOURO,Bebedouro no Parque Infantil do Jardim Gomes de Amorim - Avenida de António José de Almeida
+83,-9.09348345636852,38.7614693355653,84,3363,4,Passeio de Ulisses,Lago Ilha no Passeio de Ulisses,Lago,,20120ff9-0bae-411b-bb80-e274015a35b5,0.0,0.0,,
+84,-9.12107704737498,38.7697605560275,85,3373,4,Avenida de Berlim,Bebedouro no Parque Urbano dos Olivais,Bebedouro,,3633de07-aa9c-472a-917f-fb3714a30a94,38.7697605560275,-9.12107704737498,BEBEDOURO,Bebedouro no Parque Urbano dos Olivais - Avenida de Berlim
+85,-9.10878496186285,38.7723727453233,86,3374,4,Avenida Dr. Francisco Luís Gomes,Bebedouro junto ao Parque Infantil da Quinta Conde dos Arcos,Bebedouro,,4897420b-778b-462a-b8da-91c291ff9523,38.7723727453233,-9.10878496186285,BEBEDOURO,Bebedouro junto ao Parque Infantil da Quinta Conde dos Arcos - Avenida Dr. Francisco Luís Gomes
+86,-9.18652738988087,38.7741639819734,87,1134,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 16 Cemitério de Carnide,Bica,,be2aa993-a008-422e-a5f4-e47afa9bd828,0.0,0.0,,
+87,-9.1881697195277,38.7733957281361,88,1137,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 19 Cemitério de Carnide,Bica,,dd33be40-f126-4ffd-bd62-817a07941216,0.0,0.0,,
+88,-9.14655519392229,38.7788542473101,89,1315,4,Eixo Central(Alto do Lumiar),Furo de captação Eixo Central F1,Furo de captação,,aef6a1ec-3645-450e-a932-786e570898c0,0.0,0.0,,
+89,-9.12679291883169,38.7496547189758,90,2130,4,Avenida Dr. Arlindo Vicente(antiga Rua 1 da Zona N1 de Chelas),Bebedouro 2 no Parque da Belavista Central,Bebedouro,,390166e3-5865-4553-8327-bc7b425bf936,38.7496547189758,-9.12679291883169,BEBEDOURO,Bebedouro 2 no Parque da Belavista Central - Avenida Dr. Arlindo Vicente(antiga Rua 1 da Zona N1 de Chelas)
+90,-9.12788141374969,38.7509265268154,91,2131,4,Avenida Dr. Arlindo Vicente(antiga Rua 1 da Zona N1 de Chelas),Bebedouro 3 no Parque da Belavista Central,Bebedouro,,ea4a06ca-c49c-48cc-9c8f-9b008f15ebd5,38.7509265268154,-9.12788141374969,BEBEDOURO,Bebedouro 3 no Parque da Belavista Central - Avenida Dr. Arlindo Vicente(antiga Rua 1 da Zona N1 de Chelas)
+91,-9.12622195772196,38.7506235976817,92,2132,4,Avenida Dr. Arlindo Vicente(antiga Rua 1 da Zona N1 de Chelas),Bebedouro 4 no Parque da Belavista Central,Bebedouro,,96a071f5-9459-4fea-9f5d-7c79b6a171f8,38.7506235976817,-9.12622195772196,BEBEDOURO,Bebedouro 4 no Parque da Belavista Central - Avenida Dr. Arlindo Vicente(antiga Rua 1 da Zona N1 de Chelas)
+92,-9.12509456665051,38.7507471791866,93,2133,4,Avenida Dr. Arlindo Vicente(antiga Rua 1 da Zona N1 de Chelas),Bebedouro 5 no Parque da Belavista Central,Bebedouro,,95f762c5-23da-41f6-943f-25353087b814,38.7507471791866,-9.12509456665051,BEBEDOURO,Bebedouro 5 no Parque da Belavista Central - Avenida Dr. Arlindo Vicente(antiga Rua 1 da Zona N1 de Chelas)
+93,-9.1264430573679,38.7513357850103,94,2134,4,Avenida Dr. Arlindo Vicente(antiga Rua 1 da Zona N1 de Chelas),Bebedouro 6 no Parque da Belavista Central,Bebedouro,,0d589886-093b-41be-8abd-6157678f72d7,38.7513357850103,-9.1264430573679,BEBEDOURO,Bebedouro 6 no Parque da Belavista Central - Avenida Dr. Arlindo Vicente(antiga Rua 1 da Zona N1 de Chelas)
+94,-9.11894352432071,38.7656501275929,95,3371,4,Parque do Vale do Silêncio,Bebedouro 1 no Parque do Vale do Silêncio,Bebedouro,,1a05bb57-bb29-4e09-8d0a-372f66d7b1cf,38.7656501275929,-9.11894352432071,BEBEDOURO,Bebedouro 1 no Parque do Vale do Silêncio - Parque do Vale do Silêncio
+95,-9.11799946322907,38.7676222577558,96,3372,4,Parque do Vale do Silêncio,Bebedouro 2 no Parque do Vale do Silêncio,Bebedouro,,03c367e3-9361-4b1a-9a29-cb6bccb0e3e2,38.7676222577558,-9.11799946322907,BEBEDOURO,Bebedouro 2 no Parque do Vale do Silêncio - Parque do Vale do Silêncio
+96,-9.18216174199175,38.7387000380745,97,3935,4,Estrada do Barcal,Furo de captação Parque Florestal de Monsanto - SP1,Furo de captação,,89dfe7c9-758e-49e4-b4bd-97211e727af1,0.0,0.0,,
+97,-9.10710829591092,38.7445254022666,98,2125,4,Rua Pedro de Azevedo(antiga Rua C e Impasse C1 do Bairro da Prodac),Bebedouro na Quinta das Flores,Bebedouro,,bd4c36fc-da60-42dc-b929-33fdd2f21716,38.7445254022666,-9.10710829591092,BEBEDOURO,Bebedouro na Quinta das Flores - Rua Pedro de Azevedo(antiga Rua C e Impasse C1 do Bairro da Prodac)
+98,-9.1054109965552,38.7466091757492,99,2126,4,Azinhaga do Vale Fundão,Bebedouro no Parque Infantil da Quinta das Flores,Bebedouro,,70e18118-0ba7-4c49-8b97-5fcfd5039614,38.7466091757492,-9.1054109965552,BEBEDOURO,Bebedouro no Parque Infantil da Quinta das Flores - Azinhaga do Vale Fundão
+99,-9.18596884708161,38.7229590314613,100,243,4,Estrada do Alvito,Bebedouro no Parque de Merendas do Miradouro da Escarpa,Bebedouro,,9b3a09e0-4ac3-4c2b-be80-1b53ed7bbb2a,38.7229590314613,-9.18596884708161,BEBEDOURO,Bebedouro no Parque de Merendas do Miradouro da Escarpa - Estrada do Alvito
+100,-9.16993226366503,38.7228679632868,101,1007,4,Avenida Engenheiro Duarte Pacheco,Fonte no Miradouro da Belaflor,Fonte,,2524d4f1-ec64-4452-ae9a-d99835968561,0.0,0.0,,
+101,-9.17294052571879,38.7289024254268,102,1010,4,"Rua O do Bairro da Liberdade, junto ao 27-27A",Fontanário 1 na Vila Ferro ao Bairro da Liberdade,,,4820429f-aacd-4cea-a908-5903ba105bdd,0.0,0.0,,
+102,-9.17137815062382,38.7306640390538,103,1008,4,Rua dos Arcos,Fontanário na Rua dos Arcos,,,607d93e1-aae8-4dce-92e4-c7a5cfd77c09,0.0,0.0,,
+103,-9.17040209064343,38.7329844209976,104,1012,4,Escadinhas da Liberdade(antiga Rua D do Bairro da Liberdade),Fontanário das Escadinhas da Liberdade,,,f1d66647-9587-4eb9-8f06-13a679cf5a6a,0.0,0.0,,
+104,-9.1702407217774,38.7344973047728,105,1013,4,"Rua B do Bairro da Liberdade, junto ao 99",Poço no Bairro da Liberdade,,,a1e62153-9154-461d-a05d-422f14ebbdbc,0.0,0.0,,
+105,-9.13347093626335,38.7125552136913,106,1244,4,Castelo de São Jorge,Fontanário 9,Fontanário,,adbfaf97-ac46-4805-bc55-d397c39d5636,0.0,0.0,,
+106,-9.13330380739969,38.7129612501349,107,1246,4,Castelo de São Jorge,Fontanário 11,Fontanário,,a0ccda78-728d-46fd-b815-f5205b361f6c,0.0,0.0,,
+107,-9.13918973353294,38.7133674062361,108,3103,4,Praça D. Pedro IV,Fonte Sul da Praça Dom Pedro IV,Fonte,,ee11ef23-ac83-46ef-9252-e00cb31553f7,0.0,0.0,,
+108,-9.13049095676796,38.7372885740122,109,301,4,Alameda Dom Afonso Henriques,Fonte Monumental,Fonte,,a767a0cb-1a6b-434e-bb87-698ee8ca6644,0.0,0.0,,
+109,-9.21337115711972,38.6964216338423,110,3211,4,Rua Vila Correia,Lago dos Viveiros da Quinta de Vila Correia,Lago,,52eeb299-88f7-4826-a8e1-831201cffb1c,0.0,0.0,,
+110,-9.16246812513834,38.7192223530181,111,3003,4,Travessa de Cima dos Quartéis,Fontanário na T ravessa de Cima dos Quartéis,,,f985f9b6-55ca-4581-a705-e7bca02651fe,0.0,0.0,,
+111,-9.15066302173159,38.7389536786914,112,2305,4,Jardim Amélia Carvalheira,Bebedouro no Parque Infantil do Jardim Amélia Carvalheira,Bebedouro,,6b4fecc5-1e5a-436e-b43f-7f78e2f135d1,38.7389536786914,-9.15066302173159,BEBEDOURO,Bebedouro no Parque Infantil do Jardim Amélia Carvalheira - Jardim Amélia Carvalheira
+112,-9.15486634225227,38.7433241281355,113,2310,4,Rua Augusto Abelaira(antiga Rua Projectada A à Rua Sousa Lopes),Bebedouro na Rua Augusto Abeleira,Bebedouro,,b7c74e50-f9b2-4bf0-893d-121d05d0b6e8,38.7433241281355,-9.15486634225227,BEBEDOURO,Bebedouro na Rua Augusto Abeleira - Rua Augusto Abelaira(antiga Rua Projectada A à Rua Sousa Lopes)
+113,-9.19976522441909,38.6963886810745,114,3205,4,"Praça Afonso de Albuquerque, Jardim Afonso de Albuquerque",Lago Nascente Sul do Jardim Afonso de Albuquerque,Lago,,48a29fe3-f3bb-4220-aa8a-7468df485b1e,0.0,0.0,,
+114,-9.17437271696281,38.7717279648417,115,1826,4,"Alameda Mahatma Gandhi, Quinta de São Cristóvão",Lago 2 na Quinta de São Cristóvão,Lago,,a81be357-d329-4bb2-9adb-fd31fc4b5ae2,0.0,0.0,,
+115,-9.15051384929214,38.7276821666058,116,5015,4,Parque Eduardo VII de Inglaterra,Chafariz no Pq. Eduardo VII de Inglaterra,,,07acf367-015f-4c50-9dab-8c3c0abab92a,0.0,0.0,,
+116,-9.15515727603007,38.7132477456079,117,1718,4,Rua da Imprensa à Estrela,Lago no Jardim da Residência Oficial do Primeiro Ministro,,,4af7b555-f6ad-4bc8-9138-1bff324fd761,0.0,0.0,,
+117,-9.15509582856967,38.7128923366461,118,1719,4,Rua da Imprensa à Estrela,Fonte no Jardim da Residência Oficial do Primeiro Ministro,,,b11636d7-c8ed-4c35-9ac0-340beaeae4af,0.0,0.0,,
+118,-9.13742705119761,38.7308217749182,119,4404,4,Rua de Pascoal de Melo,Bebedouro no Jardim Constantino,Bebedouro,,4289ba20-f61e-47d3-9b88-b156977c5a2d,38.7308217749182,-9.13742705119761,BEBEDOURO,Bebedouro no Jardim Constantino - Rua de Pascoal de Melo
+119,-9.16854746753541,38.7603181717678,120,1875,4,Jardim Prof. António de Sousa Franco,Tanque da Esplanada - Telheiras,Tanque,,7a87af88-838d-4ccf-83d2-f7571e3006c0,0.0,0.0,,
+120,-9.1480091450574,38.7253474789238,121,1403,4,Rua Camilo Castelo Branco,Bebedouro na Rua Camilo Castelo Branco,Bebedouro,,d3bc032f-25f3-47f0-95b2-ab11367e8e50,38.7253474789238,-9.1480091450574,BEBEDOURO,Bebedouro na Rua Camilo Castelo Branco - Rua Camilo Castelo Branco
+121,-9.15516623582671,38.7286309574163,122,5009,4,Parque Eduardo VII de Inglaterra,Bebedouro 1 no Parque Eduardo VII de Inglaterra,Bebedouro,,3a1ae5de-f56e-4cee-aebc-539db6b1cb8f,38.7286309574163,-9.15516623582671,BEBEDOURO,Bebedouro 1 no Parque Eduardo VII de Inglaterra - Parque Eduardo VII de Inglaterra
+122,-9.15420228333971,38.7279817058948,123,5010,4,Parque Eduardo VII de Inglaterra,Bebedouro junto ao Parque Infantil do Parque Eduardo VII de Inglaterra,Bebedouro,,7bdfe55d-0211-4e2b-8ad2-6ef4bcf6cec7,38.7279817058948,-9.15420228333971,BEBEDOURO,Bebedouro junto ao Parque Infantil do Parque Eduardo VII de Inglaterra - Parque Eduardo VII de Inglaterra
+123,-9.1514236154012,38.7260652585744,124,5012,4,Parque Eduardo VII de Inglaterra,Bebedouro 2 no Parque Eduardo VII de Inglaterra,Bebedouro,,5955b4f9-ef8e-4f68-83b7-e161c72a4e81,38.7260652585744,-9.1514236154012,BEBEDOURO,Bebedouro 2 no Parque Eduardo VII de Inglaterra - Parque Eduardo VII de Inglaterra
+124,-9.15045725902253,38.7265761831586,125,5013,4,Parque Eduardo VII de Inglaterra,Bebedouro 3 no Parque Eduardo VII de Inglaterra,Bebedouro,,1d333522-ad72-454e-b88f-3fda5dcc7aa5,38.7265761831586,-9.15045725902253,BEBEDOURO,Bebedouro 3 no Parque Eduardo VII de Inglaterra - Parque Eduardo VII de Inglaterra
+125,-9.145151850277,38.7489701420366,126,919,4,Avenida dos Estados Unidos da América,Bebedouro na Av. Estados Unidos da América,Bebedouro,,d24ce2b1-0c8e-43ff-b799-385a95e7295c,38.7489701420366,-9.145151850277,BEBEDOURO,Bebedouro na Av. Estados Unidos da América - Avenida dos Estados Unidos da América
+126,-9.15125385627037,38.7274805654629,127,5014,4,Parque Eduardo VII de Inglaterra,Bebedouro 4 no Parque Eduardo VII de Inglaterra,Bebedouro,,c6feee32-903c-4559-8003-f524a4e43f13,38.7274805654629,-9.15125385627037,BEBEDOURO,Bebedouro 4 no Parque Eduardo VII de Inglaterra - Parque Eduardo VII de Inglaterra
+127,-9.15402965139663,38.7310843054219,128,5018,4,Alameda Cardeal Cerejeira,Bebedouro 1 no Jardim Amália Rodrigues,Bebedouro,,395a3922-ce36-4924-89fa-8a66c538044e,38.7310843054219,-9.15402965139663,BEBEDOURO,Bebedouro 1 no Jardim Amália Rodrigues - Alameda Cardeal Cerejeira
+128,-9.15494539848883,38.7313799433043,129,5017,4,Rua Marquês de Fronteira,Bebedouro 2 no Jardim Amália Rodrigues,Bebedouro,,7b9bcf13-5f31-43f3-ab7a-0885ec69aaee,38.7313799433043,-9.15494539848883,BEBEDOURO,Bebedouro 2 no Jardim Amália Rodrigues - Rua Marquês de Fronteira
+129,-9.18684958592889,38.7200353017462,130,235,4,Parque Florestal de Monsanto,Bebedouro 3 no Parque do Alvito,Bebedouro,,beb39175-ec22-4203-b84e-736690c3ebb5,38.7200353017462,-9.18684958592889,BEBEDOURO,Bebedouro 3 no Parque do Alvito - Parque Florestal de Monsanto
+130,-9.20950001023492,38.7121632199441,131,120,4,Largo Ocidental,Bebedouro no Parque Infantil do Largo Ocidental,Bebedouro,,2c10a880-434f-4425-8942-9731d2445927,38.7121632199441,-9.20950001023492,BEBEDOURO,Bebedouro no Parque Infantil do Largo Ocidental - Largo Ocidental
+131,-9.1858967887211,38.7020777461087,132,227,4,Rua Filipe Vaz,Fontanário 2 da Rua Filipe Vaz,,,00065c06-731f-4e17-984b-9dcc1ef64f9c,0.0,0.0,,
+132,-9.10902476622962,38.7511180492212,133,2124,4,Rua Prof. Lopo de Carvalho(antiga Rua I-20 da Malha I de Chelas),Bebedouro 1 no Parque do Vale Fundão,Bebedouro,,4219b7a8-f0ab-4335-bbf4-450b78666a05,38.7511180492212,-9.10902476622962,BEBEDOURO,Bebedouro 1 no Parque do Vale Fundão - Rua Prof. Lopo de Carvalho(antiga Rua I-20 da Malha I de Chelas)
+133,-9.16612557090187,38.7719595148193,134,18124,4,Rua 14 do Cemitério do Lumiar,Fontanário 24 no Cemitério do Lumiar,Fontanário,,5206d704-8226-48cf-9720-aa228d9f65a7,0.0,0.0,,
+134,-9.16643467759788,38.7719289333052,135,18125,4,Rua 13 do Cemitério do Lumiar,Fontanário 25 no Cemitério do Lumiar,Fontanário,,99f22468-c181-4aa4-a4f3-bb5be8748867,0.0,0.0,,
+135,-9.16724242204011,38.7719819811755,136,18127,4,Rua 16 do Cemitério do Lumiar,Fontanário 27 no Cemitério do Lumiar,Fontanário,,ae06be1f-523d-4f5e-8f0f-72ed156114ca,0.0,0.0,,
+136,-9.16770493852874,38.7721153917409,137,18128,4,Rua 18 do Cemitério do Lumiar,Fontanário 28 no Cemitério do Lumiar,Fontanário,,bacf349b-a423-4663-8325-f721bd2ce400,0.0,0.0,,
+137,-9.16751211964459,38.7716523375701,138,18129,4,Rua 14 do Cemitério do Lumiar,Fontanário 29 no Cemitério do Lumiar,Fontanário,,01b83811-07d0-4086-8463-8404c328de4c,0.0,0.0,,
+138,-9.16796572664224,38.7715407903149,139,18130,4,Rua 14 do Cemitério do Lumiar,Fontanário 30 no Cemitério do Lumiar,Fontanário,,95d50f56-c103-4e44-8b4c-21db10a55c51,0.0,0.0,,
+139,-9.16831877353207,38.7715943882644,140,18131,4,Rua 12 do Cemitério do Lumiar,Fontanário 31 no Cemitério do Lumiar,Fontanário,,e33a6d88-7899-47c4-8069-d5a59f9de380,0.0,0.0,,
+140,-9.16843422321574,38.7718462479412,141,18132,4,Rua 16A do Cemitério do Lumiar,Fontanário 32 no Cemitério do Lumiar,Fontanário,,3a53aeb5-5d09-45f0-b4b4-604ad163c229,0.0,0.0,,
+141,-9.16816574013354,38.7720047759963,142,18133,4,Rua 14A do Cemitério do Lumiar,Fontanário 33 no Cemitério do Lumiar,Fontanário,,0fa48fce-5fa0-4d6a-b08b-42a4f0b35e8e,0.0,0.0,,
+142,-9.16856562069069,38.7721022192735,143,18134,4,Rua 18A do Cemitério do Lumiar,Fontanário 34 no Cemitério do Lumiar,Fontanário,,20c36e92-53a2-4b91-b778-15eae8a76cba,0.0,0.0,,
+143,-9.16864435712701,38.7725801980092,144,18136,4,Rua 25 do Cemitério do Lumiar,Fontanário 36 no Cemitério do Lumiar,Fontanário,,870f2ace-725b-4214-b5a7-c9e167cdadc1,0.0,0.0,,
+144,-9.1698118157551,38.773488862351,145,18140,4,Rua 20 do Cemitério do Lumiar,Fontanário 40 no Cemitério do Lumiar,Fontanário,,065af8fb-0f65-40fb-9f00-96f78a170091,0.0,0.0,,
+145,-9.14353908059292,38.7867519770053,146,1302,4,Campo das Amoreiras(antigo Largo da Charneca),Lago 2 do Jardim do Campo das Amoreiras,Lago,,bec8bb13-60dc-43fa-866e-352231cb7272,0.0,0.0,,
+146,-9.16242711974057,38.730222250781,147,1002,4,Rua de Campolide,Chafariz de Campolide,Chafariz,,ae21a20b-293a-4f66-ac8f-a1a244a02fba,0.0,0.0,,
+147,-9.17159963385038,38.7349719868914,148,1005,4,Rua Inácio Pardelhas Sanchez(antiga Rua A do Bairro da Liberdade),Fontanário 1 na Rua Inácio Pardelhas Sanchez,Fontanário,,f5da8d97-2bda-42be-8dcf-e6fc003a9b78,0.0,0.0,,
+148,-9.17098938941328,38.7344677169632,149,1006,4,Rua Inácio Pardelhas Sanchez(antiga Rua A do Bairro da Liberdade),Fontanário 2 na Rua Inácio Pardelhas Sanchez,Fontanário,,9004cc56-e331-44cc-9f0d-a2539b662c0c,0.0,0.0,,
+149,-9.17400056200858,38.7286433607295,150,1011,4,"Rua Particular 2 do Bairro da Liberdade, em frente ao 708",Fontanário 2 na Vila Ferro ao Bairro da Liberdade,,,7a4b5395-04a7-432d-8d93-1180b07c35db,0.0,0.0,,
+150,-9.20037507988569,38.7042178862234,151,102,4,"Largo da Paz, frente ao nº 20",Chafariz do Largo da Paz,Chafariz,,65c30a1e-b454-4faa-a21c-3330935a9220,0.0,0.0,,
+151,-9.10821849682109,38.753100065074,152,2122,4,"Rua Dr. José Espírito Santo(antiga Rua I4 da Malha I de Chelas), Vale Fundão",Poço 1 no Vale Fundão,Poço,,d646316c-9740-470d-b884-c874781b4ce1,0.0,0.0,,
+152,-9.12371386773688,38.7489245271608,153,2123,4,Avenida Dr. Arlindo Vicente(antiga Rua 1 da Zona N1 de Chelas),Poço do Parque da Bela Vista Norte - Polidesportivo,Poço,,8de181bb-b852-42f9-a7e5-2e5192817d0c,0.0,0.0,,
+153,-9.14006496480921,38.72099718186,154,2402,4,"Campo dos Mártires da Pátria, Jardim Braancamp Freire",Lago Sul do Jardim Braancamp Freire,Lago,,9115ca23-85aa-4f6f-b492-477114aed25d,0.0,0.0,,
+154,-9.17592600110709,38.7106045049864,155,220,4,Rua da Cruz a Alcântara,Fontanário da Estrangeira,Fontanário,,a9c2a0be-c30a-4ca6-ba7e-6522af23ca5f,0.0,0.0,,
+155,-9.13016983330841,38.7109799813337,156,4704,4,Rua da Adiça,Chafariz da Rua da Adiça,Chafariz,,984b3019-2769-402b-bf39-a50f27b16bc1,0.0,0.0,,
+156,-9.18751644938175,38.7057622427116,157,215,4,Travessa dos Moinhos,Chafariz da Travessa dos Moinhos,Chafariz,,c349a38e-ac8d-4967-b953-dbc9fbff5efc,0.0,0.0,,
+157,-9.15048184860678,38.736657565061,158,2301,4,Avenida Conde de Valbom,Fonte da Avenida Conde de Valbom,Fonte,,1b0ec85a-90ae-4b6e-a80d-cf537c493296,0.0,0.0,,
+158,-9.13034307341095,38.7117852922562,159,4707,4,"Largo de Santa Luzia, Jardim Júlio de Castilho",Chafariz do Jardim Júlio de Castilho,Chafariz,,ac6994db-3d80-44e7-816b-cf4a760b9f5f,0.0,0.0,,
+159,-9.14478941868742,38.7077331285458,160,4902,4,Praça de São Paulo,Chafariz de São Paulo,Chafariz,,afa5384e-ec78-4369-a717-82afe21552c3,0.0,0.0,,
+160,-9.13994060293957,38.7218233657384,161,2403,4,"Campo dos Mártires da Pátria, Jardim Braancamp Freire",Lago Norte do Jardim Braancamp Freire,Lago,,ec15110f-0fd8-4b4e-8550-c846ad829a65,0.0,0.0,,
+161,-9.21322756321819,38.6968334576757,162,3212,4,Rua Vila Correia,Tanque dos Viveiros da Quinta de Vila Correia,Tanque,,072475e7-8582-45ff-add2-66af69b210e9,0.0,0.0,,
+162,-9.09555935339565,38.7626123652826,163,3348,4,Largo Diogo Cão ao Parque das Nações,Fonte à entrada do Pavilhão do Conhecimento/Ciência Viva,,,42b04620-af40-459a-a7ac-e8c5b3110259,0.0,0.0,,
+163,-9.14806841949311,38.7087186748143,164,4901,4,"Rua da Boavista, nº 32",Bica dos Olhos,Chafariz,,4784af92-8172-4bfe-8820-2323541dcd02,0.0,0.0,,
+164,-9.20630388709905,38.6954268968078,165,3208,4,"Praça do Império, Jardim",Lago Poente do Jardim da Praça do Império,Lago,,bf6ad196-a73a-407c-af00-99cd57606ba4,0.0,0.0,,
+165,-9.13547973003706,38.7410208911731,166,4310,4,Praça Pasteur,Bebedouro na Praça Pasteur,Bebedouro,,8f8dba51-675e-4091-b7a9-58226e40e54a,38.7410208911731,-9.13547973003706,BEBEDOURO,Bebedouro na Praça Pasteur - Praça Pasteur
+166,-9.1563955021396,38.7218852858662,167,4606,4,Praça das Amoreiras,Bebedouro no Jardim Marcelino Mesquita,Bebedouro,,e502fd30-63b4-434d-a5c4-0c8e81eadbbb,38.7218852858662,-9.1563955021396,BEBEDOURO,Bebedouro no Jardim Marcelino Mesquita - Praça das Amoreiras
+167,-9.15172590388421,38.7540528966326,168,916,4,Campo Grande,Bebedouro 3 no Jardim do Campo Grande,Bebedouro,,1bfaf0b3-5c2c-4d76-acee-26103d9a78c9,38.7540528966326,-9.15172590388421,BEBEDOURO,Bebedouro 3 no Jardim do Campo Grande - Campo Grande
+168,-9.15304048409793,38.7552652947099,169,917,4,Campo Grande,Bebedouro 4 no Jardim do Campo Grande,Bebedouro,,d5983f8a-bd4c-4e57-bbc1-fe6445ea9b79,38.7552652947099,-9.15304048409793,BEBEDOURO,Bebedouro 4 no Jardim do Campo Grande - Campo Grande
+169,-9.14940167029171,38.750302270756,170,914,4,Campo Grande,Bebedouro 1 no Jardim do Campo Grande,Bebedouro,,b71bbf22-9967-414d-b980-3dcee63b2a91,38.750302270756,-9.14940167029171,BEBEDOURO,Bebedouro 1 no Jardim do Campo Grande - Campo Grande
+170,-9.15932216931781,38.7407493346869,171,2311,4,Rua Filipe da Mata,Bebedouro no Parque Desportivo da Junta de Freguesia ,Bebedouro,,a05e7abb-6f92-4b9b-a810-567331b14c1e,38.7407493346869,-9.15932216931781,BEBEDOURO,Bebedouro no Parque Desportivo da Junta de Freguesia  - Rua Filipe da Mata
+171,-9.15130886191185,38.7374571169409,172,2304,4,Avenida Conde de Valbom,Bebedouro na Av. Conde de Valbom,Bebedouro,,d8259734-852c-463e-acde-c0d0cb92a04f,38.7374571169409,-9.15130886191185,BEBEDOURO,Bebedouro na Av. Conde de Valbom - Avenida Conde de Valbom
+172,-9.10788632767679,38.7527938126251,173,2121,4,"Rua Dr. José Espírito Santo(antiga Rua I4 da Malha I de Chelas), Vale Fundão",Poço 2 no Vale Fundão,Poço,,2f5b2c5a-2b17-40d6-aa0f-f11d29de654c,0.0,0.0,,
+173,-9.18911718972586,38.706032646532,174,214,4,Rua Dom João de Castro,Fontanário na Rua Dom João de Castro,Fontanário,,cfb9f1c8-3d08-4ab9-885a-0e1730c39175,0.0,0.0,,
+174,-9.16541857880696,38.7241181725664,175,1001,4,"Rua do Arco do Carvalhão, frente ao nº 44",Chafariz do Alto do Carvalhão,Chafariz,,fcfe6b21-baf8-462e-8b5d-e83e7156cfda,0.0,0.0,,
+175,-9.19487424175181,38.7045409424088,176,125,4,Travessa Nova de Dom Vasco,Fontanário na Travessa Nova Dom Vasco,Fontanário,,1c1e80d3-4bed-4ad1-86df-f26c356fb336,0.0,0.0,,
+176,-9.19628148049215,38.705701331399,177,118,4,Rua de Dom Vasco,Fontanário na Rua de Dom Vasco,Fontanário,,26f86580-77b3-403c-ad86-e5772c8720bd,0.0,0.0,,
+177,-9.16526079871046,38.7598883904287,178,1870,4,Estrada de Telheiras,Lago do Palacete,Lago,,e2e3bf6f-c103-400e-883b-91721c41f635,0.0,0.0,,
+178,-9.1742056033705,38.7709416255594,179,1812,4,"Alameda Mahatma Gandhi, Quinta de São Cristóvão",Tanque dos Viveiros da Quinta de São Cristóvão,Tanque,,399c0397-78ad-4611-869b-0e25b14799be,0.0,0.0,,
+179,-9.16538790223832,38.7603203621714,180,1876,4,Rua Professor Francisco Gentil(antiga Rua 7 da Zona de Telheiras),Poço com Nora no Solar da Quinta de Santana e Lago na Alameda das Águas,Poço,,4a62ff28-af20-4f9a-8183-6e743667c0e6,0.0,0.0,,
+180,-9.16599083977893,38.7601881637987,181,1874,4,Rua Professor Francisco Gentil(antiga Rua 7 da Zona de Telheiras),Lago na Praça das Artes,Lago,,c1c39bb4-ceb6-42a9-9231-79bb5a7b3ff7,0.0,0.0,,
+181,-9.17205174066151,38.7733461809811,182,1820,4,Rua Direita ao Lumiar,Chafariz da Rua Direita do Paço do Lumiar,Chafariz,,6e8c0bd5-e11a-4285-bc45-c8d6cc13d539,0.0,0.0,,
+182,-9.13401951315284,38.7138666809206,183,1203,4,Castelo de São Jorge,Tanque com bica 3,Tanque,,f6606819-9248-4470-8385-9080700f2649,0.0,0.0,,
+183,-9.16749706208381,38.7602892068774,184,1872,4,Rua Professor Francisco Gentil(antiga Rua 7 da Zona de Telheiras),Poço com Tanque no Jardim da Nora,Poço,,b24b06ea-9aae-46d2-83b8-d0c163616e3d,0.0,0.0,,
+184,-9.20236566121535,38.716794797647,185,101,4,Pista do Miradouro dos Montes Claros((Parque Florestal de Monsanto)),Lago - Miradouro de Montes Claros,Lago,,d4cdddfd-0eb8-48a1-a523-905d164f9ebd,0.0,0.0,,
+185,-9.17261770803662,38.7307362619674,186,1009,4,"Travessa da Capela Velha, junto ao edifício 253C",Fontanário na Travessa da Capela Velha,,,4b3045e8-a3d3-49ae-afa4-d45eca165912,0.0,0.0,,
+186,-9.16506400747612,38.7601265339509,187,1873,4,Estrada de Telheiras,Chafariz com Tanque no Horto/Garden Center,,,27c85d9c-1241-4719-9be6-be718a86afe2,0.0,0.0,,
+187,-9.15290838234383,38.7706248669356,188,1840,4,"Alameda das Linhas de Torres, Quinta das Conchas",Queda de Água na Quinta das Conchas,Queda de água,,8be6881d-bb97-4c3f-9b12-8a3a518d4db4,0.0,0.0,,
+188,-9.19874507871782,38.7534805799393,189,816,4,"Rua Dr. João de Barros, Rua Abel Manta",Lago na Rua Dr. João de Barros/Rua Abel Manta,Lago,,fa264a81-4f32-4775-8905-7cd7acc8c834,0.0,0.0,,
+189,-9.20704032507064,38.7535285359361,190,815,4,"Rua das Pedralvas(antiga Rua A da Quinta das Pedralvas), Rua Lucília Simões",Lago na Rua das Pedralvas/Rua Lucília Simões,Lago,,4dd042e1-2533-4d1f-800c-632e876d2685,0.0,0.0,,
+190,-9.15654970424632,38.7580323609725,191,907,4,Campo Grande,Lago 2 no Museu da Cidade,Lago,,ce00b0c5-7a77-4ee8-9012-ac0b4aca3a57,0.0,0.0,,
+191,-9.20593526881209,38.7540091666624,192,810,4,Rua das Pedralvas(antiga Rua A da Quinta das Pedralvas),Lago na Rua das Pedralvas,Lago,,bae0d523-5e49-4894-a77d-35a91a11c6b2,0.0,0.0,,
+192,-9.15628361427602,38.7581137545081,193,908,4,Campo Grande,Lago 3 no Museu da Cidade,Lago,,5d122b3c-3c36-430c-bef3-bb30dfad7a03,0.0,0.0,,
+193,-9.14154890889504,38.7191470121441,194,4504,4,Rua Júlio de Andrade,Tanque ornamental setecentista,Lago,,02e64012-4816-4c48-9f9f-10eb66e3469d,0.0,0.0,,
+194,-9.17980020316215,38.7216226045162,195,208,4,"Estrada da Pimenteira, Quinta da Pimenteira",Tanque 4 dos Viveiros da Quinta da Pimenteira,Tanque,,09899157-6a86-47f8-9bf2-e73cabc5ac5e,0.0,0.0,,
+195,-9.20486771182677,38.7484417491971,196,807,4,"Avenida Grão Vasco, Parque Silva Porto",Lago do Parque Silva Porto,Lago,,b53c7899-86e0-4653-9057-a31d260b44ca,0.0,0.0,,
+196,-9.14419818619499,38.7513703945138,197,903,4,Rua Alberto de Oliveira,Lago 1 do Palácio dos Coruchéus,Lago,,4dd9ebab-9038-4591-bc64-2482870650db,0.0,0.0,,
+197,-9.20754245456838,38.7253357289073,198,813,4,"Estrada da Circunvalação, Parque de Campismo de Monsanto",Lago no Parque de Campismo de Monsanto,Lago,,153c90f5-32a7-4583-a269-b761963efa75,0.0,0.0,,
+198,-9.15664253884273,38.7583654390154,199,905,4,Campo Grande,Chafariz no Pátio do Jardim do Museu da Cidade,Chafariz,,9a876923-5c2f-4a39-8c4c-27275f7634f3,0.0,0.0,,
+199,-9.11404661816244,38.7286475865032,200,705,4,Calçada da Picheleira,Fontanário 1 na Calçada da Picheleira,Fontanário,,104e5c59-0597-4c48-9bb9-37814ea607d3,0.0,0.0,,
+200,-9.20066240692764,38.7368485777868,201,814,4,"Vila Guiné(Estrada de Monsanto, 78A)",Poço na Vila Guiné,Poço,,57ceb737-292f-4d35-b362-3924c12e5663,0.0,0.0,,
+201,-9.1567441643525,38.7587336363022,202,911,4,Campo Grande,Poço da Nora no Museu da Cidade,Poço,,38432c27-7673-4f85-8456-1193c3e266d2,0.0,0.0,,
+202,-9.12373315815932,38.7374393015083,203,707,4,"Calçada da Picheleira, Calçada do Carrascal",Fontanário na Calçada da Picheleira/Calçada do Carrascal,Fontanário,,479b877a-e2cb-4db0-a8b4-e2f5dff59ff9,0.0,0.0,,
+203,-9.14388897170112,38.7510665102827,204,904,4,Rua Alberto de Oliveira,Lago 2 do Palácio dos Coruchéus,Lago,,1d1ce7e9-d6ec-480f-beb0-6d3838d0bb1a,0.0,0.0,,
+204,-9.15146542119789,38.7556937560772,205,913,4,Campo Grande,Fontanário no Campo Grande,Fontanário,,09cf0254-5eee-4a98-87eb-c4fdd7a947cd,0.0,0.0,,
+205,-9.15677002235795,38.7586827038887,206,912,4,Campo Grande,Tanque no Museu da Cidade,Tanque,,39198be9-3565-44d0-8b79-ae01812b28c9,0.0,0.0,,
+206,-9.15654764979926,38.7587635797165,207,909,4,Campo Grande,Lago 4 no Museu da Cidade,Lago,,c869ace3-91a7-41ba-96ff-c170b6153b0c,0.0,0.0,,
+207,-9.19505204619431,38.7424903903873,208,803,4,"Travessa de Francisco Rezende, Quinta da Fonte",Tanque da Quinta da Fonte,Tanque,,bd3a0e82-a3be-42ad-8ae8-c9e2ecaa7593,0.0,0.0,,
+208,-9.14409301503477,38.7479469967783,209,404,4,Praça Andrade Caminha,Bebedouro no Parque Infantil da Praça Andrade Caminha,Bebedouro,,32c51465-18ee-485e-9e46-df80b43f2cbf,38.7479469967783,-9.14409301503477,BEBEDOURO,Bebedouro no Parque Infantil da Praça Andrade Caminha - Praça Andrade Caminha
+209,-9.13694456426187,38.7462820625618,210,405,4,Rua Teixeira de Pascoais,Bebedouro no Parque Infantil da Rua Teixeira de Pascoais ,Bebedouro,,bf64d5b2-36f9-4457-a5b8-36e37504c1fe,38.7462820625618,-9.13694456426187,BEBEDOURO,Bebedouro no Parque Infantil da Rua Teixeira de Pascoais  - Rua Teixeira de Pascoais
+210,-9.1385493838557,38.7411706845081,211,4308,4,Praça de Londres,Bebedouro junto do Parque Infantil da Praça de Londres,Bebedouro,,4c069377-4ed1-4595-83ab-2cb5c2839d3c,38.7411706845081,-9.1385493838557,BEBEDOURO,Bebedouro junto do Parque Infantil da Praça de Londres - Praça de Londres
+211,-9.13635466936088,38.7429768673932,212,4304,4,Autoparque Roma,Bebedouro no Jardim Fernando Pessa ,Bebedouro,,2bb2e653-6de5-4495-ae30-efe4e6c6b4ed,38.7429768673932,-9.13635466936088,BEBEDOURO,Bebedouro no Jardim Fernando Pessa  - Autoparque Roma
+212,-9.1338247610942,38.742497676507,213,4306,4,Praça Francisco Sá Carneiro,Bebedouro na Praça Francisco Sá Carneiro,Bebedouro,,230fb336-0fe1-40b0-aff4-ef599f03d773,38.742497676507,-9.1338247610942,BEBEDOURO,Bebedouro na Praça Francisco Sá Carneiro - Praça Francisco Sá Carneiro
+213,-9.15660099894735,38.7576940317786,214,910,4,Campo Grande,Chafariz no Museu da Cidade,Chafariz,,d5ed924a-7056-4acb-9ffb-55c0f41da29f,0.0,0.0,,
+214,-9.11946188008742,38.7389399829927,215,706,4,Calçada da Picheleira,Fontanário 2 na Calçada da Picheleira,Fontanário,,d5e2cf44-f149-4577-a37c-86d590ac5553,0.0,0.0,,
+215,-9.19322648538235,38.7077239510958,216,103,4,Travessa José Fernandes,Fontanário da Travessa José Fernandes,Chafariz,,1391edba-6e71-4366-968c-bccbfea102b7,0.0,0.0,,
+216,-9.19322648538235,38.7077239510958,217,103,4,Travessa José Fernandes,Fontanário da Travessa José Fernandes,Fontanário,,821f867f-fe46-4a08-9546-c963eed8976f,0.0,0.0,,
+217,-9.14216648268656,38.7231823344234,218,2409,4,Alameda de Santo António dos Capuchos,Bebedouro na Alameda de Santo António dos Capuchos,Bebedouro,,00b3777c-ffc2-42f3-b821-86c854d2300c,38.7231823344234,-9.14216648268656,BEBEDOURO,Bebedouro na Alameda de Santo António dos Capuchos - Alameda de Santo António dos Capuchos
+218,-9.13261460104908,38.737429779622,219,304,4,Alameda Dom Afonso Henriques,Bebedouro junto ao Parque Infantil da Alameda Dom Afonso Henriques,Bebedouro,,e8a6bf37-8c5b-4319-9f32-ada078f12e10,38.737429779622,-9.13261460104908,BEBEDOURO,Bebedouro junto ao Parque Infantil da Alameda Dom Afonso Henriques - Alameda Dom Afonso Henriques
+219,-9.16222208556519,38.7823714229979,220,504,4,Rua Engº Quartin Graça,Bebedouro no Parque Infantil da Rua Engº Quartin Graça,Bebedouro,,56cb82c6-7f0e-4123-8964-95d3cead3daa,38.7823714229979,-9.16222208556519,BEBEDOURO,Bebedouro no Parque Infantil da Rua Engº Quartin Graça - Rua Engº Quartin Graça
+220,-9.15663681747268,38.7089039749026,221,3706,4,"Travessa do Pé-de-Ferro, 20-22",Fontanário da Travessa Pé de Ferro,,,3b4287f2-1e4d-4dcd-82ad-62faa5dcf61d,0.0,0.0,,
+221,-9.18650687864801,38.7193615057087,222,238,4,Estrada do Alvito,Bebedouro 6 no Parque do Alvito,Bebedouro,,34a9258f-3c38-4eca-b37f-a016a825add7,38.7193615057087,-9.18650687864801,BEBEDOURO,Bebedouro 6 no Parque do Alvito - Estrada do Alvito
+222,-9.15489325937143,38.7798512061624,223,1307,4,Avenida Nuno Krus Abecassis(antiga Avenida 4 do Alto do Lumiar),Tanque 5 no Parque Oeste,Lago,,2fba4627-159a-4ff5-883f-4d4871c9fbb1,0.0,0.0,,
+223,-9.10795197296452,38.7648304435825,224,3391,4,Rua 8 do Cemitério dos Olivais,Bica 6 no Cemitério dos Olivais,Bica,,68c237b1-c82c-4274-97ff-9bbb61774c91,0.0,0.0,,
+224,-9.10790295010282,38.7648139798187,225,3392,4,Rua 8 do Cemitério dos Olivais,Bica 7 no Cemitério dos Olivais,Bica,,833ca43c-4dcd-4787-9153-6de7a7bc8386,0.0,0.0,,
+225,-9.11607163012032,38.7300161129598,226,701,4,Rua Gualdim Pais,Chafariz da Rua Gualdim Pais,Chafariz,,e8070acd-1ad8-4a30-93f7-ab932ec7c9eb,0.0,0.0,,
+226,-9.15100303855822,38.7280011775695,227,5005,4,"Avenida de Sidónio Pais, Parque Eduardo VII de Inglaterra",Lago do Pau,Lago,,ede4712f-c304-4245-a2d5-9336140819ef,0.0,0.0,,
+227,-9.11534076619505,38.7264411631964,228,4108,4,Travessa da Amorosa,Fontanário na Travessa da Amorosa,Fontanário,,ebe1d0b4-ff35-4534-bf16-0833522daf6c,0.0,0.0,,
+228,-9.15563950604763,38.7311174692477,229,5008,4,"Rua Marquês de Fronteira, Jardim Amália Rodrigues",Queda de Água do Jardim Amália Rodrigues,Queda de água,,0fa4c87a-38a7-4fd0-aae7-bfd2e1696ce1,0.0,0.0,,
+229,-9.13619857989375,38.7162492754458,230,3110,4,Praça Martim Moniz,Fonte 2 do Martim Moniz,Fonte,,26fa3759-4e91-44f3-a8c0-a7c1ef31caa3,0.0,0.0,,
+230,-9.13654072932083,38.7155734545038,231,3113,4,Praça Martim Moniz,Fonte 5 do Martim Moniz,Fonte,,847d0819-0916-42c7-b628-d7846d735844,0.0,0.0,,
+231,-9.13671840530425,38.7152096446229,232,3115,4,Praça Martim Moniz,Fonte 7 do Martim Moniz,Fonte,,c14b693d-0372-4b53-a2b8-8872cf85d6ae,0.0,0.0,,
+232,-9.17453817496003,38.7079812122671,233,232,4,Rua Feliciano de Sousa,Fontanário na Rua Feliciano de Sousa,,,5a8bb4e7-5582-4636-951a-f37b22c06fb7,0.0,0.0,,
+233,-9.15451409306642,38.7315243581787,234,5007,4,"Rua Marquês de Fronteira, Jardim Amália Rodrigues",Lago Biológico do Jardim Amália Rodrigues,Lago,,58eec0f1-e233-47d1-b743-4bdee1e73828,0.0,0.0,,
+234,-9.16760597562546,38.7476067295452,235,3934,4,Largo de Palma,Mina de água da Palma de Baixo,,,a188774c-9067-4402-8036-dae60aa312cf,0.0,0.0,,
+235,-9.1785920337837,38.7060059869867,236,229,4,Rua Leão de Oliveira,Bebedouro da Rua Leão de Oliveira,Bebedouro,,bab2b70a-3716-43a9-8c6b-0835e2d5bd25,38.7060059869867,-9.1785920337837,BEBEDOURO,Bebedouro da Rua Leão de Oliveira - Rua Leão de Oliveira
+236,-9.17486571508568,38.7095445239608,237,231,4,Rua da Cruz a Alcântara,Fontanária na Rua da Cruz a Alcântara,,,052c73fc-bef2-417e-a36a-64610b4c49bb,0.0,0.0,,
+237,-9.18489663233154,38.7043887763981,238,228,4,Rua Filinto Elísio,Bebedouro na Rua Filinto Elísio,Bebedouro,,c404769d-a593-4ceb-b38f-2a1bbc6b580f,38.7043887763981,-9.18489663233154,BEBEDOURO,Bebedouro na Rua Filinto Elísio - Rua Filinto Elísio
+238,-9.18570340030506,38.7194478067482,239,225,4,Estrada do Alvito,Bebedouro da Entrada do Parque do Alvito,Bebedouro,,600203a1-e4b0-4342-ad5e-8527d21fbc23,38.7194478067482,-9.18570340030506,BEBEDOURO,Bebedouro da Entrada do Parque do Alvito - Estrada do Alvito
+239,-9.20053575704899,38.7578378386416,240,842,4,Rua 2 do Cemitério de Benfica,Bica 13 no Cemitério de Benfica,Bica,,7e1da286-7d80-481a-8804-d777af462956,0.0,0.0,,
+240,-9.1902542835007,38.7481857245104,241,870,4,Rua Paulo Renato((antiga Rua 1 à Estrada de Benfica)),Jogos de água do Fonte Nova,Jogos de água,,9930d800-d82e-4f85-972a-95d4b71576b3,0.0,0.0,,
+241,-9.17273799963968,38.7161990360695,242,3502,4,Rua Maria Pia,Fontanário da Meia Laranja,Fontanário,,fa0ca327-b653-40e7-809a-299e10d4b97e,0.0,0.0,,
+242,-9.12877314258612,38.7123955211021,243,3601,4,Beco do Loureiro,Fontanário no Beco do Loureiro,Fonte,,9a664803-10db-4176-a40f-4d12639bd39b,0.0,0.0,,
+243,-9.10844311247306,38.7720866613593,244,3313,4,"Avenida Dr. Francisco Luís Gomes, Quinta Conde d'Arcos",Lago 2 da Quinta Conde d'Arcos,Lago,,9f4cd9b2-4ad8-45d3-823b-d1f8a6e2e08b,0.0,0.0,,
+244,-9.09500780398087,38.7675073744483,245,3328,4,"Rossio dos Olivais, (Parque das Nações)",Espelho de Água Norte (1) do Rossio dos Olivais,Lago,,ac7cf4e4-d6d1-4380-b7fc-b8190dee7b91,0.0,0.0,,
+245,-9.10858104968324,38.772757012904,246,3312,4,"Avenida Dr. Francisco Luís Gomes, Quinta Conde d'Arcos",Fontanário da Quinta Conde d'Arcos,Fontanário,,61e6b412-bb3e-4881-9de8-0a6a1badc333,0.0,0.0,,
+246,-9.11033052858053,38.7674567242589,247,3319,4,Avenida Cidade de Luanda,Mina na Avenida Cidade de Luanda,Mina,,9516985b-ef54-4cf8-96d9-69065277e176,0.0,0.0,,
+247,-9.12954738076658,38.7629649324229,248,3304,4,Praça do Aeroporto,Lago da Rotunda do Relógio,Lago,,ad433438-353c-42d2-b2ea-1022a5960fe5,0.0,0.0,,
+248,-9.12062142006626,38.7697554677071,249,3316,4,Avenida de Berlim,Poço dos Viveiros da Avenida de Berlim,Poço,,10c43eb5-6a76-49b2-aba5-4d157998bba8,0.0,0.0,,
+249,-9.18813681244223,38.7448529957285,250,3912,4,Rua Carolina de Michaelis de Vasconcelos,Fontanário na Rua Carolina Michaelis de Vasconcelos,Fontanário,,27698420-17fe-459e-b434-a47a2cd43c78,0.0,0.0,,
+250,-9.09886308571943,38.7598139827612,251,3341,4,"Cabeço das Rolas, (Parque das Nações)",Tanque (Reservatório) do Cabeço das Rolas,Tanque,,ddbc885a-3c52-4fbd-8823-fcd294f9aaab,0.0,0.0,,
+251,-9.1088293575025,38.7719544973928,252,3314,4,"Avenida Dr. Francisco Luís Gomes, Quinta Conde d'Arcos",Lago 3 da Quinta Conde d'Arcos,Lago,,c20e3445-da8c-43fc-9f80-8b0b2e808767,0.0,0.0,,
+252,-9.09322555813528,38.7674184776162,253,3330,4,"Rossio dos Olivais, (Parque das Nações)",Espelho de Água Sul (3) do Rossio dos Olivais,Lago,,9a8a613f-ffa1-4732-88cb-8ab942ef4d28,0.0,0.0,,
+253,-9.09213574269385,38.7700816713822,254,3332,4,"Passeio das Tágides, (Parque das Nações)",Lago Coloane,Lago,,6ae47136-d342-4d39-9037-347dd17ba0ec,0.0,0.0,,
+254,-9.14087440976228,38.7316572010773,255,4403,4,Largo de Dona Estefânia,Fonte Neptuno,Fonte,,4cae9ce4-e819-4f3f-8f99-43cb0304eb67,0.0,0.0,,
+255,-9.09268682678128,38.776661955224,256,3344,4,Rua Comandante Cousteau,Lago do Braço de Mar,Lago,,ffa32dd4-d7a3-4aed-b160-cd80840f28de,0.0,0.0,,
+256,-9.09823044987554,38.7603092049114,257,3342,4,"Cabeço das Rolas, (Parque das Nações)",Repuxos do Cabeço das Rolas,Lago,,ddee7031-6b29-4c18-b4db-27d0487a02f2,0.0,0.0,,
+257,-9.09376769320589,38.7614843024973,258,3326,4,"Passeio de Ulisses, (Parque das Nações)",Cascata do Passeio de Ulisses,Queda de água,,0ce87ec8-3dd1-4088-a710-fd4d77fef4fc,0.0,0.0,,
+258,-9.13856064244116,38.7548898668306,259,4201,4,Largo Frei Heitor Pinto,Lago com Repuxo no Largo Frei Heitor Pinto,Lago,,0c783f4d-33fa-485e-b1f5-afbef76cf88f,0.0,0.0,,
+259,-9.13576922740874,38.7139098789298,260,3801,4,Largo dos Trigueiros,Fontanário do Largo dos Trigueiros,Fontanário,,48799635-161f-4f5f-9dd0-be3c4a27c8c3,0.0,0.0,,
+260,-9.2069831832354,38.6939016347187,261,3216,4,Avenida de Brasília,Espelho de Água de Belém,Lago,,7fa8b81c-d83c-4fa5-a234-8cb6973ad9b0,0.0,0.0,,
+261,-9.09560952969416,38.7694382856828,262,3338,4,"Alameda dos Oceanos, (Parque das Nações)",Fonte Continuum D,Fonte,,02c05fbd-20b0-4e06-867d-32bd0bde356d,0.0,0.0,,
+262,-9.18325854003792,38.7465468496743,263,3909,4,"Estrada de Benfica, Jardim do Beau Séjour",Lago Poente do Jardim do Beau Séjour,Lago,,746402b4-bb92-4531-b0df-e874076eace1,0.0,0.0,,
+263,-9.11294132474865,38.7633989995023,264,3322,4,Rua Cidade de Lobito,Lago no Palácio do Contador-Mor,Lago,,9a3862b9-5d6c-4840-b08e-b7b790ad8f76,0.0,0.0,,
+264,-9.09576765025216,38.7615846306639,265,3324,4,"Passeio de Ulisses, (Parque das Nações)",Fonte do Passeio de Ulisses,Fonte,,6a8e76f1-154a-4f09-99cb-197dc105ecdf,0.0,0.0,,
+265,-9.1275874957685,38.7120999834131,266,3602,4,"Beco do Carneiro, (Escadinhas de Santo Estêvão)",Fonte Ornamental do Beco do Carneiro,,,66153561-0164-40ad-84d2-e317df7bd27e,0.0,0.0,,
+266,-9.15332519434744,38.7077846756222,267,3703,4,Largo Vitorino Damásio,Chafariz do Largo Vitorino Damásio,Chafariz,,835c326e-ad89-49cf-8f5b-b2daeb91e68e,0.0,0.0,,
+267,-9.1702137741155,38.7205903766536,268,3504,4,Rua do Arco do Carvalhão,Chafariz na Rua do Arco do Carvalhão,Chafariz,,0dc1f17d-6010-4df4-bb11-361aee54af87,0.0,0.0,,
+268,-9.13471092666411,38.7121781025833,269,3804,4,Calçada do Marquês de Tancos,Fontanário na Calçada do Marquês de Tancos,Fontanário,,932a67e2-c550-48c6-a643-3456c65912d7,0.0,0.0,,
+269,-9.10911006935069,38.772240326254,270,3315,4,"Avenida Dr. Francisco Luís Gomes, Quinta Conde d'Arcos",Lago 4 da Quinta Conde d'Arcos,Lago,,cf2220f1-b1ca-495c-a74c-feb72cd6b180,0.0,0.0,,
+270,-9.09614245343983,38.7629251738912,271,3335,4,"Alameda dos Oceanos, (Parque das Nações)",Fonte Continuum A,Fonte,,1c3ec000-9ab3-4056-9148-82fafcb89ea2,0.0,0.0,,
+271,-9.11020085946421,38.7742291217281,272,3323,4,"Avenida Dr. Francisco Luís Gomes, Quinta Conde d'Arcos","Tanques 6, 7 e 8 da Quinta Conde d'Arcos",Tanque,,77a9e6ae-1650-4d6e-bb31-e1d2ca4cd48d,0.0,0.0,,
+272,-9.09515717764296,38.7749384521346,273,3343,4,"Rotunda dos Vice-reis, (Parque das Nações)",Bicas da Rotunda dos Vice-Reis,Chafariz,,a064945b-f174-4a5c-9462-475e6a34cecd,0.0,0.0,,
+273,-9.09342743203751,38.7649652116574,274,3346,4,"Cais Português, (Oceanário)",Espelho de Água,Lago,,2b8d9fb7-69a5-479e-a2db-65fbb241a9df,0.0,0.0,,
+274,-9.09301891328057,38.7614478241412,275,3362,4,"Passeio de Ulisses, (Parque das Nações)",Lago Hidráulico no Passeio de Ulisses,Lago,,cea90d89-5816-4309-aa06-d3c270c9d6d4,0.0,0.0,,
+275,-9.09425155815724,38.7800932585812,276,3345,4,"Passeio dos Jacarandás, (Parque das Nações)",Lago dos 69 Homens de Bessines,Lago,,65d8fb12-c16a-494a-aa96-0849ba62efb6,0.0,0.0,,
+276,-9.10826704896558,38.7726192381941,277,3309,4,"Avenida Dr. Francisco Luís Gomes, Quinta Conde d'Arcos",Tanque 4 da Quinta Conde d'Arcos,Tanque,,ca9d6d9f-d380-47c8-9954-f5c663f19dba,0.0,0.0,,
+277,-9.1102474308235,38.774553580706,278,3308,4,"Avenida Dr. Francisco Luís Gomes, Quinta Conde d'Arcos",Tanque 3 da Quinta Conde d'Arcos,Tanque,,4e816da4-9a15-45f0-ac3a-b8880c22fa5b,0.0,0.0,,
+278,-9.20895725263185,38.6935335329824,279,3217,4,Avenida de Brasília,Lago do Museu de Arte Popular,Lago,,4a2e6052-0a21-4b70-9721-be0cebbe3fe2,0.0,0.0,,
+279,-9.16522459480788,38.7178963983865,280,3501,4,"Rua Tomás de Anunciação, Jardim Teófilo de Braga ou da Parada",Lago do Jardim Teófilo de Braga ou da Parada,Lago,,3ab7f280-1b06-48e4-b70a-29e789a678af,0.0,0.0,,
+280,-9.11983641018724,38.7288896164016,281,4105,4,Parada do Alto de São João,Lago 1 do Cemitério do Alto de São João,Lago,,60618a5e-0866-4074-9417-a7257889a821,0.0,0.0,,
+281,-9.15734071756638,38.7173904988874,282,3002,4,Travessa de Santa Quitéria,Chafariz da Travessa de Santa Quitéria,Chafariz,,f3f22910-35d6-40f4-8736-e5bdefc3d8df,0.0,0.0,,
+282,-9.18327564665584,38.7392126043979,283,3903,4,Parque Florestal de Monsanto,Lago Pequeno do Parque Florestal de Monsanto,Lago,,3b9395d7-a221-4e60-ac66-83723da13b52,0.0,0.0,,
+283,-9.15450993296833,38.7697470224252,284,1888,4,Alameda das Linhas de Torres,Bebedouro 1 na Quinta das Conchas,Bebedouro,,2ce4d03b-622a-4591-a335-19ac877f9efd,38.7697470224252,-9.15450993296833,BEBEDOURO,Bebedouro 1 na Quinta das Conchas - Alameda das Linhas de Torres
+284,-9.15108922741814,38.7686869074871,285,1890,4,Alameda das Linhas de Torres,Bebedouro na Mata da Quinta das Conchas,Bebedouro,,4bf1ea31-6d29-4f55-9113-4d13592cc99a,38.7686869074871,-9.15108922741814,BEBEDOURO,Bebedouro na Mata da Quinta das Conchas - Alameda das Linhas de Torres
+285,-9.15640926702469,38.7712659138922,286,1891,4,Alameda das Linhas de Torres,Bebedouro 1 Quinta dos Lilases,Bebedouro,,48f9820a-06f2-4f7d-bed6-5f1392c695e9,38.7712659138922,-9.15640926702469,BEBEDOURO,Bebedouro 1 Quinta dos Lilases - Alameda das Linhas de Torres
+286,-9.15808031131958,38.7714397722741,287,1892,4,Alameda das Linhas de Torres,Bebedouro 2 Quinta dos Lilases,Bebedouro,,72f8312c-eb4d-4504-8722-1e4391b3db01,38.7714397722741,-9.15808031131958,BEBEDOURO,Bebedouro 2 Quinta dos Lilases - Alameda das Linhas de Torres
+287,-9.18499732988161,38.7732841696,288,1114,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Fontanário 3 Cemitério de Carnide,Fontanário,,8eed9043-63aa-4fcd-8b8b-95477a309001,0.0,0.0,,
+288,-9.18416124898207,38.773807097198,289,1115,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Fontanário 4 Cemitério de Carnide,Fontanário,,cbe665d5-843d-442b-9cae-e8fd18078d00,0.0,0.0,,
+289,-9.18741726369626,38.774399378029,290,1116,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Fontanário 5 Cemitério de Carnide,Fontanário,,0109d257-abea-430c-b4fc-a154ec1a6ae1,0.0,0.0,,
+290,-9.1866652884635,38.7752635017691,291,1118,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Fontanário 7 Cemitério de Carnide,Fontanário,,e0d8919c-f769-4d97-a74c-70a5379f4bc0,0.0,0.0,,
+291,-9.18573103338151,38.7740038037981,292,1119,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 1 Cemitério de Carnide,Bica,,38ac5791-d4fe-4177-a163-2e63c6f87f1b,0.0,0.0,,
+292,-9.1866304113726,38.7732686574666,293,1123,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 5 Cemitério de Carnide,Bica,,0d3949e9-0179-46ed-bf14-169e819d4170,0.0,0.0,,
+293,-9.17813771262539,38.7340118007907,294,802,4,"Caminho Pedreiras, Parque Recreativo da Serafina",Chapinheiro do Parque Recreativo do Alto da Serafina,Lago,,2cb4d37c-7a7b-4c4e-b752-98e03a8ea91f,0.0,0.0,,
+294,-9.12994528143686,38.7098741410462,295,5204,4,Largo Júlio Pereira,Mãe d'Água do Chafariz d'El Rey,Reservatório,,b94c77f0-6382-4c9f-92dd-d1f3899136c9,0.0,0.0,,
+295,-9.15305999640422,38.7303317897256,296,5004,4,"Avenida de Sidónio Pais, Parque Eduardo VII de Inglaterra",Lago do Botequim do Rei,Lago,,2bf25a14-00c6-4e10-a4c9-e2d4e25b2eda,0.0,0.0,,
+296,-9.11287516292966,38.7274506460701,297,703,4,"Vila Dias(Beco dos Toucinheiros, 12-B)",Fontanário na Vila Dias,Fontanário,,18ef487d-2ba5-4f92-b96c-cf95bb986c81,0.0,0.0,,
+297,-9.1253915667514,38.7169441062927,298,5106,4,Rua de Entre Muros do Mirante,Fontanário na Rua de Entre Muros do Mirante,Fontanário,,967e6fec-9e88-49d2-8dac-8ad229426171,0.0,0.0,,
+298,-9.11010152196348,38.7306778001097,299,704,4,Travessa da Ilha do Grilo,Chafariz na Travessa da Ilha do Grilo,Chafariz,,4a7316f0-fdbb-488b-815a-a8167c84a9f9,0.0,0.0,,
+299,-9.11749475376983,38.7246033015634,300,4102,4,Avenida Afonso III,Chafariz da Avenida Afonso III,Chafariz,,2f3f854c-ade2-4152-8b37-bc8b01ac3b7f,0.0,0.0,,
+300,-9.14284061171341,38.7167275637265,301,4505,4,Avenida da Liberdade,Lago Pequeno da Avenida da Liberdade,Lago,,04b86aa1-0842-47f9-a21f-c7d9b8f56ca2,0.0,0.0,,
+301,-9.13484541344527,38.7177360224384,302,5302,4,"Rua do Benformoso, Rua do Terreirinho",Fontanário da Rua do Benformoso ou da Rua do Terreirinho,Fontanário,,604b9dc2-59be-4a0a-a761-7176169cf7d2,0.0,0.0,,
+302,-9.11273394417372,38.7260345312475,303,702,4,Rua de Xabregas,Fontanário na Rua de Xabregas,Fontanário,,971818d9-4312-4155-95e7-8014d70957e7,0.0,0.0,,
+303,-9.13865925769642,38.7412974486924,304,4301,4,Praça de Londres,Tanque da Praça de Londres,Tanque,,8839fe65-63ee-4c54-89d0-9681311554ab,0.0,0.0,,
+304,-9.18208019652353,38.7464861398676,305,3915,4,"Estrada de Benfica, Jardim do Beau Séjour",Poço do Jardim do Beau Séjour,Poço,,d5bdd636-ed17-467c-9b94-92450b207276,0.0,0.0,,
+305,-9.14151171235405,38.7188733266082,306,4503,4,"Rua Júlio de Andrade, Jardim do Torel",Lago do Jardim do Torel,Lago,,71790c6b-c6af-460d-8097-83e72ecf68b7,0.0,0.0,,
+306,-9.20507696808398,38.7087992896858,307,4001,4,Rua Tristão Vaz,Chapinheiro do Parque Recreativo dos Moinhos de Santana,Lago,,c6dddd5d-6e5f-4d9b-830f-78a4df0f9f33,0.0,0.0,,
+307,-9.12946720792409,38.7097258032064,308,5201,4,Rua do Cais de Santarém,Chafariz d'El Rey,Chafariz,,2aa55d45-435c-4721-aa0a-55f2fec1fdbf,0.0,0.0,,
+308,-9.19972081530472,38.7552636512654,309,808,4,"Estrada dos Arneiros, Eucaliptal de Benfica",Lago do Eucaliptal de Benfica,Lago,,f865a4bc-c8ad-4dad-8671-e3c4fed977f1,0.0,0.0,,
+309,-9.13961694353598,38.7471291103722,310,403,4,Largo Machado de Assis,Lago no Largo Machado de Assis,,,186c0744-3c43-4f8e-a42b-932eab36bbb9,0.0,0.0,,
+310,-9.12803971846229,38.7343280996715,311,4103,4,"Rua Quatro de Agosto, Rua Sabino de Sousa",Chafariz do Alto do Pina,Chafariz,,43687c94-e6d2-4ba5-87de-68dd7c9f47f1,0.0,0.0,,
+311,-9.13625955394197,38.7448355002282,312,4302,4,Praça Afrânio Peixoto,Tanque da Praça Afrânio Peixoto,Tanque,,d3f04546-0f46-4e3c-a7ba-4a790548a25e,0.0,0.0,,
+312,-9.12934134137638,38.7104135454645,313,5205,4,Largo de São Rafael,Chafariz do Largo de São Rafael,Chafariz,,7ca24346-1fc8-4019-8292-49a77a97d129,0.0,0.0,,
+313,-9.15336412284029,38.7561890313364,314,901,4,"Campo Grande, Jardim do Campo Grande",Lago dos Barcos do Jardim do Campo Grande,Lago,,286a7cc0-ccf3-4da9-9327-9e6e8b596400,0.0,0.0,,
+314,-9.15406453836901,38.7199395641073,315,4601,4,Largo do Rato,Chafariz do Rato,Chafariz,,b2032ea8-1af9-4267-9589-869f275a5eae,0.0,0.0,,
+315,-9.15454603446298,38.731780322774,316,5006,4,"Rua Marquês de Fronteira, Jardim Amália Rodrigues",Espelho de Água do Jardim Amália Rodrigues,Lago,,6e71fd15-06aa-4260-a77d-5025f94d6582,0.0,0.0,,
+316,-9.16163291201137,38.7802611773378,317,501,4,Alameda António Sérgio(antigo Impasse 1 e 2 da Quinta de Santa Clara),Lago da Quinta de Santa Clara,Lago,,f6d5ef87-5a48-4792-b434-e2d6c5a719ab,0.0,0.0,,
+317,-9.1175219583499,38.7216968017805,318,4101,4,Largo de Santos o Novo,Chafariz de Santos-o-Novo,Chafariz,,d2d66291-b72d-4eec-8d8a-d197b724fac4,0.0,0.0,,
+318,-9.12891460837877,38.7106606189024,319,4709,4,Largo das Alcaçarias,Reservatório das Alcaçarias,Reservatório,,5e6498a7-1775-4135-b53d-fb12b40a5a11,0.0,0.0,,
+319,-9.15043192473488,38.7519998464125,320,902,4,"Campo Grande, Jardim do Campo Grande",Lago do Jardim do Campo Grande,Lago,,41d08d55-e52f-4090-b33f-3babc82426e2,0.0,0.0,,
+320,-9.12652469715921,38.7165472631843,321,5103,4,Rua da Verónica,Reservatório da Verónica,Reservatório,,1a3020d7-541a-4802-b497-48138b82721a,0.0,0.0,,
+321,-9.13220194914354,38.7091421700015,322,5203,4,Rua Afonso de Albuquerque,Reservatório da Rua Afonso de Albuquerque,,,3208fac4-aaa1-4830-88e9-e6c7de108b02,0.0,0.0,,
+322,-9.15517649368894,38.7218610985527,323,4605,4,Alto de São Francisco,Fontanário do Alto de São Francisco,Fontanário,,fee2898e-98bd-4701-bc93-af2dc76a83e9,0.0,0.0,,
+323,-9.20325504724556,38.7423296737696,324,806,4,"Estrada da Buraca, Rua da Buraca",Chafariz da Buraca,Chafariz,,3eae0122-8bd7-4b34-bfc1-abb768d3c885,0.0,0.0,,
+324,-9.12812568723498,38.711296522369,325,4701,4,Largo do Chafariz de Dentro,Chafariz de Dentro,Chafariz,,d94279ba-5a53-4fa0-a746-f7c63190f64b,0.0,0.0,,
+325,-9.2067741335907,38.7090074682929,326,4003,4,Rua Tristão Vaz,Tanque com Cascata do Parque Recreativo dos Moinhos de Santana,Tanque,,97c653db-eb3d-4a10-909a-09397afe7a4f,0.0,0.0,,
+326,-9.17709466437595,38.7337571356579,327,821,4,Caminho Pedreiras,Bebedouro 1 junto ao Parque Infantil do Parque Recreativo do Alto da Serafina,Bebedouro,,fce22f22-ea4a-45a0-ab3e-614fe5429fa9,38.7337571356579,-9.17709466437595,BEBEDOURO,Bebedouro 1 junto ao Parque Infantil do Parque Recreativo do Alto da Serafina - Caminho Pedreiras
+327,-9.17740033232108,38.7334107800061,328,822,4,Caminho Pedreiras,Bebedouro 2 junto ao Parque Infantil do Parque Recreativo do Alto da Serafina,Bebedouro,,979a0afe-de66-4d17-9940-ad22998091fb,38.7334107800061,-9.17740033232108,BEBEDOURO,Bebedouro 2 junto ao Parque Infantil do Parque Recreativo do Alto da Serafina - Caminho Pedreiras
+328,-9.17784341914842,38.7332077479864,329,823,4,Caminho Pedreiras,Bebedouro 5 no Parque Recreativo do Alto da Serafina,Bebedouro,,34ddb2ef-fc4c-465c-9b37-cf7b52428330,38.7332077479864,-9.17784341914842,BEBEDOURO,Bebedouro 5 no Parque Recreativo do Alto da Serafina - Caminho Pedreiras
+329,-9.09195569066648,38.7790319269253,330,3384,4,Passeio dos Heróis do Mar,Bebedouro 9 do Parque Tejo,Bebedouro,,eb732530-773c-4d2c-8afc-0568a60fde6d,38.7790319269253,-9.09195569066648,BEBEDOURO,Bebedouro 9 do Parque Tejo - Passeio dos Heróis do Mar
+330,-9.18680335592943,38.7745248513064,331,1140,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 22 Cemitério de Carnide,Bica,,f5f372c2-c2cc-4917-92ab-0fb4d46e423a,0.0,0.0,,
+331,-9.18618311863307,38.7748367560756,332,1142,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 24 Cemitério de Carnide,Bica,,ec0f0fd0-ed78-4e73-8c6c-fe1045ec4cdf,0.0,0.0,,
+332,-9.18066639020015,38.7743313474126,333,1111,4,Azinhaga da Fonte Velha,Bebedouro na Azinhaga da Fonte Velha,Bebedouro,,8243a909-7567-4374-85ca-735696ee0e83,38.7743313474126,-9.18066639020015,BEBEDOURO,Bebedouro na Azinhaga da Fonte Velha - Azinhaga da Fonte Velha
+333,-9.20231541574657,38.7571199145431,334,830,4,Rua 4 do Cemitério de Benfica,Bica 1 no Cemitério de Benfica,Bica,,dc552d6f-e04f-4d99-b74e-3352860d2193,0.0,0.0,,
+334,-9.20327971677988,38.7569492758538,335,832,4,Rua 30 do Cemitério de Benfica,Bica 3 no Cemitério de Benfica,Bica,,8a307fa0-45e2-40e6-bda2-da8aa4cecf95,0.0,0.0,,
+335,-9.20312393094331,38.7574070840684,336,834,4,Rua 30 do Cemitério de Benfica,Bica 5 no Cemitério de Benfica,Bica,,ce0d3cc3-20dd-43cc-a6b8-f9029bbf7ae9,0.0,0.0,,
+336,-9.1088416356758,38.7643142150468,337,33101,4,Rua 21 do Cemitério dos Olivais,Bica 15 no Cemitério dos Olivais,Bica,,b475fe0f-4d20-449d-ab6d-34dd23448416,0.0,0.0,,
+337,-9.10869155054804,38.7644381552883,338,33102,4,Rua 12 do Cemitério dos Olivais,Bica 16 no Cemitério dos Olivais,Bica,,e84506da-7c0e-4541-aca1-16862846ba6b,0.0,0.0,,
+338,-9.10829293661543,38.7644560935658,339,33103,4,Rua 13A do Cemitério dos Olivais,Bica 17 no Cemitério dos Olivais,Bica,,70236ddd-448e-4057-8d29-a4669013005f,0.0,0.0,,
+339,-9.10796657957102,38.7644869451509,340,33104,4,Rua 13 do Cemitério dos Olivais,Bica 18 no Cemitério dos Olivais,Bica,,0f644d59-db8a-4c0b-9f45-c38e2fd090a1,0.0,0.0,,
+340,-9.10795986286766,38.764139124731,341,33105,4,Rua 11A do Cemitério dos Olivais,Bebedouro 2 no Cemitério dos Olivais,Bica,,94e34e22-6aae-421e-9fcd-16a84410e8fb,0.0,0.0,,
+341,-9.10796450805598,38.7647477135683,342,33106,4,Rua 13 do Cemitério dos Olivais,Bica 19 no Cemitério dos Olivais,Bica,,e5153983-4515-401e-bdf9-80ee96fa7148,0.0,0.0,,
+342,-9.10793469656497,38.7647371467689,343,33107,4,Rua 13 do Cemitério dos Olivais,Bica 20 no Cemitério dos Olivais,Bica,,991cf326-c4e6-4b76-925d-be3d6148fdc5,0.0,0.0,,
+343,-9.10740961331507,38.7641000280724,344,33108,4,Rua 2 do Cemitério dos Olivais,Bica 21 no Cemitério dos Olivais,Bica,,fcbbc4b8-a0f5-4f6b-9364-03df206734f2,0.0,0.0,,
+344,-9.10701861350283,38.7648274681279,345,33110,4,Rua 5 do Cemitério dos Olivais,Bica 23 no Cemitério dos Olivais,Bica,,4ba8deb4-0ffe-4bca-b5e5-d68420466dbd,0.0,0.0,,
+345,-9.10723199392554,38.7649504555861,346,33111,4,Rua 5 do Cemitério dos Olivais,Bica 24 no Cemitério dos Olivais,Bica,,98adf44d-2272-4bf8-a872-e32409592f34,0.0,0.0,,
+346,-9.10659730273626,38.765011793389,347,33112,4,Rua 7 do Cemitério dos Olivais,Bica 25 no Cemitério dos Olivais,Bica,,2dfb7688-67e2-4fa2-9ec9-66cbb440e6b1,0.0,0.0,,
+347,-9.10670625670212,38.7654489439198,348,33113,4,Rua 7 do Cemitério dos Olivais,Bica 26 no Cemitério dos Olivais,Bica,,bdfa01d3-3e31-4781-a40e-2c0506ae1026,0.0,0.0,,
+348,-9.10629747384051,38.7655933291195,349,33114,4,Rua 6 do Cemitério dos Olivais,Bica 27 no Cemitério dos Olivais,Bica,,2a44625a-ffaa-4ed5-856b-38e0167c05cb,0.0,0.0,,
+349,-9.10646571931009,38.7657754726723,350,33115,4,Rua 9 do Cemitério dos Olivais,Bica 28 no Cemitério dos Olivais,Bica,,d88252d0-2597-4c4a-b1cf-7599df332176,0.0,0.0,,
+350,-9.10659578638006,38.7658329174947,351,33116,4,Rua 9 do Cemitério dos Olivais,Bica 29 no Cemitério dos Olivais,Bica,,97040ee5-ec7e-4a1e-94de-cc4cb2dcb2e0,0.0,0.0,,
+351,-9.20310412758289,38.757276085878,352,835,4,Rua 30 do Cemitério de Benfica,Bica 6 no Cemitério de Benfica,Bica,,74d85c4b-250f-4bfe-b110-de309b0b6310,0.0,0.0,,
+352,-9.20210180625349,38.7575953996752,353,836,4,Rua 5 do Cemitério de Benfica,Bica 7 no Cemitério de Benfica,Bica,,9015cb0f-9e96-462e-b436-8133d61cb110,0.0,0.0,,
+353,-9.20198054716486,38.7571100611367,354,837,4,Rua 4 do Cemitério de Benfica,Bica 8 no Cemitério de Benfica,Bica,,02d37e47-6bba-4099-8353-ef944b18ab68,0.0,0.0,,
+354,-9.16614535000779,38.7724116532533,355,18119,4,Rua 5 do Cemitério do Lumiar,Fontanário 19 no Cemitério do Lumiar,Fontanário,,f8684465-14c5-4614-9085-f64b4796728a,0.0,0.0,,
+355,-9.16545599813012,38.7724343477851,356,18121,4,Rua 3 do Cemitério do Lumiar,Fontanário 21 no Cemitério do Lumiar,Fontanário,,71a60528-e608-4672-ae9b-08fe10203d4b,0.0,0.0,,
+356,-9.16510826118196,38.7724776084284,357,18122,4,Rua 2 do Cemitério do Lumiar,Fontanário 22 no Cemitério do Lumiar,Fontanário,,a308e6ca-21c5-48e5-bcbb-8d1de93b1cc0,0.0,0.0,,
+357,-9.16580384916431,38.7721791711576,358,18123,4,Rua 8 do Cemitério do Lumiar,Fontanário 23 no Cemitério do Lumiar,Fontanário,,5e4d0a3f-c096-4418-9fb5-dd9a96336b3a,0.0,0.0,,
+358,-9.15021703065093,38.7781991987178,359,1308,4,Avenida Nuno Krus Abecassis(antiga Avenida 4 do Alto do Lumiar),Tanque 2 no Parque Oeste,Tanque,,cd549d92-6b5d-4e14-b8b1-962f3ee0c4b9,0.0,0.0,,
+359,-9.15108323924845,38.7787756527214,360,1309,4,Avenida Nuno Krus Abecassis(antiga Avenida 4 do Alto do Lumiar),Tanque 3 no Parque Oeste,Tanque,,7b6043e6-ece4-4c57-94ec-79c02a2dddfa,0.0,0.0,,
+360,-9.15226044998727,38.7793629033994,361,1310,4,Avenida Nuno Krus Abecassis(antiga Avenida 4 do Alto do Lumiar),Tanque 4 no Parque Oeste,Tanque,,488fff63-f572-40ef-b85a-e0dc0439ea32,0.0,0.0,,
+361,-9.15674797590425,38.7777963014182,362,1311,4,Avenida David Mourão-Ferreira(antiga Rua 3  do Alto do Lumiar),Tanque 6 no Parque Oeste,Tanque,,4d573395-d1b8-4412-9c9b-4d7d07479ad1,0.0,0.0,,
+362,-9.13302052816643,38.7198574205683,363,1604,4,Rua Damasceno Monteiro,Fontanário na Rua Damasceno Monteiro,,,5b9fbb02-9f12-40d9-a94c-c9024b5a607b,0.0,0.0,,
+363,-9.09405030499087,38.7615109343402,364,3365,4,Passeio de Ulisses,Nevoeiro no Passerio de Ulisses,Nevoeiro,,738f2065-832a-4e05-a494-4e47ca8880e5,0.0,0.0,,
+364,-9.09346875543889,38.7766732219782,365,3366,4,Cais do Olival,Cascata e Lagos do Braço de Mar,Cascata,,9b72275b-19b3-40d6-b82c-91276b2e1f3c,0.0,0.0,,
+365,-9.14083479315991,38.7325604707362,366,4405,4,Praça da Ilha do Faial,Bebedouro no Jardim Cesário Verde,Bebedouro,,82d00f3b-0966-483f-b93e-85823c16f716,38.7325604707362,-9.14083479315991,BEBEDOURO,Bebedouro no Jardim Cesário Verde - Praça da Ilha do Faial
+366,-9.12555904236477,38.7173101740652,367,5109,4,Rua C da Quinta do Ferro(Rua Leite de Vasconcelos),"Fontanário na Rua C da Quinta do Ferro, junto ao nº24",,,4c34ac31-8510-4f51-a95a-d6cb5529cc2c,0.0,0.0,,
+367,-9.13588370152203,38.7168661948932,368,3109,4,Rua da Palma,Fonte 1 do Martim Moniz,Fonte,,871488ad-de98-4ea0-925c-98c64f190a1f,0.0,0.0,,
+368,-9.13630231824106,38.7160474240619,369,3111,4,Praça Martim Moniz,Fonte 3 do Martim Moniz,Fonte,,a911fd2d-ada8-47da-83cd-7fb44808e5cf,0.0,0.0,,
+369,-9.13660737892502,38.7153778246961,370,3114,4,Praça Martim Moniz,Fonte 6 do Martim Moniz,Fonte,,215d3538-119e-4597-8542-0a57f5d37d52,0.0,0.0,,
+370,-9.15621692694259,38.771056903251,371,1877,4,Alameda das Linhas de Torres,Tanque 3 da Quinta das Conchas,Tanque,,2d5ddad9-bdd4-4813-a61d-0920a6a60d88,0.0,0.0,,
+371,-9.15391301773339,38.7448597098909,372,2309,4,Rua Julieta Ferrão,Bebedouro no Parque Infantil da Rua Julieta Ferrão,Bebedouro,,2a5783e1-9ad6-4d25-a009-530c2c52e53a,38.7448597098909,-9.15391301773339,BEBEDOURO,Bebedouro no Parque Infantil da Rua Julieta Ferrão - Rua Julieta Ferrão
+372,-9.19428440883459,38.6977708824374,373,3220,4,Travessa de Paulo Jorge,"Chafariz na Travessa de Paulo Jorge, frente nº46",,,0346a5cb-5fe0-499c-badc-5f888c7538dd,0.0,0.0,,
+373,-9.20179880720308,38.716923212269,374,122,4,Pista do Miradouro dos Montes Claros((Parque Florestal de Monsanto)),Bebedouro 1 no Miradouro dos Montes Claros,Bebedouro,,33b1e887-d01d-4b37-a870-36559c132115,38.716923212269,-9.20179880720308,BEBEDOURO,Bebedouro 1 no Miradouro dos Montes Claros - Pista do Miradouro dos Montes Claros((Parque Florestal de Monsanto))
+374,-9.20215541052313,38.7172942705779,375,123,4,Pista do Miradouro dos Montes Claros((Parque Florestal de Monsanto)),Bebedouro 2 no Miradouro dos Montes Claros,Bebedouro,,177f278e-7b50-440b-8604-bab38cf1bdd2,38.7172942705779,-9.20215541052313,BEBEDOURO,Bebedouro 2 no Miradouro dos Montes Claros - Pista do Miradouro dos Montes Claros((Parque Florestal de Monsanto))
+375,-9.17460614778263,38.7103036079755,376,230,4,Avenida de Ceuta,Bebedouro da Avenida de Ceuta,Bebedouro,,af4e9b91-2ea4-4ead-bd97-3c2238944ccd,38.7103036079755,-9.17460614778263,BEBEDOURO,Bebedouro da Avenida de Ceuta - Avenida de Ceuta
+376,-9.10869751266657,38.7640291466311,377,3399,4,Rua 12 do Cemitério dos Olivais,Bebedouro 1 no Cemitério dos Olivais,Bebedouro,,1ce5bc1e-a78e-4133-8227-fda2fecbc706,38.7640291466311,-9.10869751266657,BEBEDOURO,Bebedouro 1 no Cemitério dos Olivais - Rua 12 do Cemitério dos Olivais
+377,-9.17812687894306,38.733335070784,378,824,4,Caminho Pedreiras,Bebedouro 6 no Parque Recreativo do Alto da Serafina,Bebedouro,,6e55f081-f474-492a-acce-231eab9451b3,38.733335070784,-9.17812687894306,BEBEDOURO,Bebedouro 6 no Parque Recreativo do Alto da Serafina - Caminho Pedreiras
+378,-9.1576409093815,38.7143980330542,379,1721,4,Jardim Guerra Junqueiro(Jardim da Estrela),Bebedouro 1 no Jardim da Estrela,Bebedouro,,ab64fdc3-9583-4485-b889-511527d35295,38.7143980330542,-9.1576409093815,BEBEDOURO,Bebedouro 1 no Jardim da Estrela - Jardim Guerra Junqueiro(Jardim da Estrela)
+379,-9.15785358013513,38.7148939297844,380,1722,4,Jardim Guerra Junqueiro(Jardim da Estrela),Bebedouro 2 no Jardim da Estrela,Bebedouro,,dea5e93a-c276-4369-ad5c-f817a7f1500a,38.7148939297844,-9.15785358013513,BEBEDOURO,Bebedouro 2 no Jardim da Estrela - Jardim Guerra Junqueiro(Jardim da Estrela)
+380,-9.1589986922722,38.7152016512916,381,1723,4,Jardim Guerra Junqueiro(Jardim da Estrela),Bebedouro 3 no Jardim da Estrela,Bebedouro,,1a79b133-0add-4afc-af56-e3862a008d0d,38.7152016512916,-9.1589986922722,BEBEDOURO,Bebedouro 3 no Jardim da Estrela - Jardim Guerra Junqueiro(Jardim da Estrela)
+381,-9.1605180174038,38.7152819392318,382,1724,4,Jardim Guerra Junqueiro(Jardim da Estrela),Bebedouro 4 no Jardim da Estrela,Bebedouro,,64b00f59-3f8f-47d7-8166-46785f85795f,38.7152819392318,-9.1605180174038,BEBEDOURO,Bebedouro 4 no Jardim da Estrela - Jardim Guerra Junqueiro(Jardim da Estrela)
+382,-9.15867473911949,38.7337984850018,383,1014,4,Avenida Calouste Gulbenkian,Bebedouro no Corredor Verde,Bebedouro,,5467aa22-64a0-4539-951a-4a06df94beb6,38.7337984850018,-9.15867473911949,BEBEDOURO,Bebedouro no Corredor Verde - Avenida Calouste Gulbenkian
+383,-9.16500072655425,38.7368924142657,384,1017,4,Jardim Amnistia Internacional,Bebedouro 3 no Jardim da Amnistia,Bebedouro,,d1f91c4a-e005-4d38-ab9c-443aaf3da2b7,38.7368924142657,-9.16500072655425,BEBEDOURO,Bebedouro 3 no Jardim da Amnistia - Jardim Amnistia Internacional
+384,-9.18782541773718,38.7730507462682,385,1131,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 13 Cemitério de Carnide,Bica,,6367a917-dd76-4f31-a89b-0d9060b43c39,0.0,0.0,,
+385,-9.18718249618329,38.7740713444848,386,1133,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 15 Cemitério de Carnide,Bica,,5ab31072-b483-4c2d-b599-0d5fa1843f65,0.0,0.0,,
+386,-9.18599421730187,38.7744145131322,387,1135,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 17 Cemitério de Carnide,Bica,,db3fec74-e39b-49b6-a269-ed5eff0e3157,0.0,0.0,,
+387,-9.13245726651698,38.7177631759484,388,1605,4,Rua Damasceno Monteiro,Bebedouro junto ao Parque Infantil do Jardim da Cerca da Graça,Bebedouro,,33a3a540-b578-4d67-a6a7-900f766e180f,38.7177631759484,-9.13245726651698,BEBEDOURO,Bebedouro junto ao Parque Infantil do Jardim da Cerca da Graça - Rua Damasceno Monteiro
+388,-9.18799402522782,38.7736580516849,389,1138,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 20 Cemitério de Carnide,Bica,,a842c06d-f0a0-415f-a271-774fb5bf69c3,0.0,0.0,,
+389,-9.18787695318673,38.7739351936173,390,1139,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 21 Cemitério de Carnide,Bica,,0e77b409-7c2e-4a25-b93d-3d59c30b1c1a,0.0,0.0,,
+390,-9.09353044634272,38.7767486163225,391,3367,4,Cais do Olival,Jogos de água do Braço de Mar,Jogos de água,,ccc7a8f8-4c02-4db9-b4c2-5ad1f967b148,0.0,0.0,,
+391,-9.15594293179777,38.7709203992429,392,1807,4,Alameda das Linhas de Torres,Tanque 2 da Quinta das Conchas,Tanque,,025f4449-d2f7-4b7d-9b19-e276873e8b3e,0.0,0.0,,
+392,-9.16035619578683,38.714786339583,393,1725,4,Jardim Guerra Junqueiro(Jardim da Estrela),Bebedouro 5 no Jardim da Estrela,Bebedouro,,40681e6e-7902-4ae4-96c9-1284566401ca,38.714786339583,-9.16035619578683,BEBEDOURO,Bebedouro 5 no Jardim da Estrela - Jardim Guerra Junqueiro(Jardim da Estrela)
+393,-9.16042135957755,38.7138925693086,394,1726,4,Jardim Guerra Junqueiro(Jardim da Estrela),Bebedouro 6 no Jardim da Estrela,Bebedouro,,86a5ae1f-1956-4af0-af44-f6f79957355c,38.7138925693086,-9.16042135957755,BEBEDOURO,Bebedouro 6 no Jardim da Estrela - Jardim Guerra Junqueiro(Jardim da Estrela)
+394,-9.15955920238193,38.7138513829774,395,1727,4,Jardim Guerra Junqueiro(Jardim da Estrela),Bebedouro 7 no Jardim da Estrela,Bebedouro,,6836ff3b-5edb-4b5c-8ac5-4170e7b7995f,38.7138513829774,-9.15955920238193,BEBEDOURO,Bebedouro 7 no Jardim da Estrela - Jardim Guerra Junqueiro(Jardim da Estrela)
+395,-9.15909885262977,38.7145374432668,396,1728,4,Jardim Guerra Junqueiro(Jardim da Estrela),Bebedouro 8 no Jardim da Estrela,Bebedouro,,7f632dfd-9690-4f51-ab94-e503e7807a92,38.7145374432668,-9.15909885262977,BEBEDOURO,Bebedouro 8 no Jardim da Estrela - Jardim Guerra Junqueiro(Jardim da Estrela)
+396,-9.14113235291127,38.7062679118574,397,4802,4,Avenida da Ribeira das Naus,Bebedouro 1 no Jardim da Ribeira das Naus,Bebedouro,,546ace27-e619-49e2-b5a0-c0c083384118,38.7062679118574,-9.14113235291127,BEBEDOURO,Bebedouro 1 no Jardim da Ribeira das Naus - Avenida da Ribeira das Naus
+397,-9.14029310814529,38.7061008782389,398,4803,4,Avenida da Ribeira das Naus,Bebedouro 2 no Jardim da Ribeira das Naus,Bebedouro,,7743ec12-b748-4c67-b6f1-b7b0e3f8425f,38.7061008782389,-9.14029310814529,BEBEDOURO,Bebedouro 2 no Jardim da Ribeira das Naus - Avenida da Ribeira das Naus
+398,-9.13951374417783,38.7062119445102,399,4804,4,Avenida da Ribeira das Naus,Bebedouro 3 no Jardim da Ribeira das Naus,Bebedouro,,c12d2160-7722-49d1-b9d5-ae797c0574f3,38.7062119445102,-9.13951374417783,BEBEDOURO,Bebedouro 3 no Jardim da Ribeira das Naus - Avenida da Ribeira das Naus
+399,-9.18499801888945,38.7739128238239,400,1126,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 8 Cemitério de Carnide,Bica,,a657bfc0-474a-4f21-889b-406c73bd9b8f,0.0,0.0,,
+400,-9.16580314578346,38.7724541764295,401,18120,4,Rua 4 do Cemitério do Lumiar,Fontanário 20 no Cemitério do Lumiar,Fontanário,,57d5b604-f64c-4fd7-8b72-418f44daea3b,0.0,0.0,,
+401,-9.16697819787064,38.771783658853,402,18126,4,Rua 15 do Cemitério do Lumiar,Fontanário 26 no Cemitério do Lumiar,Fontanário,,be3bd1f1-f2ff-4d65-8c60-53f66323d2a5,0.0,0.0,,
+402,-9.1682700623858,38.7722402036904,403,18135,4,Rua 14A do Cemitério do Lumiar,Fontanário 35 no Cemitério do Lumiar,Fontanário,,87019b05-4a3d-42fd-aa29-1b8e4f85b92d,0.0,0.0,,
+403,-9.16917718026138,38.7727401580678,404,18137,4,Rua 21 do Cemitério do Lumiar,Fontanário 37 no Cemitério do Lumiar,Fontanário,,4aeae5a9-4dde-4ae9-a2fe-2472c27ac1f3,0.0,0.0,,
+404,-9.16986918935566,38.7727976105891,405,18138,4,Rua 20 do Cemitério do Lumiar,Fontanário 38 no Cemitério do Lumiar,Fontanário,,126101b5-7c55-41c2-90ab-fa688ca20e14,0.0,0.0,,
+405,-9.16943639272987,38.7730718171723,406,18139,4,Rua 24 do Cemitério do Lumiar,Fontanário 39 no Cemitério do Lumiar,Fontanário,,7fc16402-3c7b-4422-8685-a0db2063335d,0.0,0.0,,
+406,-9.16918396074513,38.7735241096368,407,18141,4,Rua 22 do Cemitério do Lumiar,Fontanário 41 no Cemitério do Lumiar,Fontanário,,4a6cbe43-cbc9-45d6-a9df-b63c1a997740,0.0,0.0,,
+407,-9.16895663846923,38.7731706695062,408,18142,4,Rua 23 do Cemitério do Lumiar,Fontanário 42 no Cemitério do Lumiar,Fontanário,,bf8fbebf-2b3b-4b2d-915b-134c1698b385,0.0,0.0,,
+408,-9.16821423568415,38.7731143049372,409,18143,4,Rua 24 do Cemitério do Lumiar,Fontanário 43 no Cemitério do Lumiar,Fontanário,,2239d349-e200-4468-92d1-0367336eca66,0.0,0.0,,
+409,-9.19974831632882,38.6968721221268,410,3221,4,Praça Afonso de Albuquerque,Bebedouro 1 no Jardim Afonso de Albuquerque,Bebedouro,,a687f4ad-5283-4fc3-958d-0ad7b2a1dd24,38.6968721221268,-9.19974831632882,BEBEDOURO,Bebedouro 1 no Jardim Afonso de Albuquerque - Praça Afonso de Albuquerque
+410,-9.19996500165346,38.6962172746954,411,3222,4,Praça Afonso de Albuquerque,Bebedouro 2 no Jardim Afonso de Albuquerque,Bebedouro,,25723ea3-8fb1-432e-9e41-ea8a6a25143a,38.6962172746954,-9.19996500165346,BEBEDOURO,Bebedouro 2 no Jardim Afonso de Albuquerque - Praça Afonso de Albuquerque
+411,-9.16546567568069,38.7739149878974,412,18104,4,Rua 3 do Cemitério do Lumiar,Fontanário 4 no Cemitério do Lumiar,Fontanário,,f9c76030-451a-4185-b5ec-194b5592e8d9,0.0,0.0,,
+412,-9.16528534068403,38.7742389860771,413,18105,4,Rua 10 do Cemitério do Lumiar,Fontanário 5 no Cemitério do Lumiar,Fontanário,,19c9f897-d83f-4816-8042-09841e387252,0.0,0.0,,
+413,-9.16608196038978,38.7734536934873,414,18109,4,Rua 5 do Cemitério do Lumiar,Fontanário 9 no Cemitério do Lumiar,Fontanário,,6313b834-4c2f-4864-9854-d2469a70fece,0.0,0.0,,
+414,-9.16546144192073,38.7734552160523,415,18111,4,Rua 3 do Cemitério do Lumiar,Fontanário 11 no Cemitério do Lumiar,Fontanário,,894f1383-3845-48fb-be25-ff3c93b82deb,0.0,0.0,,
+415,-9.16650072173755,38.7729333462152,416,18113,4,Rua 6 do Cemitério do Lumiar,Fontanário 13 no Cemitério do Lumiar,Fontanário,,d014f998-83fd-4344-9c88-18965a397c0e,0.0,0.0,,
+416,-9.16580622790319,38.7729645702261,417,18115,4,Rua 4 do Cemitério do Lumiar,Fontanário 15 no Cemitério do Lumiar,Fontanário,,6c3ea44e-589c-45bd-b98c-ef463468785e,0.0,0.0,,
+417,-9.16511326839135,38.7728951501329,418,18117,4,Rua 2 do Cemitério do Lumiar,Fontanário 17 no Cemitério do Lumiar,Fontanário,,453a5317-26ee-418b-8157-e5ed864ae90f,0.0,0.0,,
+418,-9.16649705122131,38.7725088865667,419,18118,4,Rua 6 do Cemitério do Lumiar,Fontanário 18 no Cemitério do Lumiar,Fontanário,,660d9bbb-5c8c-4de4-b60d-16e57e021ffd,0.0,0.0,,
+419,-9.20058804169349,38.6962397627837,420,3204,4,"Praça Afonso de Albuquerque, Jardim Afonso de Albuquerque",Lago Poente Sul do Jardim Afonso de Albuquerque,Lago,,46d8f489-41f3-46b5-9c2f-312560b7b177,0.0,0.0,,
+420,-9.16392016915011,38.7207509943041,421,3001,4,Rua Ferreira Borges,Fontanário da Rua Ferreira Borges,Fontanário,,06c96bbf-883c-4339-88e7-e3f4bad94711,0.0,0.0,,
+421,-9.10393289780695,38.7427265432454,422,2108,4,Rua Direita de Marvila,Fontanário na Rua Direita de Marvila,Fontanário,,33d409db-ce9a-4976-b5c9-1f034c23546c,0.0,0.0,,
+422,-9.12884518567528,38.7414963749383,423,303,4,Avenida Afonso Costa,Lago do Monumento a Afonso Costa,Lago,,b0ee3e3b-c073-47bb-81bd-c0a2615beba3,0.0,0.0,,
+423,-9.13599784864857,38.7166462372606,424,3105,4,Praça Martim Moniz,Lago do Martim Moniz,Lago,,23a67854-d718-4f2c-962f-63cf08384553,0.0,0.0,,
+424,-9.10566022155436,38.7466428045811,425,2120,4,"Rua de José do Patrocínio(antiga Azinhaga dos Cadetes), Quinta das Flores",Poço 2 na Quinta das Flores,Poço,,cbb22afd-13b0-42f6-8e51-4c2254aa3db6,0.0,0.0,,
+425,-9.10135798753778,38.7478953889931,426,2112,4,Rua do Vale Formoso de Baixo,Chafariz na Rua do Vale Formoso de Baixo,Chafariz,,e9a67c8a-585e-4a78-bede-9c902e298796,0.0,0.0,,
+426,-9.13938210685273,38.7216934376533,427,2404,4,Largo do Mastro,Chafariz do Campo Santana,Chafariz,,af3a651b-d9a4-400e-a64b-3723b0378d4e,0.0,0.0,,
+427,-9.14200978685659,38.7232430717496,428,2405,4,Alameda de Santo António dos Capuchos,Lago com Cascata na Alameda de Sto. António dos Capuchos,Lago,,311d31e8-1a6f-4a66-a40b-f19e9b484f42,0.0,0.0,,
+428,-9.15162278717105,38.7156100453154,429,2204,4,Largo Agostinho da Silva,Chafariz da Praça das Flores ou de Monte Olivete,Chafariz,,1b05d61b-c9ec-47a6-8200-0d869431167e,0.0,0.0,,
+429,-9.16593304127522,38.7087408519393,430,2605,4,Travessa do Chafariz das Terras,Chafariz das Terras ou de Buenos Aires,Chafariz,,7dc6d62e-85f8-4d37-a9a8-ac6c8767db88,0.0,0.0,,
+430,-9.17961350450003,38.7212487203671,431,212,4,"Estrada da Pimenteira, Quinta da Pimenteira",Tanque 6 dos Viveiros da Quinta da Pimenteira,Tanque,,be620610-f05b-4ec6-8e3b-ac959055efc9,0.0,0.0,,
+431,-9.18632378762006,38.719713482539,432,223,4,"Estrada do Alvito, Parque do Alvito",Lago no Parque do Alvito,Lago,,6016d57c-2833-4506-ac6e-9680519dfcb9,0.0,0.0,,
+432,-9.1490379271618,38.7161308013837,433,2203,4,"Praça do Príncipe Real, (subsolo do Jardim França Borges)",Reservatório da Patriarcal,Reservatório,,052be383-4efb-4f17-b5f6-41b285825e4e,0.0,0.0,,
+433,-9.10675690012459,38.7450119999295,434,2102,4,Rua de José do Patrocínio(antiga Azinhaga dos Cadetes),Tanque 1 na Quinta das Flores,Lago,,9acbded5-c486-4bd3-ab9e-a41f177f150e,0.0,0.0,,
+434,-9.21792233316615,38.6926968513435,435,3210,4,"Avenida de Brasília, (junto ao Forte do Bom Sucesso)",Lago do Monumento aos Combatentes do Ultramar,Lago,,b06fc22d-55c3-4338-a31b-28d365de5f53,0.0,0.0,,
+435,-9.15832014533078,38.7143118170383,436,1713,4,Jardim Guerra Junqueiro(Jardim da Estrela),Chafariz 1 do Jardim Guerra Junqueiro,Chafariz,,49461320-3160-42b8-ba15-b1f4efc05d25,0.0,0.0,,
+436,-9.14248659104986,38.7856780065392,437,1304,4,Campo das Amoreiras(antigo Largo da Charneca),Chafariz do Campo das Amoreiras,Chafariz,,f78ab101-da53-4a03-a248-840966dd2e3c,0.0,0.0,,
+437,-9.15860580599785,38.7716358543694,438,1808,4,"Rua da República do Paraguai, Quinta dos Lilazes",Lago 1 e Canais na Quinta dos Lilazes,Lago,,db73adfe-fbd9-443d-ad52-09d740c3ca16,0.0,0.0,,
+438,-9.159067799667,38.7717128760931,439,1825,4,"Rua da República do Paraguai, Quinta dos Lilazes",Poço na Quinta dos Lilazes,Poço,,429334d8-2278-4b88-91a0-c61b379776a4,0.0,0.0,,
+439,-9.16726768086926,38.7596060243263,440,1832,4,Largo do Poço,Poço no Largo do Poço,Poço,,e0e7cab2-df29-44be-996d-001c1c15178b,0.0,0.0,,
+440,-9.15991785655575,38.7142726215974,441,1704,4,Jardim Guerra Junqueiro(Jardim da Estrela),Lago da Fonte,Lago,,b6dc5c14-ae6f-4fc2-8170-047449243779,0.0,0.0,,
+441,-9.14407854676879,38.7150976713148,442,1502,4,"Rua de São Pedro de Alcântara, Jardim António Nobre",Fonte de São Pedro de Alcântara,Fonte,,15a12437-4f75-4cf3-88ad-fb9fd0db9407,0.0,0.0,,
+442,-9.14283086409428,38.7858706505744,443,1303,4,Campo das Amoreiras(antigo Largo da Charneca),Poço no Campo das Amoreiras,Poço,,307a23a4-9a6a-4474-affe-0efcc3a9b0aa,0.0,0.0,,
+443,-9.13386472264962,38.7127837137405,444,1247,4,Castelo de São Jorge,Fontanário 12,Fontanário,,ae2b53ce-cf6b-4513-b11d-de2d29b075b6,0.0,0.0,,
+444,-9.1650112862504,38.7110830637578,445,1712,4,Avenida Infante Santo,Lago da Avenida Infante Santo,Lago,,c68f7c39-cceb-4ee9-a8a5-e1f457b59e75,0.0,0.0,,
+445,-9.15930810439539,38.7146791746833,446,1714,4,Jardim Guerra Junqueiro(Jardim da Estrela),Chafariz 2 do Jardim Guerra Junqueiro,Chafariz,,3c70270b-70fc-4c26-90c5-a873a315ff1d,0.0,0.0,,
+446,-9.13105101233016,38.7160358715762,447,1601,4,Largo da Graça,Lago do Jardim Augusto Gil,Lago,,ae9cdb9a-f25b-4b01-a6e3-7eb4769e52ec,0.0,0.0,,
+447,-9.13356173617563,38.7126038553621,448,1235,4,Castelo de São Jorge,Lago 11,Lago,,78864eae-2881-4995-959f-f29ac61745e2,0.0,0.0,,
+448,-9.13339711630656,38.7127575221416,449,1245,4,Castelo de São Jorge,Fontanário 10,Fontanário,,9a0aaa42-055d-45a2-b180-56edd8c801da,0.0,0.0,,
+449,-9.1333595029473,38.7133159676253,450,1238,4,Castelo de São Jorge,Fontanário 3,Fontanário,,9e721efa-1fb9-4eda-8c51-ed1602ceee7f,0.0,0.0,,
+450,-9.16012327161683,38.7130622149526,451,1709,4,"Praça da Estrela, Jardim da Burra",Lago do Jardim da Burra,Lago,,3e995d7f-db89-4556-8bbd-c79ba512bc8a,0.0,0.0,,
+451,-9.1478109048405,38.7274015470672,452,1401,4,"Largo de Andaluz, frente ao nº 16",Chafariz de Andaluz,Chafariz,,412bc10e-46b3-4e70-a959-b04c01669198,0.0,0.0,,
+452,-9.13390470935785,38.7127622444246,453,1234,4,Castelo de São Jorge,Lago 10,Lago,,e729c950-be0b-4199-a511-04e6d265695d,0.0,0.0,,
+453,-9.17519376365775,38.7712083739913,454,1843,4,"Estrada do Lumiar, Quinta da Paz",Poço na Quinta da Paz,Poço,,931c5000-5a7a-45da-9988-a99f040e5e58,0.0,0.0,,
+454,-9.13994986097689,38.7104367616026,455,2002,4,Rua Garrett,Fonte no Pátio da Rua Garrett,Fonte,,a15d278e-065e-49c5-af2d-ccb31c940937,0.0,0.0,,
+455,-9.15743791168687,38.7701956757647,456,1804,4,"Alameda das Linhas de Torres, Quinta das Conchas",Poço 2 da Quinta das Conchas,Poço,,025cec66-3714-44b9-a2cb-7dfc2a2d4a4a,0.0,0.0,,
+456,-9.17755126545846,38.7046153628065,457,202,4,Largo do Calvário,Chafariz do Largo do Calvário,Chafariz,,53d1b411-6fcf-4a40-964f-522ec176086e,0.0,0.0,,
+457,-9.15661207786975,38.7703603526424,458,1824,4,"Alameda das Linhas de Torres, Rua Silva Tavares (Quinta das Conchas)",Poço 3 da Quinta das Conchas,Poço,,7416a398-efc1-4a1c-8897-b00b6bf9df62,0.0,0.0,,
+458,-9.17422564388615,38.770977546465,459,1810,4,"Alameda Mahatma Gandhi, Quinta de São Cristóvão",Poço 1 dos Viveiros da Quinta de São Cristóvão,Poço,,dfc76017-ec0b-44e5-b111-adec361eb401,0.0,0.0,,
+459,-9.16399699307322,38.7595970468731,460,1831,4,"Estrada de Telheiras, Rua Professor Francisco Gentil",Poço 2 na Rua Professor Francisco Gentil,Poço,,eb497ce7-7051-48a4-be34-daecf75e39ae,0.0,0.0,,
+460,-9.15348408655827,38.7137693508996,461,1710,4,"Rua de São Bento, Jardim de São Bento",Lago do Jardim de São Bento,Lago,,1308b9f0-0f3b-431e-832c-358943fd564d,0.0,0.0,,
+461,-9.17432589677019,38.7707647207185,462,1841,4,"Alameda Mahatma Gandhi, Quinta de São Cristóvão",Lago 2 nos Viveiros da Quinta de São Cristóvão,Lago,,00d7b4fa-e156-473b-b8b3-6e6e24530fe6,0.0,0.0,,
+462,-9.17859287191186,38.7219306671064,463,207,4,"Estrada da Pimenteira, Quinta da Pimenteira",Tanque 3 dos Viveiros da Quinta da Pimenteira,Tanque,,e4862091-18ed-46e9-a275-6d9297f76094,0.0,0.0,,
+463,-9.13047228348816,38.7113357355639,464,4705,4,Largo de Santa Luzia,Lago (Espelho de Água) do Miradouro de Santa Luzia,Lago,,89bb90f1-03bc-4c66-8097-8fbff2b4b1ed,0.0,0.0,,
+464,-9.19036593241242,38.6981685455892,465,203,4,"Rua da Junqueira, entre o nº 154 e 156",Chafariz da Junqueira,Chafariz,,cf4bc287-5665-449f-a1ac-bbc078fe624b,0.0,0.0,,
+465,-9.16042760017382,38.7152264555687,466,1705,4,Jardim Guerra Junqueiro(Jardim da Estrela),Lago O Despertar,Lago,,ba18b3e7-62ab-4916-8beb-d8d7fc1275f5,0.0,0.0,,
+466,-9.17453507756894,38.7716257151154,467,1813,4,"Alameda Mahatma Gandhi, Quinta de São Cristóvão",Poço na Quinta de São Cristóvão,Poço,,ce8f91b1-2632-4b5f-9bb6-1832a6e87b02,0.0,0.0,,
+467,-9.17494960605509,38.7711813521576,468,1817,4,"Estrada do Lumiar, Quinta da Paz",Lago 3 na Quinta da Paz,Lago,,d63f9d91-4632-4849-a1c0-a690af551899,0.0,0.0,,
+468,-9.15452319210192,38.7115927881712,469,1701,4,"Rua das Francesinhas, Jardim Lisboa Antiga",Lago do Jardim Lisboa Antiga,Lago,,bebee4b7-c1de-415a-bc87-f9bc12f29dd6,0.0,0.0,,
+469,-9.17568849283417,38.7700540488914,470,1811,4,"Alameda Mahatma Gandhi, Quinta de São Cristóvão",Poço 2 dos Viveiros da Quinta de São Cristóvão,Poço,,26b9d33f-3c2b-49e0-be9e-f6aa18d9a079,0.0,0.0,,
+470,-9.15949723120373,38.7148270641654,471,1707,4,Jardim Guerra Junqueiro(Jardim da Estrela),"Queda de Água ""Antero de Quental""",Queda de água,,039a8a8f-7182-4f67-b4e7-f580497a5037,0.0,0.0,,
+471,-9.13392599044695,38.7125884414921,472,1249,4,Castelo de São Jorge,Fontanário 14,Fontanário,,51b557b3-357d-4b2e-8cab-cc0975806c62,0.0,0.0,,
+472,-9.16433033901054,38.7754577034663,473,1818,4,Largo Júlio de Castilho,Chafariz do Boneco ou do Lumiar,Chafariz,,3f51fa9b-3c14-4b55-a52d-5da9818a44f0,0.0,0.0,,
+473,-9.14398399639019,38.7142242712484,474,1503,4,"Calçada da Glória, frente ao nº 45",Chafariz da Glória,Chafariz,,98c3805f-88e7-4dcf-a01d-9c79ef97ca0f,0.0,0.0,,
+474,-9.14311849027519,38.786716634725,475,1301,4,Campo das Amoreiras(antigo Largo da Charneca),Lago 1 do Jardim do Campo das Amoreiras,Lago,,35e7fb2c-749b-4e9a-83a1-1cd59e6f4bdb,0.0,0.0,,
+475,-9.1582881275774,38.7695440601071,476,1838,4,"Alameda das Linhas de Torres, Quinta das Conchas",Lago Grande na Quinta das Conchas,Lago,,09a1af94-a342-4fa2-ae59-0111ef27f488,0.0,0.0,,
+476,-9.17600128262285,38.7706052177804,477,1816,4,"Estrada do Lumiar, Quinta da Paz",Lago 2 da Quinta da Paz,Lago,,623261d5-5cf8-41d3-a8a6-9f12d3bafe40,0.0,0.0,,
+477,-9.16496651780992,38.759497109587,478,1837,4,"Estrada de Telheiras, nº 102",Fontanário na Estrada de Telheiras,Fontanário,,eb062c1a-4e6d-4227-a8fc-94d3850fc81a,0.0,0.0,,
+478,-9.15370386657904,38.7699561790828,479,1806,4,"Alameda das Linhas de Torres, Quinta das Conchas",Tanque 1 da Quinta das Conchas,Tanque,,892bb34f-306d-4220-a1af-03b9bc39f605,0.0,0.0,,
+479,-9.1540457770543,38.7699582361172,480,1803,4,"Alameda das Linhas de Torres, Quinta das Conchas",Poço 1 da Quinta das Conchas,Poço,,99e0f6f1-c491-4bf1-b61a-61f53959db86,0.0,0.0,,
+480,-9.16834731750021,38.7601240836621,481,1871,4,Rua Professor Francisco Gentil(antiga Rua 7 da Zona de Telheiras),Lago no Jardim Romântico,Lago,,9d199379-edf5-48bc-9035-0262cf6af0e7,0.0,0.0,,
+481,-9.14947328488448,38.7780130075961,482,1306,4,"Avenida Nuno Krus Abecassis(antiga Avenida 4 do Alto do Lumiar), Parque Oeste",Tanque 1 no Parque Oeste,Lago,,677b8b1a-8f49-4bf0-a106-6ff61de4d03e,0.0,0.0,,
+482,-9.12964631761871,38.7171529768049,483,1602,4,"Largo da Graça, Rua da Voz do Operário",Chafariz no Largo da Graça,Chafariz,,37a7119e-569b-440a-8d2a-0e0434e1a89e,0.0,0.0,,
+483,-9.1740934037915,38.7707600190787,484,1827,4,"Alameda Mahatma Gandhi, Quinta de São Cristóvão",Lago 1 dos Viveiros da Quinta de São Cristóvão,Lago,,b61352ce-9d83-4629-bd86-bd70fcc856a5,0.0,0.0,,
+484,-9.13404899316552,38.7130505421229,485,1240,4,Castelo de São Jorge,Fontanário 5,Fontanário,,7e10ca59-5e09-4d26-a790-143fc45357da,0.0,0.0,,
+485,-9.17439338719749,38.7714568613415,486,1814,4,"Alameda Mahatma Gandhi, Quinta de São Cristóvão",Lago 1 na Quinta de São Cristóvão,Lago,,49168e91-e436-47d0-9e11-3a3804778a66,0.0,0.0,,
+486,-9.16410603597229,38.7138831662468,487,1708,4,Travessa do Patrocínio,Chafariz da Travessa do Patrocínio,Chafariz,,1674cd12-0ec5-4291-a4f6-352a7cf140d7,0.0,0.0,,
+487,-9.15475840517929,38.7116914382557,488,1702,4,"Rua das Francesinhas, Jardim Lisboa Antiga",Mina do Jardim Lisboa Antiga,Mina,,d6bf265a-571f-440f-b950-04879336b336,0.0,0.0,,
+488,-9.13365181563907,38.7138695624709,489,1232,4,Castelo de São Jorge,Lago 8,Lago,,6c6b9c8e-242d-462d-a79a-6652ff5df031,0.0,0.0,,
+489,-9.16384416808381,38.7597781634093,490,1830,4,"Estrada de Telheiras, Rua Professor Francisco Gentil",Poço 1 na Rua Professor Francisco Gentil,Poço,,c0379973-4902-48f0-9947-19c9480d714d,0.0,0.0,,
+490,-9.15467611949926,38.7685136370361,491,1801,4,"Alameda das Linhas de Torres, Quinta das Conchas",Chafariz da Quinta das Conchas,Chafariz,,d4e3df98-2e38-488f-86a4-feaf78a88b03,0.0,0.0,,
+491,-9.1584658188322,38.7149029345871,492,1703,4,Jardim Guerra Junqueiro(Jardim da Estrela),"Lago ""Filha do Rei a guardar patos""",Lago,,482f9cbe-0d95-4dbd-9a1b-3496097ccb4a,0.0,0.0,,
+492,-9.15529638913498,38.7704372405698,493,1839,4,"Alameda das Linhas de Torres, Quinta das Conchas",Percurso de Água na Quinta das Conchas,Percurso de água,,353715e1-2798-46cd-a4b9-6fd179a13b5f,0.0,0.0,,
+493,-9.15338156273321,38.7684433924417,494,1805,4,"Alameda das Linhas de Torres, Quinta das Conchas",Lago da Quinta das Conchas,Lago,,9abde24e-0bd4-4e7c-8684-928ac361836f,0.0,0.0,,
+494,-9.13363480244591,38.7125640204198,495,1251,4,Castelo de São Jorge,Cisterna 1,Reservatório,,1835a953-9167-4732-a8f9-e315d6be2719,0.0,0.0,,
+495,-9.16012238497963,38.7147713453384,496,1706,4,Jardim Guerra Junqueiro(Jardim da Estrela),Lago da Creche,Lago,,06580501-2db5-4e6f-bfbd-5a39aeb2d42e,0.0,0.0,,
+496,-9.15640011229364,38.7712209744184,497,1809,4,"Rua da República do Paraguai, Quinta dos Lilazes",Lago 2 da Quinta dos Lilazes,Tanque,,ffbb855e-1711-42d9-97f4-e0d3b85dde25,0.0,0.0,,
+497,-9.1339993558562,38.7133101554139,498,1239,4,Castelo de São Jorge,Fontanário 4,Fontanário,,b25f335d-8b75-469f-a35d-fbec2d70953e,0.0,0.0,,
+498,-9.17427597289826,38.7707064576223,499,1842,4,"Alameda Mahatma Gandhi, Quinta de São Cristóvão",Lago 3 nos Viveiros da Quinta de São Cristóvão,Lago,,5eeea20a-15f1-4d7c-8aae-f9e76f5d42d1,0.0,0.0,,
+499,-9.1444019007452,38.7152482647931,500,1501,4,"Rua de São Pedro de Alcântara, Jardim António Nobre",Lago do Jardim António Nobre,Lago,,35f8adb7-052c-48f2-8df2-b68ca42c17d9,0.0,0.0,,
+500,-9.15587842108227,38.7141492552456,501,1711,4,Jardim Elisa Baptista de Sousa Pedroso,Lago do Jardim Elisa Baptista de Sousa Pedroso,Lago,,831ec7bb-a20e-47ca-910e-fde2dfa464e1,0.0,0.0,,
+501,-9.17532836901657,38.7709628014425,502,1815,4,"Estrada do Lumiar, Quinta da Paz",Lago 1 da Quinta da Paz,Lago,,e9dfe1f3-5b7d-4944-b1ee-2dc780e9f1fa,0.0,0.0,,
+502,-9.16083717355291,38.7096873938508,503,1716,4,Rua dos Remédios à Lapa,Fontanário na Rua dos Remédios à Lapa,Fontanário,,b2d07d7e-bf6b-4898-8884-131047635a54,0.0,0.0,,
+503,-9.10892516282754,38.7529139450507,504,2127,4,Rua Prof. Lopo de Carvalho(antiga Rua I-20 da Malha I de Chelas),Bebedouro 2 no Parque do Vale Fundão,Bebedouro,,2085803b-a167-47a0-b48e-f99a6300664d,38.7529139450507,-9.10892516282754,BEBEDOURO,Bebedouro 2 no Parque do Vale Fundão - Rua Prof. Lopo de Carvalho(antiga Rua I-20 da Malha I de Chelas)
+504,-9.12737856110812,38.7532705315234,505,2135,4,Avenida Dr. Arlindo Vicente(antiga Rua 1 da Zona N1 de Chelas),Bebedouro 7 no Parque da Belavista Central,Bebedouro,,40611b78-d8b5-4bc8-9d1b-b4694f28689b,38.7532705315234,-9.12737856110812,BEBEDOURO,Bebedouro 7 no Parque da Belavista Central - Avenida Dr. Arlindo Vicente(antiga Rua 1 da Zona N1 de Chelas)
+505,-9.12753093693988,38.7531916754641,506,2137,4,Avenida Dr. Arlindo Vicente(antiga Rua 1 da Zona N1 de Chelas),Bebedouro 9 no Parque da Belavista Central,Bebedouro,,caeacb23-8359-4f0b-9949-f89534b64bee,38.7531916754641,-9.12753093693988,BEBEDOURO,Bebedouro 9 no Parque da Belavista Central - Avenida Dr. Arlindo Vicente(antiga Rua 1 da Zona N1 de Chelas)
+506,-9.12753670502234,38.7532072942431,507,2138,4,Avenida Dr. Arlindo Vicente(antiga Rua 1 da Zona N1 de Chelas),Bebedouro 10 no Parque da Belavista Central,Bebedouro,,2add7ad6-34b5-40a6-b393-2a1ce5074154,38.7532072942431,-9.12753670502234,BEBEDOURO,Bebedouro 10 no Parque da Belavista Central - Avenida Dr. Arlindo Vicente(antiga Rua 1 da Zona N1 de Chelas)
+507,-9.12738203040178,38.7532856556969,508,2136,4,Avenida Dr. Arlindo Vicente(antiga Rua 1 da Zona N1 de Chelas),Bebedouro 8 no Parque da Belavista Central,Bebedouro,,65b1d2a8-db23-4cb2-8fd7-3782dfe882b6,38.7532856556969,-9.12738203040178,BEBEDOURO,Bebedouro 8 no Parque da Belavista Central - Avenida Dr. Arlindo Vicente(antiga Rua 1 da Zona N1 de Chelas)
+508,-9.11928435502095,38.7530037328416,509,2139,4,Avenida do Santo Condestável(antiga Avenida Principal de Chelas),Bebedouro junto ao SkatePark do Parque Hortícola de Chelas,Bebedouro,,50fee70d-a272-414f-9ab7-8cc3bae1b1fb,38.7530037328416,-9.11928435502095,BEBEDOURO,Bebedouro junto ao SkatePark do Parque Hortícola de Chelas - Avenida do Santo Condestável(antiga Avenida Principal de Chelas)
+509,-9.12266168541766,38.7560090391383,510,2140,4,Avenida do Santo Condestável(antiga Avenida Principal de Chelas),Bebedouro junto ao Parque Infantil do Parque Hortícola de Chelas,Bebedouro,,5631d6cd-dabd-4f14-b2d3-726ed4986083,38.7560090391383,-9.12266168541766,BEBEDOURO,Bebedouro junto ao Parque Infantil do Parque Hortícola de Chelas - Avenida do Santo Condestável(antiga Avenida Principal de Chelas)
+510,-9.12964390564217,38.7483066080261,511,2141,4,Rua Interior à Azinhaga da Fonte do Louro,Bebedouro 1 da Quinta da Montanha,Bebedouro,,e4944a40-457f-47e6-b342-77b5c9715494,38.7483066080261,-9.12964390564217,BEBEDOURO,Bebedouro 1 da Quinta da Montanha - Rua Interior à Azinhaga da Fonte do Louro
+511,-9.12973540803701,38.7481442146515,512,2142,4,Rua Interior à Azinhaga da Fonte do Louro,Bebedouro junto ao Parque Infantil da Quinta da Montanha,Bebedouro,,e8b96363-2038-4df6-9a79-5c566c413848,38.7481442146515,-9.12973540803701,BEBEDOURO,Bebedouro junto ao Parque Infantil da Quinta da Montanha - Rua Interior à Azinhaga da Fonte do Louro
+512,-9.1262888453797,38.7455412897311,513,2143,4,Azinhaga do Pombeiro,Bebedouro 2 da Quinta da Montanha,Bebedouro,,76fcfa49-6660-436b-954c-81ded17e4690,38.7455412897311,-9.1262888453797,BEBEDOURO,Bebedouro 2 da Quinta da Montanha - Azinhaga do Pombeiro
+513,-9.20029155183564,38.7362374891436,514,825,4,"Vila Guiné(Estrada de Monsanto, 78A)",Bebedouro 1 no Parque de Merendas da Vila Guiné,Bebedouro,,ff3e93ca-385c-462e-bb09-3b26bb2bd84f,38.7362374891436,-9.20029155183564,BEBEDOURO,"Bebedouro 1 no Parque de Merendas da Vila Guiné - Vila Guiné(Estrada de Monsanto, 78A)"
+514,-9.2000444863864,38.7364074296773,515,826,4,"Vila Guiné(Estrada de Monsanto, 78A)",Bebedouro 2 no Parque de Merendas da Vila Guiné,Bebedouro,,fd84749f-d9d6-4577-b8ba-9f7e07cc05ff,38.7364074296773,-9.2000444863864,BEBEDOURO,"Bebedouro 2 no Parque de Merendas da Vila Guiné - Vila Guiné(Estrada de Monsanto, 78A)"
+515,-9.18888892152395,38.7224789297273,516,244,4,Alameda Keil do Amaral,Bebedouro 1 na Alameda Keil do Amaral,Bebedouro,,fc8767cc-9ef1-4eae-8390-ef21f8c09fd5,38.7224789297273,-9.18888892152395,BEBEDOURO,Bebedouro 1 na Alameda Keil do Amaral - Alameda Keil do Amaral
+516,-9.19033284207064,38.7213866404996,517,245,4,Alameda Keil do Amaral,Bebedouro junto ao Skate Park da Alameda Keil do Amaral,Bebedouro,,6cef1f76-2d98-4564-a294-1d4f73e30143,38.7213866404996,-9.19033284207064,BEBEDOURO,Bebedouro junto ao Skate Park da Alameda Keil do Amaral - Alameda Keil do Amaral
+517,-9.19044830253407,38.7212836731579,518,246,4,Alameda Keil do Amaral,Bebedouro junto ao Parque Infantil da Alameda Keil do Amaral,Bebedouro,,a65a7f09-9eb2-461a-a496-abfb086a41e0,38.7212836731579,-9.19044830253407,BEBEDOURO,Bebedouro junto ao Parque Infantil da Alameda Keil do Amaral - Alameda Keil do Amaral
+518,-9.1337114143666,38.7126757670849,519,1219,4,Castelo de São Jorge,Poço 3,Poço,,fe981a10-e057-4b7c-9d9e-0152f4b03a04,0.0,0.0,,
+519,-9.1499583454935,38.7252008923198,520,1402,4,Praça do Marquês de Pombal,Lago da Estátua,Lago,,39290085-809f-4183-9281-6d9b6f69e535,0.0,0.0,,
+520,-9.19573312099496,38.7072928619757,521,108,4,Largo da Ajuda,Fontanário no Largo da Ajuda,Fontanário,,cbc30697-0638-4943-a97f-b07a8ec6f74f,0.0,0.0,,
+521,-9.13347784610452,38.7127825466634,522,1229,4,Castelo de São Jorge,Lago 5,Lago,,6b9cd67c-86c4-4f5e-ad7c-ac60b9c21b40,0.0,0.0,,
+522,-9.1985268707488,38.7087693330301,523,110,4,"Calçada do Mirante à Ajuda, Pátio",Mãe de Água do Pátio à Calçada do Mirante à Ajuda,Reservatório,,70bbf1bf-3b4d-4fa5-a2a0-7ca82988643d,0.0,0.0,,
+523,-9.1337946684305,38.7123692396392,524,1205,4,Castelo de São Jorge,Tanque com bica 5,Tanque,,18326c49-23f7-4823-a19b-344b894a1215,0.0,0.0,,
+524,-9.13363637180271,38.7139779117635,525,1210,4,Castelo de São Jorge,Tanque com bica 10,Tanque,,9470bbdf-1797-4ec1-abfc-2e2fadaf4b80,0.0,0.0,,
+525,-9.13335408520784,38.7128785567442,526,1227,4,Castelo de São Jorge,Lago 3,Lago,,e4c9e082-7390-4bc5-8105-386fdd415505,0.0,0.0,,
+526,-9.13368212839003,38.7139237602687,527,1221,4,Castelo de São Jorge,Poço 5,Poço,,ddfc8564-e01a-4673-a0a0-efe6651d58d2,0.0,0.0,,
+527,-9.13298657095038,38.7135153390866,528,1201,4,"Pátio do Sequeira(Largo de Santa Cruz ao Castelo, 7)",Tanque com bica 1,Tanque,,1f1c7e2a-fec7-4200-b6ba-a431291191a3,0.0,0.0,,
+528,-9.1942178769097,38.7031581568253,529,104,4,"Rua Nova do Calhariz, frente ao Posto de Limpeza nº 1",Chafariz da Boa Hora,Chafariz,,512205ed-da5d-454b-9f60-ed1f94d29a52,0.0,0.0,,
+529,-9.1914566497624,38.7040357566801,530,105,4,"Largo do Rio Seco, frente ao nº 12",Chafariz do Rio Seco,Chafariz,,6fdb3acb-8d8f-4ff7-a878-a465e212e6e0,0.0,0.0,,
+530,-9.13314984154987,38.7137361453767,531,1208,4,Castelo de São Jorge,Tanque com bica 8,Tanque,,2fb96805-6924-46c1-a909-35bd00dfc261,0.0,0.0,,
+531,-9.13367839050011,38.7139508262081,532,1220,4,Castelo de São Jorge,Poço 4,Poço,,fbbaa348-b69e-4434-affd-aaa89e183161,0.0,0.0,,
+532,-9.1338104841694,38.7143336699995,533,1211,4,Castelo de São Jorge,Tanque com bica 11,Tanque,,f124905d-254e-430e-8eba-069094f5e156,0.0,0.0,,
+533,-9.13403567743808,38.7126039703178,534,1241,4,Castelo de São Jorge,Fontanário 6,Fontanário,,de740df9-04ad-4314-a927-1ae52a0376d0,0.0,0.0,,
+534,-9.19449401363814,38.7075997672948,535,111,4,"Pátio Seabra(Largo da Ajuda, 17)",Reservatório no Pátio do Seabra,Reservatório,,582e9404-38ac-40f3-b0e2-3464aebb3853,0.0,0.0,,
+535,-9.18373344878591,38.7738824000252,536,1107,4,Estrada da Circunvalação,Lago 1 do Cemitério de Carnide,Lago,,7cf42ec2-6689-4429-b4ba-928fbd016552,0.0,0.0,,
+536,-9.13337820317658,38.7127300625186,537,1233,4,Castelo de São Jorge,Lago 9,Lago,,79ee0a56-b955-4d90-acdf-a5035b1adeca,0.0,0.0,,
+537,-9.13330210060064,38.7127547751283,538,1228,4,Castelo de São Jorge,Lago 4,Lago,,ba8ab31b-e61e-4353-a6ea-efa87defa145,0.0,0.0,,
+538,-9.19527511943894,38.7099254454435,539,114,4,"Rua do Sítio ao Casalinho da Ajuda, Rua do Cruzeiro",Reservatório na Rua do Sítio ao Casalinho da Ajuda,Reservatório,,3d91ea38-85ec-4d66-88c0-db7fe1cf00b8,0.0,0.0,,
+539,-9.17862866977593,38.7621953805012,540,1110,4,Alameda Roentgen(antiga Alameda Central à Quinta dos Inglesinhos),Lagos na Alameda Roentgen,Lago,,140c60b3-07de-4b8c-aee7-1ae84ff79c85,0.0,0.0,,
+540,-9.13188645362924,38.7142699846888,541,1214,4,Castelo de São Jorge,Tanque com bica 14,Tanque,,1110b84e-dd8a-492f-be3a-dd6032716c80,0.0,0.0,,
+541,-9.13359914651565,38.7142975159163,542,1223,4,Castelo de São Jorge,Poço 7,Poço,,35891ea4-126f-461d-8f51-19565c955056,0.0,0.0,,
+542,-9.13380980055147,38.7131592094835,543,1224,4,Castelo de São Jorge,Fontanário,Fontanário,,082af2c2-8b88-4b51-bd05-af82ec3e5905,0.0,0.0,,
+543,-9.13209523108442,38.7138622706273,544,1225,4,Castelo de São Jorge,Lago 1,Lago,,27f07e77-2232-440a-8bae-17413a70cc2b,0.0,0.0,,
+544,-9.19810171429449,38.7083835426175,545,113,4,Calçada do Mirante à Ajuda,Reservatório do Palácio da Ajuda,Reservatório,,38c5d478-03d8-4f66-82f1-8f73e2426f12,0.0,0.0,,
+545,-9.15223384188854,38.7380409015074,546,2303,4,Avenida Conde de Valbom,Bebedouro na Av. Conde de Valbom,Bebedouro,,07478072-54cb-468b-8e56-c8721c83f66c,38.7380409015074,-9.15223384188854,BEBEDOURO,Bebedouro na Av. Conde de Valbom - Avenida Conde de Valbom
+546,-9.11912744359535,38.7278480109974,547,4104,4,Parada do Alto de São João,Chafariz do Cemitério do Alto de São João,Chafariz,,c9fbc368-5acd-4493-96b4-a65d9cc44d2e,0.0,0.0,,
+547,-9.18686303640363,38.7750780838579,548,1109,4,Estrada da Circunvalação,Lago 2 do Cemitério de Carnide,Lago,,1d314be9-a6f0-4de1-a2bb-2ec13789f4b3,0.0,0.0,,
+548,-9.13270528597704,38.7143491584929,549,1215,4,Castelo de São Jorge,Tanque com bica 15,Tanque,,533a9e1e-d6ee-465b-a6e4-2a3fe0a69985,0.0,0.0,,
+549,-9.13312904555106,38.7141776928267,550,1222,4,Castelo de São Jorge,Poço 6,Poço,,53f57851-deb1-42e3-bfb4-7d79078a536c,0.0,0.0,,
+550,-9.1335648901606,38.7126163007104,551,1206,4,Castelo de São Jorge,Tanque com bica 6,Tanque,,da5c06ae-7af6-44cb-9ea4-33b52642dd99,0.0,0.0,,
+551,-9.20329885628534,38.7094915747923,552,124,4,Calçada do Galvão,Bebedouro na Calçada do Galvão - frente ao Cemitério da Ajuda,Bebedouro,,f936d77b-e7de-4636-8ebd-370b2bc0dd94,38.7094915747923,-9.20329885628534,BEBEDOURO,Bebedouro na Calçada do Galvão - frente ao Cemitério da Ajuda - Calçada do Galvão
+552,-9.20197460840252,38.7027611537604,553,121,4,Largo da Memória,Bebedouro no Largo da Memória - junto à igreja,Bebedouro,,fe898175-e14b-4112-8e5a-02a302525997,38.7027611537604,-9.20197460840252,BEBEDOURO,Bebedouro no Largo da Memória - junto à igreja - Largo da Memória
+553,-9.19914622410291,38.7082340499554,554,130,4,Calçada do Mirante à Ajuda,Lago dos Mosaicos no Jardim das Damas - Palácio da Ajuda,Lago,,a4ae2c51-54ef-4014-a2e5-3a16f7fbf2ef,0.0,0.0,,
+554,-9.14327514118941,38.741160541626,555,2308,4,Avenida Barbosa du Bocage,Fonte no Jardim do Palácio das Galveias,,,ec15f59e-e29f-4489-a840-42bc02a0ff65,0.0,0.0,,
+555,-9.18680504476217,38.719423901766,556,236,4,Estrada do Alvito,Bebedouro 4 no Parque do Alvito,Bebedouro,,b47b7463-2752-4545-af8d-c487f8dfcd04,38.719423901766,-9.18680504476217,BEBEDOURO,Bebedouro 4 no Parque do Alvito - Estrada do Alvito
+556,-9.20538768725591,38.7141273153122,557,119,4,Rua Maria Teresa de Noronha(Bairro do Caramão da Ajuda),Bebedouro no Parque Infantil do Largo Oriental,Bebedouro,,a9a20531-a6f0-41d6-adcd-407c8543c47c,38.7141273153122,-9.20538768725591,BEBEDOURO,Bebedouro no Parque Infantil do Largo Oriental - Rua Maria Teresa de Noronha(Bairro do Caramão da Ajuda)
+557,-9.19504574810586,38.7037524427456,558,117,4,Travessa da Boa-Hora à Ajuda,Bebedouro na Travessa da Bora Hora à Ajuda - frente ao n.º 4 ,Bebedouro,,3cf00dcf-5d08-4798-9809-006ad4e30e3c,38.7037524427456,-9.19504574810586,BEBEDOURO,Bebedouro na Travessa da Bora Hora à Ajuda - frente ao n.º 4  - Travessa da Boa-Hora à Ajuda
+558,-9.13998129752028,38.7116817692412,559,2702,4,Travessa D. Pedro de Menezes,Tanque e Percurso de Água na Travessa D. Pedro de Menezes,Tanque,,12d6c537-bca9-4fab-bc8c-662cf9dd9a0e,0.0,0.0,,
+559,-9.19926585005435,38.7085542181477,560,126,4,Calçada do Mirante à Ajuda,Lago Pequeno no Jardim das Damas - Palácio da Ajuda,Lago,,2f151fbd-5f05-42e8-a32a-7118825ee638,0.0,0.0,,
+560,-9.19881372617521,38.7085482968959,561,127,4,Calçada do Mirante à Ajuda,Cascata Pequena no Jardim das Damas - Palácio da Ajuda,Cascata,,7bf04599-34fc-4198-838b-0e0d5f26b5eb,0.0,0.0,,
+561,-9.19916550284722,38.7084383397149,562,128,4,Calçada do Mirante à Ajuda,Lago Oval no Jardim das Damas - Palácio da Ajuda,Lago,,4896f0ea-9aa6-44f4-b8b5-c56ab9fbba77,0.0,0.0,,
+562,-9.19841962897185,38.7084029151848,563,129,4,Calçada do Mirante à Ajuda,Cascata Grande no Jardim das Damas - Palácio da Ajuda,Cascata,,829fdbcb-6626-4cdd-a3e9-ffeb6ceb4b97,0.0,0.0,,
+563,-9.19960072492427,38.7581405151004,564,868,4,Rua 7 do Cemitério de Benfica,Bica 39 no Cemitério de Benfica,Bica,,e8fa40bf-601e-4448-8b77-0e6bf8f3c07a,0.0,0.0,,
+564,-9.16927896836622,38.7730630774333,565,1893,4,Rua 24 do Cemitério do Lumiar,Tanque no Cemitério do Lumiar,Tanque,,6c7de8fc-2ed7-400e-ba91-0a97fc80278f,0.0,0.0,,
+565,-9.16817789523763,38.772389362123,566,1895,4,Rua 20 do Cemitério do Lumiar,Bica 2 no Cemitério do Lumiar,Bica,,7876705c-be47-46c6-8d5c-b24d48819127,0.0,0.0,,
+566,-9.16786466437615,38.771836870017,567,1896,4,Rua 16 do Cemitério do Lumiar,Bica 3 no Cemitério do Lumiar,Bica,,b524c8e9-325e-4f07-bf7d-23e9a27507ce,0.0,0.0,,
+567,-9.16635407086913,38.7741815368178,568,1898,4,Rua 10 do Cemitério do Lumiar,Bica 5 no Cemitério do Lumiar,Bica,,3134c2d7-2097-4f46-aa2e-e41f362bbaab,0.0,0.0,,
+568,-9.16515625547262,38.7731377948487,569,1899,4,Rua 1 do Cemitério do Lumiar,Bebedouro 1 no Cemitério do Lumiar,Bebedouro,,ca08df7d-4192-41e2-b2f0-bbbb198bbbee,38.7731377948487,-9.16515625547262,BEBEDOURO,Bebedouro 1 no Cemitério do Lumiar - Rua 1 do Cemitério do Lumiar
+569,-9.16146203357969,38.712340172585,570,1715,4,Rua de São Ciro,Fontanário na Rua de São Ciro,Fontanário,,61945222-0172-4485-b379-05c8fd911977,0.0,0.0,,
+570,-9.13390473900225,38.7127731006977,571,1248,4,Castelo de São Jorge,Fontanário 13,Fontanário,,4779fbe3-0d7c-4010-80ea-d1dba1147e77,0.0,0.0,,
+571,-9.13217823721332,38.7135010083658,572,1236,4,Castelo de São Jorge,Fontanário 1,Fontanário,,dc6c1e20-4fad-47f3-bd88-7c5d2b9e011c,0.0,0.0,,
+572,-9.17382372684825,38.7720944361146,573,1823,4,"Largo de São Sebastião, Estrada do Paço do Lumiar",Fontanário no Largo de São Sebastião,Fontanário,,3cd82bef-2d2e-4d99-98da-a8b13165952a,0.0,0.0,,
+573,-9.13309253711959,38.7121440972343,574,1237,4,Castelo de São Jorge,Fontanário 2,Fontanário,,92aa464d-9302-490e-840a-b22e43426957,0.0,0.0,,
+574,-9.15645768262525,38.7741683794392,575,1822,4,"Estrada da Torre, Azinhaga da Musgueira",Fontanário da Estrada da Torre,Fontanário,,945a88ea-124b-422b-b328-588ca4ac03c0,0.0,0.0,,
+575,-9.13266340651849,38.7189760415992,576,1603,4,Largo do Monte,Chafariz do Miradouro da Senhora do Monte,Chafariz,,bb99c853-44b7-493d-b637-6d09d4c99a88,0.0,0.0,,
+576,-9.13352694083142,38.7129500237911,577,1250,4,Castelo de São Jorge,Fontanário 15,Fontanário,,c1ff48fc-0b26-4e51-9b64-9e0e19c22e1f,0.0,0.0,,
+577,-9.10859994394863,38.7635348839952,578,3375,4,Rua 14 do Cemitério dos Olivais,Bica 1 no Cemitério dos Olivais,Bica,,8b5ff56a-9eef-417f-b561-819a9d7f5a2f,0.0,0.0,,
+578,-9.15303936928867,38.7801950865019,579,1317,4,Avenida Nuno Krus Abecassis(antiga Avenida 4 do Alto do Lumiar),Bebedouro 1 no Parque Oeste,Bebedouro,,47814120-d64a-4882-82e4-333185c833a9,38.7801950865019,-9.15303936928867,BEBEDOURO,Bebedouro 1 no Parque Oeste - Avenida Nuno Krus Abecassis(antiga Avenida 4 do Alto do Lumiar)
+579,-9.15496262098945,38.7806517154551,580,1318,4,Avenida Nuno Krus Abecassis(antiga Avenida 4 do Alto do Lumiar),Bebedouro 2 no Parque Oeste,Bebedouro,,32537685-8b68-4840-9f15-2dd0836b78f6,38.7806517154551,-9.15496262098945,BEBEDOURO,Bebedouro 2 no Parque Oeste - Avenida Nuno Krus Abecassis(antiga Avenida 4 do Alto do Lumiar)
+580,-9.17012698787588,38.7597885439132,581,1879,4,Rua Hermano Neves(antiga Rua 24 de Telheiras Sul),Bebedouro na Rua Hermano Neves,Bebedouro,,f9fa4bf4-c0a0-4094-b021-e08d0bc7227e,38.7597885439132,-9.17012698787588,BEBEDOURO,Bebedouro na Rua Hermano Neves - Rua Hermano Neves(antiga Rua 24 de Telheiras Sul)
+581,-9.17015946646498,38.768173731898,582,1880,4,Rua Frederico George(antiga Rua B- Alto da Faia e Rua A - Enc Telheiras),Bebedouro no Parque Infantil da Rua Frederico George,Bebedouro,,c8cd9722-4bda-4c67-aa7c-b62528603c1a,38.768173731898,-9.17015946646498,BEBEDOURO,Bebedouro no Parque Infantil da Rua Frederico George - Rua Frederico George(antiga Rua B- Alto da Faia e Rua A - Enc Telheiras)
+582,-9.17621728343123,38.7704593053865,583,1885,4,Azinhaga da Torre do Fato,Bebedouro 1 na Quinta da Paz,Bebedouro,,635d28bb-27c0-4526-8438-d1a302eb2239,38.7704593053865,-9.17621728343123,BEBEDOURO,Bebedouro 1 na Quinta da Paz - Azinhaga da Torre do Fato
+583,-9.17562469717763,38.7707863154803,584,1886,4,Azinhaga da Torre do Fato,Bebedouro 2 na Quinta da Paz,Bebedouro,,0f65d9c8-6935-4a32-b86b-b3622af76f8e,38.7707863154803,-9.17562469717763,BEBEDOURO,Bebedouro 2 na Quinta da Paz - Azinhaga da Torre do Fato
+584,-9.15569000573963,38.7708473436018,585,1887,4,Alameda das Linhas de Torres,Bebedouro Junto ao Parque Infantil da Quinta das Conchas,Bebedouro,,c1832a00-cdad-4dfd-bfc1-e24491115b25,38.7708473436018,-9.15569000573963,BEBEDOURO,Bebedouro Junto ao Parque Infantil da Quinta das Conchas - Alameda das Linhas de Torres
+585,-9.09284578546743,38.7873782550207,586,3376,4,Passeio do Parque,Bebedouro 1 no Parque Tejo,Bebedouro,,332feaa6-0cdb-4a38-a945-65a25ff9287c,38.7873782550207,-9.09284578546743,BEBEDOURO,Bebedouro 1 no Parque Tejo - Passeio do Parque
+586,-9.09462822175587,38.7867955538666,587,3377,4,Caminho das Cegonhas,Bebedouro 2 no Parque Tejo,Bebedouro,,ec4af781-fcc0-416e-a920-01d6aa3b54bd,38.7867955538666,-9.09462822175587,BEBEDOURO,Bebedouro 2 no Parque Tejo - Caminho das Cegonhas
+587,-9.0948494678272,38.7862745105809,588,3378,4,Caminho dos Rouxinóis,Bebedouro 3 no Parque Tejo,Bebedouro,,1d4d6281-4733-4658-8659-bdedca1f9735,38.7862745105809,-9.0948494678272,BEBEDOURO,Bebedouro 3 no Parque Tejo - Caminho dos Rouxinóis
+588,-9.0938417206735,38.7866291097614,589,3379,4,Passeio do Parque,Bebedouro 4 no Parque Tejo,Bebedouro,,0afe7a9a-ca98-405f-ab40-b9ffaecd19e3,38.7866291097614,-9.0938417206735,BEBEDOURO,Bebedouro 4 no Parque Tejo - Passeio do Parque
+589,-9.09239372806364,38.786441089957,590,3380,4,Passeio do Sapal,Bebedouro 5 no Parque Tejo,Bebedouro,,7a75f0f6-c2b2-4c6c-9331-ce8a591e1b62,38.786441089957,-9.09239372806364,BEBEDOURO,Bebedouro 5 no Parque Tejo - Passeio do Sapal
+590,-9.09309848874339,38.7822749230025,591,3381,4,Passeio dos Heróis do Mar,Bebedouro 6 no Parque Tejo,Bebedouro,,0fc05e85-bc14-4966-8c73-801ac898fd0a,38.7822749230025,-9.09309848874339,BEBEDOURO,Bebedouro 6 no Parque Tejo - Passeio dos Heróis do Mar
+591,-9.09219834448935,38.7799899368014,592,3382,4,Passeio dos Heróis do Mar,Bebedouro 7 no Parque Tejo,Bebedouro,,6c695cb4-a8db-471a-b27c-263c19fbfeb4,38.7799899368014,-9.09219834448935,BEBEDOURO,Bebedouro 7 no Parque Tejo - Passeio dos Heróis do Mar
+592,-9.19448174175306,38.7206778193277,593,132,4,Alameda Keil do Amaral,Bebedouro 2 junto ao Anfiteatro Keil do Amaral,Bebedouro,,9fa3f362-3289-4b03-ba78-5983bbad9659,38.7206778193277,-9.19448174175306,BEBEDOURO,Bebedouro 2 junto ao Anfiteatro Keil do Amaral - Alameda Keil do Amaral
+593,-9.1644394690462,38.7600708504529,594,1884,4,Rua Professor Francisco Gentil(antiga Rua 7 da Zona de Telheiras),Bebedouro no Parque Hortícola de Telheiras,Bebedouro,,77ff1d57-13c8-401f-90db-3dfec45cb746,38.7600708504529,-9.1644394690462,BEBEDOURO,Bebedouro no Parque Hortícola de Telheiras - Rua Professor Francisco Gentil(antiga Rua 7 da Zona de Telheiras)
+594,-9.16475302869105,38.7603111144225,595,1883,4,Rua Professor Francisco Gentil(antiga Rua 7 da Zona de Telheiras),Bica no Parque Hortícola de Telheiras,Bica,,f881b1df-6c13-497c-8231-48dcef4b2046,0.0,0.0,,
+595,-9.18239431222556,38.7464943784181,596,3939,4,Estrada de Benfica,Bebedouro no Jardim Beau Séjour,Bebedouro,,7948f236-1878-498e-9ec1-fb2a22b5caf9,38.7464943784181,-9.18239431222556,BEBEDOURO,Bebedouro no Jardim Beau Séjour - Estrada de Benfica
+596,-9.16164882297165,38.7740565181613,597,1881,4,Rua Prof. Manuel Valadares,Bebedouro 1 na Rua Prof. Manuel Valadares,Bebedouro,,56d5d1a9-27f0-470a-ae70-0a01ff6f36d6,38.7740565181613,-9.16164882297165,BEBEDOURO,Bebedouro 1 na Rua Prof. Manuel Valadares - Rua Prof. Manuel Valadares
+597,-9.16156238258345,38.7745454007211,598,1882,4,Rua Prof. Manuel Valadares,Bebedouro 2 na Rua Prof. Manuel Valadares,Bebedouro,,5b004d06-b5e1-4904-9e99-d81c21a85f47,38.7745454007211,-9.16156238258345,BEBEDOURO,Bebedouro 2 na Rua Prof. Manuel Valadares - Rua Prof. Manuel Valadares
+598,-9.14908556571964,38.772129431958,599,33117,4,Eixo Central(Alto do Lumiar),Bebedouro 1 no Eixo Central do Alto do Lumiar,Bebedouro,,90b6705b-d80b-4fb5-8426-dcbd403447c1,38.772129431958,-9.14908556571964,BEBEDOURO,Bebedouro 1 no Eixo Central do Alto do Lumiar - Eixo Central(Alto do Lumiar)
+599,-9.14841667476919,38.7743995061917,600,33118,4,Eixo Central(Alto do Lumiar),Bebedouro 2 no Eixo Central do Alto do Lumiar,Bebedouro,,558995d8-7885-4d0b-9ec7-5d959ec346c7,38.7743995061917,-9.14841667476919,BEBEDOURO,Bebedouro 2 no Eixo Central do Alto do Lumiar - Eixo Central(Alto do Lumiar)
+600,-9.14811096460327,38.7752585441035,601,33119,4,Eixo Central(Alto do Lumiar),Bebedouro 3 no Eixo Central do Alto do Lumiar,Bebedouro,,6453bf77-5451-41ad-8153-c425e2de4e3b,38.7752585441035,-9.14811096460327,BEBEDOURO,Bebedouro 3 no Eixo Central do Alto do Lumiar - Eixo Central(Alto do Lumiar)
+601,-9.14781651032788,38.7759922965848,602,33120,4,Eixo Central(Alto do Lumiar),Bebedouro 4 no Eixo Central do Alto do Lumiar,Bebedouro,,9359f0e9-960f-414d-9b72-084c9eb045aa,38.7759922965848,-9.14781651032788,BEBEDOURO,Bebedouro 4 no Eixo Central do Alto do Lumiar - Eixo Central(Alto do Lumiar)
+602,-9.16652854525685,38.7739205710666,603,18101,4,Rua 6 do Cemitério do Lumiar,Fontanário 1 no Cemitério do Lumiar,Fontanário,,9740545e-a879-4857-8253-818501040ebd,0.0,0.0,,
+603,-9.19739646403293,38.7581854025703,604,863,4,Rua 19 do Cemitério de Benfica,Bica 34 no Cemitério de Benfica,Bica,,88378ff2-bd5f-4c63-bb71-866da59ee92f,0.0,0.0,,
+604,-9.19799922370708,38.7585661670221,605,865,4,Rua 18 do Cemitério de Benfica,Bica 36 no Cemitério de Benfica,Bica,,3aa90c25-e375-4b8b-933e-fd8f0d50b415,0.0,0.0,,
+605,-9.19864655509072,38.7586855002724,606,867,4,Rua 15 do Cemitério de Benfica,Bica 38 no Cemitério de Benfica,Bica,,cbea1b80-ea30-45ba-9786-73709c887e41,0.0,0.0,,
+606,-9.19381244925567,38.7205091071485,607,131,4,Alameda Keil do Amaral,Bebedouro 1 junto ao Anfiteatro Keil do Amaral,Bebedouro,,083cce9a-22ff-49a1-8c3c-71e3cfa0233f,38.7205091071485,-9.19381244925567,BEBEDOURO,Bebedouro 1 junto ao Anfiteatro Keil do Amaral - Alameda Keil do Amaral
+607,-9.19344466191037,38.7213071892395,608,249,4,Alameda Keil do Amaral,Bebedouro 1 junto ao Miradouro Keil do Amaral,Bebedouro,,c589e045-7e91-46fc-888f-d083b1301872,38.7213071892395,-9.19344466191037,BEBEDOURO,Bebedouro 1 junto ao Miradouro Keil do Amaral - Alameda Keil do Amaral
+608,-9.19267014076059,38.7223521202301,609,250,4,Alameda Keil do Amaral,Bebedouro 2 junto ao Miradouro Keil do Amaral,Bebedouro,,f77adb70-90e5-4a78-8749-81e64aaece94,38.7223521202301,-9.19267014076059,BEBEDOURO,Bebedouro 2 junto ao Miradouro Keil do Amaral - Alameda Keil do Amaral
+609,-9.19615996807864,38.7188384434282,610,133,4,Alameda Keil do Amaral,Bebedouro 2 na Alameda Keil do Amaral,Bebedouro,,73af26ee-8755-4d82-aafb-0da4aa6b73c3,38.7188384434282,-9.19615996807864,BEBEDOURO,Bebedouro 2 na Alameda Keil do Amaral - Alameda Keil do Amaral
+610,-9.19677549550794,38.7247787986198,611,827,4,Estrada das Oliveiras de Baixo,Bebedouro no Parque de Merendas da Cruz das Oliveiras,Bebedouro,,e4571e10-e0d9-4772-9532-d994cc98d23f,38.7247787986198,-9.19677549550794,BEBEDOURO,Bebedouro no Parque de Merendas da Cruz das Oliveiras - Estrada das Oliveiras de Baixo
+611,-9.19646980869821,38.7207229434148,612,134,4,Estrada do Penedo,Bebedouro no Miradouro do Moinho do Penedo,Bebedouro,,b9eed726-6fbb-415b-bc62-4ab0bc51153e,38.7207229434148,-9.19646980869821,BEBEDOURO,Bebedouro no Miradouro do Moinho do Penedo - Estrada do Penedo
+612,-9.19643958667713,38.7209985716786,613,135,4,Estrada do Penedo,Bebedouro no Parque de Merendas do Moinho do Penedo,Bebedouro,,32ce80bb-7e34-412c-bc5e-55bc69cf69f5,38.7209985716786,-9.19643958667713,BEBEDOURO,Bebedouro no Parque de Merendas do Moinho do Penedo - Estrada do Penedo
+613,-9.20027571633381,38.7184750356566,614,136,4,Estrada de Montes Claros,Bebedouro 1 na Estrada de Montes Claros,Bebedouro,,a093396f-6c55-43af-b29e-16a039482f5f,38.7184750356566,-9.20027571633381,BEBEDOURO,Bebedouro 1 na Estrada de Montes Claros - Estrada de Montes Claros
+614,-9.20061896350217,38.7188482607637,615,137,4,Estrada de Montes Claros,Bebedouro no Parque de Merendas de Montes Claros,Bebedouro,,11dfc392-4d16-4c29-8641-36d363ec93f4,38.7188482607637,-9.20061896350217,BEBEDOURO,Bebedouro no Parque de Merendas de Montes Claros - Estrada de Montes Claros
+615,-9.18646686229534,38.7745999488763,616,1141,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 23 Cemitério de Carnide,Bica,,01bfb71a-0601-4ede-acf7-2c3ad4b657b4,0.0,0.0,,
+616,-9.15900791078364,38.7702463324143,617,1889,4,Alameda das Linhas de Torres,Bebedouro 2 na Quinta das Conchas,Bebedouro,,baa5884a-d418-4b83-9f13-c34f8af27974,38.7702463324143,-9.15900791078364,BEBEDOURO,Bebedouro 2 na Quinta das Conchas - Alameda das Linhas de Torres
+617,-9.18631018892327,38.7724291300885,618,1112,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Fontanário 1 Cemitério de Carnide,Fontanário,,e60993e8-55c4-48d1-a8d7-a50c6325b219,0.0,0.0,,
+618,-9.18553262607795,38.7729462678013,619,1113,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Fontanário 2 Cemitério de Carnide,Fontanário,,595515d3-5c8a-441a-a6cd-c1da1d04a5c0,0.0,0.0,,
+619,-9.16060773304956,38.7852648062084,620,505,4,Rua Prof. Adelino da Palma Carlos,Bebedouro junto às Piscinas da Ameixoeira,Bebedouro,,999bae54-635f-4b8e-b579-a563b226c813,38.7852648062084,-9.16060773304956,BEBEDOURO,Bebedouro junto às Piscinas da Ameixoeira - Rua Prof. Adelino da Palma Carlos
+620,-9.18701112906812,38.7750271119866,621,1117,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Fontanário 6 Cemitério de Carnide,Fontanário,,2dbb88de-a335-4d7d-814e-ddff4e660fda,0.0,0.0,,
+621,-9.20212262201524,38.7570960095577,622,828,4,Rua João Ortigão Ramos,Bebedouro 1 no Cemitério de Benfica,Bebedouro,,f17bfef7-3dab-484a-a46d-35b71afae88e,38.7570960095577,-9.20212262201524,BEBEDOURO,Bebedouro 1 no Cemitério de Benfica - Rua João Ortigão Ramos
+622,-9.20214071139012,38.757088378174,623,829,4,Rua João Ortigão Ramos,Bebedouro 2 no Cemitério de Benfica,Bebedouro,,de03badb-e883-4c12-89d1-3f039f33cb0b,38.757088378174,-9.20214071139012,BEBEDOURO,Bebedouro 2 no Cemitério de Benfica - Rua João Ortigão Ramos
+623,-9.18527011769071,38.7744405007364,624,1120,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 2 Cemitério de Carnide,Bica,,e4c2db63-2c0e-42e4-ab11-9e4bf97cad2e,0.0,0.0,,
+624,-9.20286749965893,38.7569322750788,625,831,4,Rua João Ortigão Ramos,Bica 2 no Cemitério de Benfica,Bica,,c95eae14-9d0a-4f60-b301-be7f3421cd1d,0.0,0.0,,
+625,-9.18709215171686,38.772496968519,626,1121,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 3 Cemitério de Carnide,Bica,,24c8678d-9449-47f5-9faa-0f97d9159bee,0.0,0.0,,
+626,-9.20335508183897,38.7572014001858,627,833,4,Rua 30 do Cemitério de Benfica,Bica 4 no Cemitério de Benfica,Bica,,eccbb9f7-3d47-40bd-9ee8-fc6a874db3eb,0.0,0.0,,
+627,-9.18697578844651,38.7727335788957,628,1122,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 4 Cemitério de Carnide,Bica,,9cc775eb-186f-470b-b158-53e11ad505af,0.0,0.0,,
+628,-9.12525933384326,38.7464530196098,629,2128,4,Acesso à Azinhaga Pombeiro,Bebedouro no Parque da Belavista Sul,Bebedouro,,f3fa88cc-77e7-43e8-9864-df2d4b797409,38.7464530196098,-9.12525933384326,BEBEDOURO,Bebedouro no Parque da Belavista Sul - Acesso à Azinhaga Pombeiro
+629,-9.12393619807478,38.7486727407045,630,2129,4,Avenida Dr. Arlindo Vicente(antiga Rua 1 da Zona N1 de Chelas),Bebedouro 1 no Parque da Belavista Central,Bebedouro,,b7b52f21-79c5-43a5-8fe8-6d44000af32a,38.7486727407045,-9.12393619807478,BEBEDOURO,Bebedouro 1 no Parque da Belavista Central - Avenida Dr. Arlindo Vicente(antiga Rua 1 da Zona N1 de Chelas)
+630,-9.14411851012086,38.7575641507245,631,4202,4,Avenida do Brasil,Bebedouro na Casa do Gil,Bebedouro,,c9b30f1b-6ddc-44ad-95a1-2b7038367f8d,38.7575641507245,-9.14411851012086,BEBEDOURO,Bebedouro na Casa do Gil - Avenida do Brasil
+631,-9.19816128158099,38.7573560764541,632,851,4,Rua 16 do Cemitério de Benfica,Bica 22 no Cemitério de Benfica,Bica,,3aa90edb-92d2-43af-a5d0-66ae5af7e3c6,0.0,0.0,,
+632,-9.19812663805206,38.7575657443801,633,852,4,Rua 16 do Cemitério de Benfica,Bica 23 no Cemitério de Benfica,Bica,,0d2db320-a3da-4427-9206-e09bde0d7613,0.0,0.0,,
+633,-9.19801327245982,38.7579800893958,634,854,4,Rua 17 do Cemitério de Benfica,Bica 25 no Cemitério de Benfica,Bica,,2cb5c571-fd6f-4848-90cf-c60098ee5d34,0.0,0.0,,
+634,-9.19769802847381,38.757914431842,635,855,4,Rua 18 do Cemitério de Benfica,Bica 26 no Cemitério de Benfica,Bica,,28710399-8368-451a-9e8a-6f12631857b5,0.0,0.0,,
+635,-9.19740674974293,38.7576046743953,636,856,4,Rua 33 do Cemitério de Benfica,Bica 27 no Cemitério de Benfica,Bica,,a4c4bc69-ee4f-4388-a742-cfca4f29eb64,0.0,0.0,,
+636,-9.19723273619092,38.7575929948325,637,857,4,Rua 33 do Cemitério de Benfica,Bica 28 no Cemitério de Benfica,Bica,,1e53d83d-dbe4-4e95-823c-1401014307f4,0.0,0.0,,
+637,-9.19642696983896,38.7572096360987,638,858,4,Rua 23 do Cemitério de Benfica,Bica 29 no Cemitério de Benfica,Bica,,918ca188-55b1-45c7-a89b-60cf58e366a7,0.0,0.0,,
+638,-9.19629294389351,38.7575081002624,639,859,4,Rua 35 do Cemitério de Benfica,Bica 30 no Cemitério de Benfica,Bica,,4009bd0a-2e3e-474e-a2da-34df1a95c5ab,0.0,0.0,,
+639,-9.19612359259784,38.7578202062223,640,860,4,Rua 36 do Cemitério de Benfica,Bica 31 no Cemitério de Benfica,Bica,,40b938bb-f403-46f9-ac9b-a9ba4798ef1b,0.0,0.0,,
+640,-9.19615618976455,38.7583277121743,641,861,4,Rua 21 do Cemitério de Benfica,Bica 32 no Cemitério de Benfica,Bica,,f760f7af-31c6-4bd2-9ed4-42828fa0de3d,0.0,0.0,,
+641,-9.19686452214585,38.758500503703,642,862,4,Rua 20 do Cemitério de Benfica,Bica 33 no Cemitério de Benfica,Bica,,6d4167a3-4a4d-48e4-9526-ced51bf37e51,0.0,0.0,,
+642,-9.20091218349238,38.7579424281984,643,841,4,Rua 7 do Cemitério de Benfica,Bica 12 no Cemitério de Benfica,Bica,,dc1ae733-3ddf-4ab1-8267-934afa970dde,0.0,0.0,,
+643,-9.18474942271099,38.7748651260761,644,1106,4,Estrada da Circunvalação,Queda de Água do Cemitério de Carnide,Queda de água,,47b185e7-ec0d-4862-9faf-f684c04e2e4a,0.0,0.0,,
+644,-9.13221123233371,38.7145641136496,645,1213,4,Castelo de São Jorge,Tanque com bica 13,Tanque,,23852561-f453-4290-b936-0dbadd3d3db9,0.0,0.0,,
+645,-9.19452884850821,38.7087150654317,646,106,4,Travessa do Chafariz à Rua do Cruzeiro,Chafariz na Travessa do Chafariz,Chafariz,,4aba71f3-ab9a-48bb-9360-c07fa928ad96,0.0,0.0,,
+646,-9.13373231906156,38.7132625880676,647,1226,4,Castelo de São Jorge,Lago 2,Lago,,6fe3433d-d41f-4e60-bb93-488e4925eff2,0.0,0.0,,
+647,-9.13380412948706,38.7127458429537,648,1230,4,Castelo de São Jorge,Lago 6,Lago,,e02732ca-97e7-48e4-a61e-75379836ac84,0.0,0.0,,
+648,-9.13267473876577,38.7135996887611,649,1217,4,Castelo de São Jorge,Poço 1,Poço,,d53f7551-7cea-4936-9837-acac6f04b9a9,0.0,0.0,,
+649,-9.13405380633883,38.7128031832481,650,1204,4,Castelo de São Jorge,Tanque com bica 4,Tanque,,2a686c1b-5b60-4d42-87a1-a5c9145c1ecb,0.0,0.0,,
+650,-9.20322134155779,38.7095133500164,651,107,4,Largo Cemitério,Lago no Largo do Cemitério,Lago,,8abe5bef-e8c5-4f3d-a8e6-26f3fa2bd252,0.0,0.0,,
+651,-9.13358382934174,38.7137142803169,652,1209,4,Castelo de São Jorge,Tanque com bica 9,Tanque,,b16c5cb9-83aa-48d8-a23d-766f9ecb82bc,0.0,0.0,,
+652,-9.13337404757007,38.7142566886961,653,1212,4,Castelo de São Jorge,Tanque com bica 12,Tanque,,5a3ae146-ce85-4fb1-ae62-4c30403bc403,0.0,0.0,,
+653,-9.13395120975023,38.7125130032027,654,1242,4,Castelo de São Jorge,Fontanário 7,Fontanário,,97eebe15-d079-4277-badf-2a9adf54588d,0.0,0.0,,
+654,-9.13375056743826,38.7126697725749,655,1218,4,Castelo de São Jorge,Poço 2,Poço,,92ebef0f-ff65-4e67-9798-a6998bda1447,0.0,0.0,,
+655,-9.18501509855793,38.7755226998722,656,1108,4,Estrada da Circunvalação,Poço do Cemitério de Carnide,Poço,,784a68c8-ffc3-4476-ba8d-aa5d391ffdf6,0.0,0.0,,
+656,-9.16201149620806,38.7255523000553,657,1004,4,Rua Prof. Sousa da Câmara,Chafariz na Vila Romão da Silva,Chafariz,,2a2ce503-7c2c-48df-b965-5669b7cdf39a,0.0,0.0,,
+657,-9.1337320675333,38.7127461632867,658,1231,4,Castelo de São Jorge,Lago 7,Lago,,7c811c6c-957f-45e0-8031-e2c938e16299,0.0,0.0,,
+658,-9.19507361294766,38.709274056314,659,112,4,Rua do Cruzeiro,Reservatório na Rua do Cruzeiro,Reservatório,,ff4eeee8-51cf-4595-ae2c-8d335e017c52,0.0,0.0,,
+659,-9.18564592339824,38.7600698333512,660,1104,4,Largo das Pimenteiras,Chafariz da Luz (fontanário),Chafariz,,1713c87e-216f-49fb-b40e-1492e5a2c80f,0.0,0.0,,
+660,-9.18375243647606,38.7608456620426,661,1102,4,Largo da Luz,Lago do Parque Teixeira Rebelo,Lago,,683a2c1d-ad8a-4c86-a0c2-c9c305fd0ca6,0.0,0.0,,
+661,-9.13321639683095,38.7136937386219,662,1207,4,Castelo de São Jorge,Tanque com bica 7,Tanque,,b6212d11-ce6e-4eae-bc1f-bb93c70fdfce,0.0,0.0,,
+662,-9.13248508015478,38.7146113976553,663,1216,4,Castelo de São Jorge,Tanque com bica 16,Tanque,,cf3eaca7-54db-4b69-82a9-8bad51952eed,0.0,0.0,,
+663,-9.18585434512054,38.7750210197592,664,1143,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 25 Cemitério de Carnide,Bica,,eed0da4c-d19a-4498-9ec1-19557b636ee1,0.0,0.0,,
+664,-9.18710649960857,38.7747203975656,665,1144,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 26 Cemitério de Carnide,Bica,,3f8c3693-1e27-4761-a185-4c109554091d,0.0,0.0,,
+665,-9.18663494157659,38.7747707113375,666,1145,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 27 Cemitério de Carnide,Bica,,a969bbae-16a7-4c23-bce4-ee72ffa0998b,0.0,0.0,,
+666,-9.18653189583034,38.7747735161951,667,1146,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 28 Cemitério de Carnide,Bica,,0d4626d6-c4ec-4f78-9100-1a65ff91897f,0.0,0.0,,
+667,-9.18634679077953,38.7750284930501,668,1147,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 29 Cemitério de Carnide,Bica,,72574036-96f4-4a86-8652-0f2c6d9b38d1,0.0,0.0,,
+668,-9.18610542693741,38.7751989904591,669,1148,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 30 Cemitério de Carnide,Bica,,08427eab-4528-4982-af0d-9c6406e7f769,0.0,0.0,,
+669,-9.2009890253818,38.7571469655199,670,838,4,Rua 31 do Cemitério de Benfica,Bica 9 no Cemitério de Benfica,Bica,,c79ec7f8-d31d-411b-a1bc-78074ffdabc7,0.0,0.0,,
+670,-9.10728203907001,38.7644800437156,671,33109,4,Rua 3 do Cemitério dos Olivais,Bica 22 no Cemitério dos Olivais,Bica,,d354c615-f978-4035-b619-607a7b70f661,0.0,0.0,,
+671,-9.18608154702223,38.7733441065356,672,1124,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 6 Cemitério de Carnide,Bica,,5693e095-fe1d-427d-85a5-cd5d52d8d6b4,0.0,0.0,,
+672,-9.15221280424292,38.7269872516433,673,5020,4,Parque Eduardo VII de Inglaterra,Bebedouro 5 no Parque Eduardo VII de Inglaterra,Bebedouro,,cc8331d4-97e3-47c2-ae2f-9c320602bf4e,38.7269872516433,-9.15221280424292,BEBEDOURO,Bebedouro 5 no Parque Eduardo VII de Inglaterra - Parque Eduardo VII de Inglaterra
+673,-9.17697905299554,38.73088060246,674,1019,4,Estrada Bela Vista,Bebedouro junto à Parede de Escalada do Parque da Pedra,Bebedouro,,5d99a6bc-6c4f-407e-bf11-c50722a839cd,38.73088060246,-9.17697905299554,BEBEDOURO,Bebedouro junto à Parede de Escalada do Parque da Pedra - Estrada Bela Vista
+674,-9.17789684824658,38.7318120343007,675,1020,4,Rua Padre Domingos Maurício dos Santos,Bebedouro junto ao Parque de Merendas do Parque da Pedra,Bebedouro,,c03d11eb-2d27-4de4-ace5-5e676127a3aa,38.7318120343007,-9.17789684824658,BEBEDOURO,Bebedouro junto ao Parque de Merendas do Parque da Pedra - Rua Padre Domingos Maurício dos Santos
+675,-9.17884804465654,38.7323722012112,676,1021,4,Estrada da Serafina,Bebedouro 1 no Parque da Pedra,Bebedouro,,f962b3a4-058d-4b1e-adca-d2b3ba4ea855,38.7323722012112,-9.17884804465654,BEBEDOURO,Bebedouro 1 no Parque da Pedra - Estrada da Serafina
+676,-9.1799153923344,38.731707877373,677,1022,4,Caminho Pedreiras,Bebedouro 2 no Parque da Pedra,Bebedouro,,cbce004b-ea05-403f-82ae-2ed3d9b82cad,38.731707877373,-9.1799153923344,BEBEDOURO,Bebedouro 2 no Parque da Pedra - Caminho Pedreiras
+677,-9.1855082431062,38.7735910918979,678,1125,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 7 Cemitério de Carnide,Bica,,74517918-6b25-4a48-b7ae-361c4e047719,0.0,0.0,,
+678,-9.18752952166575,38.7727685926349,679,1127,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 9 Cemitério de Carnide,Bica,,2ab3bf8b-6611-47bc-bf59-89df93d885df,0.0,0.0,,
+679,-9.18721076347035,38.773320993482,680,1128,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 10 Cemitério de Carnide,Bica,,7b844d50-4469-4255-9815-ebc3ebf4d688,0.0,0.0,,
+680,-9.18701017415898,38.77365139766,681,1129,4,Rua do Rio Zêzere(antiga Rua 7A do Bairro Padre Cruz),Bica 11 Cemitério de Carnide,Bica,,593a68d0-5782-43b2-b4f9-29db05ac47f0,0.0,0.0,,
+681,-9.1658119223238,38.7739080411512,682,18103,4,Rua 4 do Cemitério do Lumiar,Fontanário 3 no Cemitério do Lumiar,Fontanário,,9ce56452-ae34-4cae-92db-6163fe9db2ed,0.0,0.0,,
+682,-9.19948883346744,38.7573687472771,683,847,4,Rua 12 do Cemitério de Benfica,Bica 18 no Cemitério de Benfica,Bica,,99ff5eff-4d72-431b-b03f-a097922acc88,0.0,0.0,,
+683,-9.1991803241511,38.7574248237676,684,848,4,Rua 4 do Cemitério de Benfica,Bica 19 no Cemitério de Benfica,Bica,,9bb706e0-5614-4d3c-9ffa-d689fd311b7c,0.0,0.0,,
+684,-9.19866302300652,38.757071537149,685,849,4,Rua 32 do Cemitério de Benfica,Bica 20 no Cemitério de Benfica,Bica,,ff73da44-4469-4a98-95bf-fafc0d20fea9,0.0,0.0,,
+685,-9.19862931013221,38.7575223598112,686,850,4,Rua 4 do Cemitério de Benfica,Bica 21 no Cemitério de Benfica,Bica,,8b9efbe9-d88a-4563-a48e-9869e0c7e2fa,0.0,0.0,,
+686,-9.19834692831591,38.7581610503211,687,853,4,Rua 16 do Cemitério de Benfica,Bica 24 no Cemitério de Benfica,Bica,,765ff3fd-f721-4f2a-9fe9-0cc4cfcd917d,0.0,0.0,,
+687,-9.14379442311915,38.7514750257739,688,924,4,Rua Alberto de Oliveira,Lago 3 do Palácio dos Coruchéus,Lago,,75ccc304-f726-4dbd-a985-12f8caa1dd3c,0.0,0.0,,
+688,-9.14544900578646,38.7336475879508,689,5021,4,Praça do Duque de Saldanha,Bebedouro 1 no Eixo Central - Saldanha,Bebedouro,,5bfdc819-d614-4470-8381-cf0f313077d1,38.7336475879508,-9.14544900578646,BEBEDOURO,Bebedouro 1 no Eixo Central - Saldanha - Praça do Duque de Saldanha
+689,-9.14424490397964,38.7338191302336,690,4607,4,Praça do Duque de Saldanha,Bebedouro 2 no Eixo Central - Saldanha,Bebedouro,,53578deb-c489-4cb3-b721-3b5edc97f27b,38.7338191302336,-9.14424490397964,BEBEDOURO,Bebedouro 2 no Eixo Central - Saldanha - Praça do Duque de Saldanha
+690,-9.21370837389757,38.6922958357313,691,3227,4,Jardim Torre de Belém,Bebedouro 1 do Jardim da Torre de Belém,Bebedouro,,59e8fd9b-b5ef-419e-b50d-fe08e6b334ca,38.6922958357313,-9.21370837389757,BEBEDOURO,Bebedouro 1 do Jardim da Torre de Belém - Jardim Torre de Belém
+691,-9.21701958289949,38.6925389247599,692,3228,4,Jardim Torre de Belém,Bebedouro 2 do Jardim da Torre de Belém,Bebedouro,,9e69863c-a201-46da-9142-a68322ccd213,38.6925389247599,-9.21701958289949,BEBEDOURO,Bebedouro 2 do Jardim da Torre de Belém - Jardim Torre de Belém
+692,-9.16415055198618,38.7361335839202,693,1023,4,Jardim Amnistia Internacional,Bebedouro 4 no Jardim da Aministia,Bebedouro,,3a1f9ced-4777-49cf-9920-aeeee9a9bd9b,38.7361335839202,-9.16415055198618,BEBEDOURO,Bebedouro 4 no Jardim da Aministia - Jardim Amnistia Internacional
+693,-9.2012363720037,38.7572872029826,694,839,4,Rua 8 do Cemitério de Benfica,Bica 10 no Cemitério de Benfica,Bica,,99f18f03-19af-4a14-9210-a3fcd56236f3,0.0,0.0,,
+694,-9.20133049119096,38.7579348592501,695,840,4,Rua 7 do Cemitério de Benfica,Bica 11 no Cemitério de Benfica,Bica,,12cf4c0c-7244-4347-ad8a-1f60790b33f6,0.0,0.0,,
+695,-9.20049521518192,38.7576007165278,696,843,4,Rua 2 do Cemitério de Benfica,Bica 14 no Cemitério de Benfica,Bica,,5cb78755-5ef2-4cf4-b19a-bc4681adec49,0.0,0.0,,
+696,-9.20035471777315,38.7571963768178,697,844,4,Rua 4A do Cemitério de Benfica,Bica 15 no Cemitério de Benfica,Bica,,e08cb4f0-68b7-429b-ab62-7e2ae4140ff8,0.0,0.0,,
+697,-9.19994563936582,38.7570502877921,698,845,4,Rua 10 do Cemitério de Benfica,Bica 16 no Cemitério de Benfica,Bica,,9df54e29-2ee1-439a-a2f4-1d50cff6156f,0.0,0.0,,
+698,-9.19989229201436,38.7568144008722,699,846,4,Rua 10 do Cemitério de Benfica,Bica 17 no Cemitério de Benfica,Bica,,c7bf80f5-0045-496e-b678-22c6a9646c82,0.0,0.0,,
+699,-9.16828048374139,38.7724866570986,700,1894,4,Rua 20 do Cemitério do Lumiar,Bica 1 no Cemitério do Lumiar,Bica,,e36e0e7d-8736-474c-adb6-77534e587c80,0.0,0.0,,
+700,-9.16579734446337,38.7727234454007,701,1897,4,Rua 4 do Cemitério do Lumiar,Bica 4 no Cemitério do Lumiar,Bica,,b6bce46a-7c1f-4327-a7bb-98374749b789,0.0,0.0,,
+701,-9.16795334516268,38.7725463901989,702,18100,4,Rua 23 do Cemitério do Lumiar,Bebedouro 2 no Cemitério do Lumiar,Bebedouro,,182adc6a-de51-46ba-8720-9a25c2f6d587,38.7725463901989,-9.16795334516268,BEBEDOURO,Bebedouro 2 no Cemitério do Lumiar - Rua 23 do Cemitério do Lumiar
+702,-9.20255228711394,38.7026454068493,703,3219,4,Calçada do Galvão,Chafariz Alcolena ou da Boa Memória,,,17e53f01-16c5-4f2d-942c-d9ce2b63b4f2,0.0,0.0,,
+703,-9.13382022639865,38.7135419495699,704,1202,4,Castelo de São Jorge,Tanque com bica 2,Tanque,,3175bd27-5d65-4e72-8ca2-00312c72552b,0.0,0.0,,
+704,-9.18487756109806,38.7603929263478,705,1103,4,Rua da Fonte,Chafariz da Luz ou da Fonte,Chafariz,,bc9e3e07-2512-4fdf-850a-e23016ef8ace,0.0,0.0,,
+705,-9.19069027543397,38.7598121334786,706,1101,4,"Largo do Malvar, Estrada da Correia",Chafariz de Carnide ou do Malvar,Chafariz,,47500d76-ceb2-44c3-a126-d77ccd0ea935,0.0,0.0,,
+706,-9.1679998949624,38.7317729094239,707,1003,4,Rua Engº Ferreira de Mesquita,Lago da Estação de Campolide,Lago,,975b1437-ca0a-40c6-a0f1-603223433e14,0.0,0.0,,
+707,-9.18562714501551,38.7600270660298,708,1105,4,Largo das Pimenteiras,Chafariz da Luz (bebedouro),Chafariz,,42554c29-1803-44ae-8ba5-eb012d837ca9,0.0,0.0,,
+708,-9.09340514932687,38.7599766437915,709,3347,4,"Passeio dos Cruzados, parte central do lote 2.04.01",Lago interior ao Passeio dos Cruzados,,,9c29d649-50cf-42e7-8422-efad25ff3f32,0.0,0.0,,
+709,-9.13527757855544,38.7131902115088,710,3802,4,Largo da Achada,Chafariz da Achada,Chafariz,,d073d37e-6e59-459c-98f8-9a3c1db22edc,0.0,0.0,,
+710,-9.1535267996534,38.7089188967745,711,3701,4,"Rua da Esperança((Estrela)), Largo da Esperança",Chafariz da Esperança,Chafariz,,9e0b1ee4-a7dd-4837-b159-2d68e1418701,0.0,0.0,,
+711,-9.18816648289773,38.7437435556127,712,3913,4,"Travessa de São Domingos de Benfica, Mata de São Domingos de Benfica",Chafariz na Mata de São Domingos de Benfica,Chafariz,,aa34dd7e-7b5e-43bf-865a-6758177babe4,0.0,0.0,,
+712,-9.12771186392632,38.7108079951793,713,3607,4,"Rua do Terreiro do Trigo, Largo do Chafariz de Dentro,1-s/n",Estação Elevatória do Chafariz de Dentro,Reservatório,,6e855dbd-b635-48c5-8652-be07872d16d9,0.0,0.0,,
+713,-9.13627539573199,38.744968650469,714,4305,4,Praça Afrânio Peixoto,Bebedouro na Praça Afrânio Peixoto,Bebedouro,,90e69821-3a30-47d6-b0b3-e6a4ad72e1f8,38.744968650469,-9.13627539573199,BEBEDOURO,Bebedouro na Praça Afrânio Peixoto - Praça Afrânio Peixoto
+714,-9.13737748395686,38.7408581694286,715,4309,4,Praça de Londres,Bebedouro na Praça de Londres-separador central,Bebedouro,,91c43a44-050c-4dd4-922b-f4c1cb398803,38.7408581694286,-9.13737748395686,BEBEDOURO,Bebedouro na Praça de Londres-separador central - Praça de Londres
+715,-9.14980038842887,38.7512522007696,716,915,4,Campo Grande,Bebedouro 2 no Jardim do Campo Grande,Bebedouro,,7adbe1b1-8c96-41cc-84b9-0d93176a1380,38.7512522007696,-9.14980038842887,BEBEDOURO,Bebedouro 2 no Jardim do Campo Grande - Campo Grande
+716,-9.15427303644813,38.7070604643226,717,3702,4,"Largo de Santos, Jardim Nuno Álvares",Lago do Jardim Nuno Álvares,Lago,,8ba6e72f-54e2-4b79-afb4-e476c5da57c0,0.0,0.0,,
+717,-9.18250206694053,38.7464966428108,718,3910,4,"Estrada de Benfica, Jardim do Beau Séjour",Queda de Água do Jardim do Beau Séjour,Queda de água,,e8ab7672-7042-47d6-afd0-1329d0932063,0.0,0.0,,
+718,-9.18281730014674,38.7463652728868,719,3907,4,"Estrada de Benfica, Jardim do Beau Séjour",Lago dos Patos do Jardim do Beau Séjour,Lago,,78cca57a-46ef-4dcc-8f1a-91724f7e5788,0.0,0.0,,
+719,-9.18039925998074,38.7407611150998,720,3904,4,Largo São Domingos de Benfica,Chafariz de São Domingos de Benfica,Chafariz,,afc88b8e-4cb2-405f-9a71-2108bfbe7cb6,0.0,0.0,,
+720,-9.12833243809088,38.7144772557816,721,5108,4,Largo de São Vicente,Tanque das 3 Bicas no Largo de São Vicente,,,4933b3c0-b385-4c5b-96ba-01e84087c85e,0.0,0.0,,
+721,-9.16822021487066,38.7551871385834,722,921,4,Rua Frei Joaquim de Santa Rosa de Viterbo(antigo Arruamento junto à Azinhaga dos Barros),Bebedouro na Rua Joaquim de Santa Rosa de Viterbo,Bebedouro,,1b7369c5-eea9-4f56-9043-c9be364bbb37,38.7551871385834,-9.16822021487066,BEBEDOURO,Bebedouro na Rua Joaquim de Santa Rosa de Viterbo - Rua Frei Joaquim de Santa Rosa de Viterbo(antigo Arruamento junto à Azinhaga dos Barros)
+722,-9.13823196235342,38.7066903574328,723,4801,4,Avenida da Ribeira das Naus,Lago da Doca da Caldeirinha,Lago,,4532e5e6-6746-42c1-93ed-896dd310e31d,0.0,0.0,,
+723,-9.14354307360436,38.7181902299642,724,4506,4,Avenida da Liberdade,"Lago Nascente-Norte (""O Tejo"") da Avenida da Liberdade",Lago,,938b1116-a004-4009-a3e7-15926a544a6c,0.0,0.0,,
+724,-9.14358210450514,38.7175620703924,725,4509,4,Avenida da Liberdade,Lago Poente-Sul da Avenida da Liberdade,Lago,,bf2063fa-25ff-48eb-8234-1ee9405305ac,0.0,0.0,,
+725,-9.16918042856945,38.7564582321,726,920,4,Rua Mem de Sá,Bebedouro no Parque Infantil da Quinta das Fonsecas,Bebedouro,,10ae01fa-5f3b-4e06-96b8-2b909a501408,38.7564582321,-9.16918042856945,BEBEDOURO,Bebedouro no Parque Infantil da Quinta das Fonsecas - Rua Mem de Sá
+726,-9.14897729267678,38.7708685692397,727,1869,4,Eixo Central(Alto do Lumiar),Fonte - Eixo Central - Alto do Lumiar,,,1f643393-0aae-496d-880c-46dbb059ecae,0.0,0.0,,
+727,-9.09483244834582,38.7537411994294,728,3364,4,Passeio de Neptuno,Lago Biológico no Passeio Neptuno,,,46144e76-6563-4356-9bb3-c279df47292b,0.0,0.0,,
+728,-9.13008808751587,38.7373149430086,729,302,4,Alameda Dom Afonso Henriques,Lago do Jardim sobre a Fonte Luminosa,Lago,,0ad92167-f32b-42ab-90af-e54a23d29197,0.0,0.0,,
+729,-9.14083902602154,38.7119186779438,730,2701,4,Largo do Carmo,Chafariz do Largo do Carmo,Chafariz,,a87564b6-6709-46c6-a932-fbc548df863f,0.0,0.0,,
+730,-9.14872495501514,38.7161714649214,731,2201,4,"Praça do Príncipe Real, Jardim França Borges",Lago do Jardim França Borges,Lago,,1de9d9d4-c3e0-41b2-9e54-e75159a0fd19,0.0,0.0,,
+731,-9.16946870153737,38.7087848115134,732,2615,4,"Calçada das Necessidades, Tapada das Necessidades",Chafariz 7 da Tapada das Necessidades,Chafariz,,b32179f2-f609-458d-80b9-3f17f10543f1,0.0,0.0,,
+732,-9.13574049120112,38.719917558667,733,3101,4,Rua da Palma,Chafariz do Intendente ou do Desterro,Chafariz,,800d07af-6ef0-4d57-99fd-6c4bab4c20b6,0.0,0.0,,
+733,-9.15165989837208,38.7150531352567,734,2205,4,Praça das Flores,Lago da Praça das Flores,Lago,,f36f0605-436d-477f-ba5c-8be23581b91e,0.0,0.0,,
+734,-9.2053079456048,38.6956787601668,735,3207,4,"Praça do Império, Jardim",Lago Nascente do Jardim da Praça do Império,Lago,,49895811-d49b-432f-9d03-8111991194bb,0.0,0.0,,
+735,-9.10556474860598,38.75351730826,736,2107,4,Rua do Vale Formoso de Cima,Chafariz na Rua do Vale Formoso de Cima,Chafariz,,c8ab2876-ba79-4b7d-a9ce-fc04425674b4,0.0,0.0,,
+736,-9.10732032436911,38.7376956758405,737,2111,4,Rua de Marvila,Chafariz na Rua de Marvila,Chafariz,,85156d11-cdfc-4a45-9e67-d0f20b689004,0.0,0.0,,
+737,-9.13948538346599,38.7135355541949,738,3104,4,Praça D. Pedro IV,Bebedouro dos Anjinhos,Fontanário,,0ddba045-9b20-4de4-9fa2-3e7e23f41db9,0.0,0.0,,
+738,-9.1614109239316,38.7054440599213,739,2604,4,Largo do Doutor José de Figueiredo,Chafariz das Janelas Verdes,Chafariz,,86eb6ce5-4177-47ce-b4a7-2afd22c645d4,0.0,0.0,,
+739,-9.17000159204538,38.7090402203728,740,2613,4,"Calçada das Necessidades, Tapada das Necessidades",Chafariz 5 da Tapada das Necessidades,Chafariz,,7c338d1b-3254-496a-bccf-991d2acb725c,0.0,0.0,,
+740,-9.20048557086901,38.69740437598,741,3214,4,Praça Afonso de Albuquerque,Chafariz do Palácio de Belém,Chafariz,,8b64bdde-276f-4c90-a3d9-282549719a97,0.0,0.0,,
+741,-9.17908720043967,38.7214856772596,742,210,4,"Estrada da Pimenteira, Quinta da Pimenteira",Mina 1 dos Viveiros da Quinta da Pimenteira,Mina,,3a476940-d573-4c90-90cd-2a2f96a01bfc,0.0,0.0,,
+742,-9.16831585310908,38.7124899636773,743,2608,4,"Rua Coronel Ribeiro Viana, Rua Possidónio da Silva",Chafariz da Fonte-Santa,Chafariz,,e72c1b4e-4b86-41c9-a255-91be1d1ade07,0.0,0.0,,
+743,-9.13884136596745,38.7213789562388,744,2401,4,Largo do Mastro,Chafariz do Largo do Mastro,Chafariz,,36cf92bc-c0fa-4124-805c-60d5abb5a89b,0.0,0.0,,
+744,-9.20601980028033,38.6960660620122,745,3206,4,"Praça do Império, Jardim",Fonte Luminosa do Jardim da Praça do Império,Fonte,,09046721-cc02-4c5f-9ecb-9673a27e91f2,0.0,0.0,,
+745,-9.10656199175909,38.7452956078286,746,2118,4,Rua de José do Patrocínio(antiga Azinhaga dos Cadetes),Chafariz e Tanque na Quinta das Flores,Chafariz,,1595aec2-8d14-48a1-9048-2d50f30c9c52,0.0,0.0,,
+746,-9.1716115544942,38.7065310394004,747,2606,4,Largo das Necessidades,Chafariz das Necessidades,Chafariz,,7c923d9c-eb12-4825-b284-360257490dd0,0.0,0.0,,
+747,-9.17043226685046,38.7052511553028,748,2607,4,Praça da Armada,Chafariz da Armada ou de Alcântara,Chafariz,,69d0a2d4-21f3-446b-a597-6555cdeaebb6,0.0,0.0,,
+748,-9.17006919655871,38.7079947926287,749,2610,4,"Calçada das Necessidades, Tapada das Necessidades",Chafariz 2 da Tapada das Necessidades,Chafariz,,efe61378-1e3d-4278-9125-6fc66f6bd570,0.0,0.0,,
+749,-9.21447909247873,38.6935072551034,750,3209,4,Jardim Torre de Belém,Lago do Jardim da Torre de Belém,Lago,,74e7adab-612f-40c7-b94a-05cd5ea920c1,0.0,0.0,,
+750,-9.10372563580964,38.7418887430898,751,2105,4,Rua do Açúcar,Tanque dos Viveiros da Quinta Beirão,Tanque,,b4c3951b-7565-46ba-8799-3c592e8ed5fe,0.0,0.0,,
+751,-9.17001992755864,38.7085222271193,752,2611,4,"Largo das Necessidades, Tapada das Necessidades",Chafariz 3 da Tapada das Necessidades,Chafariz,,ba61a596-19bc-4e26-906f-b71a8a1e6d7a,0.0,0.0,,
+752,-9.18908228838043,38.7060393713535,753,213,4,Rua Dom João de Castro,Mina na Rua Dom João de Castro,Mina,,66ec9c80-853b-4177-af2f-dc0a070601e7,0.0,0.0,,
+753,-9.10344215176047,38.7415360024713,754,2106,4,Rua do Açúcar,Poços dos Viveiros da Quinta Beirão,Poço,,f0998653-8a1e-4f64-a9e6-c235431c55b0,0.0,0.0,,
+754,-9.18001238343564,38.7224571801792,755,222,4,"Estrada da Pimenteira, Quinta da Pimenteira",Chafariz na Quinta da Pimenteira,Chafariz,,a1b5cd47-8fd5-45bc-9004-cb8759bea185,0.0,0.0,,
+755,-9.18036512130498,38.7215895484208,756,209,4,"Estrada da Pimenteira, Quinta da Pimenteira",Tanque 5 dos Viveiros da Quinta da Pimenteira,Tanque,,0c7a63a9-1ade-4acf-acd4-bf0723aaaa97,0.0,0.0,,
+756,-9.1706431328887,38.7091300366869,757,2612,4,"Calçada das Necessidades, Tapada das Necessidades",Chafariz 4 da Tapada das Necessidades,Chafariz,,f5860f5f-1085-48a3-8c6f-d9453b400853,0.0,0.0,,
+757,-9.17045674414534,38.7094315870437,758,2618,4,"Calçada das Necessidades, Tapada das Necessidades",Chafariz 9 (Estufa) da Tapada das Necessidades,Chafariz,,5f22e0ec-a7f8-4515-884e-8ac7e8ee1c3b,0.0,0.0,,
+758,-9.14769480028498,38.7157768141998,759,2802,4,Alto do Longo,Fontanário do Alto do Longo,Fontanário,,97a7e685-6ae1-45bf-90d0-e26117ef8b9f,0.0,0.0,,
+759,-9.1238484497395,38.7490426021553,760,2114,4,Avenida Dr. Arlindo Vicente(antiga Rua 1 da Zona N1 de Chelas),Tanques do Parque da Bela Vista Norte - Polidesportivo,Tanque,,ddc01711-cca6-4177-8789-cda42c423d9f,0.0,0.0,,
+760,-9.19403545692328,38.7036539415428,761,116,4,Largo da Boa-Hora à Ajuda,Bebedouro no Parque Infantil do Largo da Boa Hora à Ajuda,Bebedouro,,a7845a85-1e66-4eee-b892-b8ccdfc29005,38.7036539415428,-9.19403545692328,BEBEDOURO,Bebedouro no Parque Infantil do Largo da Boa Hora à Ajuda - Largo da Boa-Hora à Ajuda
+761,-9.15493842127401,38.7139510378907,762,1717,4,Rua da Imprensa à Estrela,Tanque (Piscina) no Jardim da Residência Oficial do Primeiro Ministro,,,0026415a-6521-442a-b072-1cafe572226b,0.0,0.0,,
+762,-9.15523499557351,38.7140395793429,763,1720,4,Rua da Imprensa à Estrela,Nascente no Jardim da Residência Oficial do Primeiro Ministro,,,f761d4ca-afc1-4cf9-8c34-941e245680d0,0.0,0.0,,
+763,-9.18662432977814,38.718953833306,764,239,4,Estrada do Alvito,Bebedouro 7 no Parque do Alvito,Bebedouro,,d425b89d-fae7-48e9-9ff9-aac34b7b1f4d,38.718953833306,-9.18662432977814,BEBEDOURO,Bebedouro 7 no Parque do Alvito - Estrada do Alvito
+764,-9.1863815483945,38.7191758185048,765,240,4,Estrada do Alvito,Bebedouro 8 no Parque do Alvito,Bebedouro,,6b11f2b4-d083-4808-898a-24e3c97bd602,38.7191758185048,-9.1863815483945,BEBEDOURO,Bebedouro 8 no Parque do Alvito - Estrada do Alvito
+765,-9.1860051632736,38.7190335682377,766,241,4,Estrada do Alvito,Bebedouro 9 no Parque do Alvito,Bebedouro,,a19597a6-3c66-4514-8534-008ea49fd754,38.7190335682377,-9.1860051632736,BEBEDOURO,Bebedouro 9 no Parque do Alvito - Estrada do Alvito
+766,-9.18600121787288,38.7193374843511,767,242,4,Estrada do Alvito,Bebedouro 10 no Parque do Alvito,Bebedouro,,ab97a374-a11d-4e3d-8ccb-8eb34fcf03bb,38.7193374843511,-9.18600121787288,BEBEDOURO,Bebedouro 10 no Parque do Alvito - Estrada do Alvito
+767,-9.16615459726535,38.7739207335472,768,18102,4,Rua 5 do Cemitério do Lumiar,Fontanário 2 no Cemitério do Lumiar,Fontanário,,5863b835-0325-44fb-b52e-aca14031f137,0.0,0.0,,
+768,-9.16487681743551,38.774256365817,769,18106,4,Rua 9A do Cemitério do Lumiar,Fontanário 6 no Cemitério do Lumiar,Fontanário,,5178cf08-d333-4bfc-8014-563204a54a3f,0.0,0.0,,
+769,-9.16511440476018,38.7739543901315,770,18107,4,Rua 2 do Cemitério do Lumiar,Fontanário 7 no Cemitério do Lumiar,Fontanário,,f952de3d-af9b-4424-91dd-7dbf7c0468c2,0.0,0.0,,
+770,-9.16654199393496,38.7734050148096,771,18108,4,Rua 6 do Cemitério do Lumiar,Fontanário 8 no Cemitério do Lumiar,Fontanário,,7b8694f6-37bc-4b07-b29f-830ed2345ea6,0.0,0.0,,
+771,-9.16580941961742,38.7734615500348,772,18110,4,Rua 4 do Cemitério do Lumiar,Fontanário 10 no Cemitério do Lumiar,Fontanário,,e5bcfc58-90cc-4859-81d9-5681874956ca,0.0,0.0,,
+772,-9.16511597321868,38.7735343508721,773,18112,4,Rua 2 do Cemitério do Lumiar,Fontanário 12 no Cemitério do Lumiar,Fontanário,,88f2541c-50eb-4da9-97a3-dfe0891cdf30,0.0,0.0,,
+773,-9.16615251137725,38.7729508299261,774,18114,4,Rua 5 do Cemitério do Lumiar,Fontanário 14 no Cemitério do Lumiar,Fontanário,,18a472ba-13fc-473a-bf55-731f32cc7151,0.0,0.0,,
+774,-9.16546160541414,38.772941036135,775,18116,4,Rua 3 do Cemitério do Lumiar,Fontanário 16 no Cemitério do Lumiar,Fontanário,,f19dcfb7-074b-4f95-9339-e07f7b66211e,0.0,0.0,,
+775,-9.09203563264195,38.7709846987068,776,3333,4,"Passeio das Tágides, (Parque das Nações)",Lago Goa,Lago,,8aa3023d-0446-4ea7-84fa-f7ba959d909f,0.0,0.0,,
+776,-9.1086817517249,38.7742520839134,777,3307,4,"Avenida Dr. Francisco Luís Gomes, Quinta Conde d'Arcos",Tanque 2 da Quinta Conde d'Arcos,Tanque,,97fdd2bc-7a33-4e2e-a23d-1f199ae2c0ff,0.0,0.0,,
+777,-9.18652189937787,38.7436385402784,778,3901,4,"Travessa de São Domingos de Benfica, Mata de São Domingos de Benfica",Tanque da Mata de São Domingos de Benfica,Tanque,,b3111a77-8830-4d36-aad1-013ff85b01d6,0.0,0.0,,
+778,-9.21830569011198,38.700984348004,779,3218,4,Praça de Goa,Lago da Praça de Goa,Lago,,6634605f-b5d2-4a0a-bfa3-c732a36860f0,0.0,0.0,,
+779,-9.13631861008706,38.719796083917,780,3108,4,Calçada do Desterro,Bica do Desterro,Mina,,2e199f62-cd1e-4a9b-9ae9-b2cca8c1c21b,0.0,0.0,,
+780,-9.20576041803025,38.7089808014449,781,4002,4,Rua Tristão Vaz,Tanque do Parque Recreativo dos Moinhos de Santana,Tanque,,710302b8-7e7d-4c4d-96b1-73589135db3b,0.0,0.0,,
+781,-9.16872636073605,38.7449403190265,782,3906,4,Estrada das Laranjeiras,Chafariz das Laranjeiras,Chafariz,,5ee4a087-1da4-47d3-8550-7a5d47abd472,0.0,0.0,,
+782,-9.21316510335647,38.6965481394897,783,3213,4,Rua Vila Correia,Poço dos Viveiros da Quinta de Vila Correia,Poço,,5de862d6-4bf6-4c8e-981d-7dac45d96b28,0.0,0.0,,
+783,-9.12935821712732,38.7126245179335,784,3606,4,Largo do Salvador,Marco Fontanário do Largo do Salvador,Fontanário,,8aa97a20-a83f-4f70-a764-78082e8b7bfc,0.0,0.0,,
+784,-9.09401221821947,38.7615157276506,785,3325,4,"Passeio de Ulisses, (Parque das Nações)",Lago do Neptuno,Lago,,912f9d78-61b5-4bfd-808c-5f3ca3f47c3b,0.0,0.0,,
+785,-9.18239100373035,38.7466046763968,786,3908,4,"Estrada de Benfica, Jardim do Beau Séjour",Lago Nascente do Jardim do Beau Séjour,Lago,,df9da3c1-c764-4a69-b35a-0aad26aa593b,0.0,0.0,,
+786,-9.09537823147481,38.7722776500341,787,3340,4,"Alameda dos Oceanos, (Parque das Nações)",Fonte Continuum F,Fonte,,4e19a628-1e35-4094-a39c-e85019ad9c98,0.0,0.0,,
+787,-9.1093116297409,38.7716834045587,788,3310,4,"Avenida Dr. Francisco Luís Gomes, Quinta Conde d'Arcos",Tanque 5 na Quinta Conde d'Arcos,Tanque,,96863d40-1a7f-4ce6-ad66-9546ad25569e,0.0,0.0,,
+788,-9.14707636411077,38.7169754206825,789,4501,4,Rua da Mãe D'Água,Chafariz da Mãe d'Água,Chafariz,,019d230f-617a-4f05-97ac-b13b6b6c3288,0.0,0.0,,
+789,-9.10931494991417,38.7715889484889,790,3311,4,"Avenida Dr. Francisco Luís Gomes, Quinta Conde d'Arcos",Poço na Quinta Conde d'Arcos,Poço,,81a56cbf-f92e-40b0-b8ea-f0c218bf566b,0.0,0.0,,
+790,-9.13412593117466,38.711230921426,791,3803,4,Rua de São Mamede,Chafariz do Caldas,Chafariz,,735a8c43-023e-452c-be13-b803db2f4ffc,0.0,0.0,,
+791,-9.09593457519824,38.7654772931388,792,3337,4,"Alameda dos Oceanos, (Parque das Nações)",Fonte Continuum C,Fonte,,99b9f7f1-e440-405c-9b84-9a6d5a835de2,0.0,0.0,,
+792,-9.12359694481614,38.7670751380307,793,3301,4,Rua Cidade da Beira(antigas Ruas B1 e B6 de Olivais Sul),Lago Sul da Rua Cidade da Beira,Lago,,1ec80a43-f26d-4815-b516-33f6ea1e4056,0.0,0.0,,
+793,-9.09227103077226,38.7683903748589,794,3331,4,"Passeio das Tágides, (Parque das Nações)",Lago das Tágides,Lago,,8e58d9f7-c578-4b45-81a8-8e692234ede8,0.0,0.0,,
+794,-9.10944050833974,38.7722424217427,795,3305,4,"Avenida Dr. Francisco Luís Gomes, Quinta Conde d'Arcos",Lago 1 da Quinta Conde d'Arcos,Lago,,9d52a56a-622d-4565-b9e8-ecd88ca543b2,0.0,0.0,,
+795,-9.09603973827362,38.7641820317778,796,3336,4,"Alameda dos Oceanos, (Parque das Nações)",Fonte Continuum B,Fonte,,0c3620c9-b72d-4008-9017-c07bf1df9b1b,0.0,0.0,,
+796,-9.20524068155294,38.708634981814,797,4005,4,Rua Tristão Vaz,Lago do Parque Recreativo dos Moinhos de Santana,Lago,,622edc9f-5857-4fa1-b0a0-d94b47186ba6,0.0,0.0,,
+797,-9.14403202032529,38.7460416105417,798,402,4,Praça Francisco de Morais,Lago na Praça Francisco de Morais,Lago,,4c708d56-3fd7-4e82-8423-73e8f4404f67,0.0,0.0,,
+798,-9.12705381384471,38.712569250203,799,3604,4,Rua de Santo Estêvão,Marco Fontanário na Rua de Santo Estêvão,Fontanário,,da7ca070-a846-42a6-9e2e-e579ae1d16a4,0.0,0.0,,
+799,-9.10608417696116,38.7737310428167,800,3306,4,"Avenida Dr. Francisco Luís Gomes, Quinta Conde d'Arcos",Tanque 1 da Quinta Conde d'Arcos,Tanque,,880f37a5-23c0-4f71-8eed-d80bf3e7633c,0.0,0.0,,
+800,-9.20598676832902,38.7091383047815,801,4004,4,Rua Tristão Vaz,Queda de Água do Parque Recreativo dos Moinhos de Santana,Queda de água,,3481f843-c667-4ced-a286-d6309a293f89,0.0,0.0,,
+801,-9.17354850819804,38.7429844120034,802,3905,4,Estrada de Benfica,Chafariz de Santo António da Convalescênça,Chafariz,,70756773-4938-4785-8c06-b69c56e32f21,0.0,0.0,,
+802,-9.16786213292369,38.7476366489027,803,3911,4,,,Fontanário,,32cca9b0-19bc-4555-9939-b3a9584661a3,0.0,0.0,,
+803,-9.11545386498762,38.7753691863172,804,3320,4,Rua General Silva Freire(antigas Ruas C e D da Célula A dos Olivais Norte),Poço na Rua General Silva Freire,Poço,,b52e08aa-06ea-492c-b0c2-4ee91218e585,0.0,0.0,,
+804,-9.11267544767906,38.7631924944473,805,3321,4,"Rua Cidade de Lobito, Quinta Pedagógica",Lago na Quinta Pedagógica,Lago,,9da834b2-6ce9-4dd8-9e66-1bd03effd5ae,0.0,0.0,,
+805,-9.11373033302899,38.7753418971316,806,3303,4,Rua Capitão Tenente Oliveira e Carmo,Lago da Rua Capitão Tenente Oliveira e Carmo,Lago,,5fa5a9fe-303f-4507-b5d9-b18115807609,0.0,0.0,,
+806,-9.09198846480132,38.7720092513359,807,3334,4,"Passeio das Tágides, (Parque das Nações)",Lago de São Tomé e Príncipe,Lago,,997f9074-bdd5-4c4c-9417-ffd036fa66b1,0.0,0.0,,
+807,-9.12640730441959,38.713015096747,808,3605,4,Beco dos Paus,Marco Fontanário do Beco dos Paus,Fontanário,,0c216e40-a023-423e-b2d4-22990f888e56,0.0,0.0,,
+808,-9.10631103929964,38.7687989193662,809,3317,4,Praça da Viscondessa dos Olivais,"Chafariz do ""Rocio dos Olivais""",Chafariz,,14590962-491f-4d1d-baa7-a5c70933270f,0.0,0.0,,
+809,-9.12847519116933,38.7121438056376,810,3603,4,Beco do Alfurja,Reservatório do Beco do Alfurja,Reservatório,,04b05438-f345-4747-8a33-aa736a200b9e,0.0,0.0,,
+810,-9.18471676356052,38.7388930654303,811,3902,4,Parque Florestal de Monsanto,Lago Grande do Parque Florestal de Monsanto,Lago,,b0b29297-e05a-4500-b536-c465549ed1ad,0.0,0.0,,
+811,-9.10790244704628,38.7640437424912,812,3318,4,Rua 11A do Cemitério dos Olivais,Lago do Cemitério dos Olivais,Lago,,193318fd-2bbd-4140-8680-2896072bd5ea,0.0,0.0,,
+812,-9.09549110479024,38.7708944257645,813,3339,4,"Alameda dos Oceanos, (Parque das Nações)",Fonte Continuum E,Fonte,,14f24a73-e692-4e6c-8f15-6c4ff47ed2c1,0.0,0.0,,
+813,-9.12285986454912,38.767591998672,814,3302,4,Rua Cidade da Beira(antigas Ruas B1 e B6 de Olivais Sul),Lago Norte da Rua Cidade da Beira,Lago,,49dea44c-e001-4f61-9403-20f5dff00ef1,0.0,0.0,,
+814,-9.1372777637738,38.7308185941217,815,4402,4,"Rua de Pascoal de Melo, Jardim Constantino",Lago do Jardim Constantino,Lago,,d0ea3699-d39e-4320-9298-c8b1f19c37b1,0.0,0.0,,
+815,-9.09415762042966,38.7674649197653,816,3329,4,"Rossio dos Olivais, (Parque das Nações)",Espelho de Água Centro (2) do Rossio dos Olivais,Lago,,b1b3230c-1ffc-4546-a064-d4d381928449,0.0,0.0,,
+816,-9.14424631613127,38.7304253375374,817,4401,4,"Praça José Fontana, Jardim Henrique Lopes Mendonça",Lago do Jardim Henrique Lopes Mendonça,Lago,,285b57d7-3231-43c2-a80c-608a6b62ff77,0.0,0.0,,
+817,-9.14097995821487,38.7192554873057,818,4502,4,"Rua Júlio de Andrade, Jardim do Torel",Lago da Entrada do Jardim do Torel,Lago,,6bef05a5-623e-431c-a8df-0b7cf420f97c,0.0,0.0,,
+818,-9.135308972878,38.7144637986133,819,3805,4,Largo da Rosa,Lago do Largo da Rosa,Lago,,59d0c8e0-5447-47fc-b006-d0b736eae370,0.0,0.0,,
+819,-9.14582757111855,38.745203181582,820,401,4,Rua de Entrecampos,"Chafariz de Entrecampos, Monumental ou do Campo Pequeno",Chafariz,,091b7b85-647e-4fef-854a-b86f97c199ac,0.0,0.0,,
+820,-9.18404816725749,38.7387495784559,821,3914,4,Parque Florestal de Monsanto,Mina do Parque Florestal de Monsanto,Mina,,12d74982-2c6e-46c5-970a-5006dbeb3ef6,0.0,0.0,,
+821,-9.13447133699468,38.7396162633087,822,4303,4,Praça João do Rio,Lago da Praça João do Rio,Lago,,9917a043-26ed-4474-966f-63a517b46c66,0.0,0.0,,
+822,-9.1740181141909,38.7146576870117,823,3503,4,Rua Maria Pia,Fontanário na Rua Maria Pia,Fontanário,,b66e709c-26fb-46d2-8b52-25f83608ff8b,0.0,0.0,,
+823,-9.1056291479304,38.7456442396273,824,2119,4,Rua de José do Patrocínio(antiga Azinhaga dos Cadetes),Poço 1 na Quinta das Flores,Poço,,f96afeeb-91e4-439a-b28f-9d531c52ee41,0.0,0.0,,
+824,-9.13092655973072,38.7302172318217,825,2501,4,Largo da Penha de França,Chafariz da Penha de França,Chafariz,,d98fd64a-a5ca-439a-9343-a4a494a25759,0.0,0.0,,
+825,-9.14725670809059,38.7132074161586,826,2801,4,Rua de O Século,Chafariz da Rua do Século ou da Formosa,Chafariz,,23d11817-dade-432e-b8d9-de547a2c19f6,0.0,0.0,,
+826,-9.17964789111079,38.7224495794349,827,206,4,"Estrada da Pimenteira, Quinta da Pimenteira",Tanque 2 dos Viveiros da Quinta da Pimenteira,Tanque,,22170c93-aa6f-4071-a358-745cad8e4625,0.0,0.0,,
+827,-9.16907843025881,38.7096610504072,828,2602,4,"Calçada das Necessidades, Tapada das Necessidades",Lago 2 da Tapada das Necessidades,Lago,,a0792d50-7f02-4050-9ef4-81aba819df7e,0.0,0.0,,
+828,-9.13680831498611,38.7180166575075,829,2406,4,Escadinhas da Porta do Carro,Fontanário ao cimo das Escadinhas da Porta do Carro,Fontanário,,5b356c33-1b02-49e3-bef0-e33e2343bc4b,0.0,0.0,,
+829,-9.13665974980777,38.7137754897105,830,3107,4,Poço do Borratém,Poço do Borratém,Poço,,e7dfed33-57a1-4ce8-9e6d-20fa47fbc631,0.0,0.0,,
+830,-9.12449671896428,38.7466384979,831,2115,4,Azinhaga do Pombeiro,Poço do Parque da Bela Vista Sul,Poço,,84f634e4-5a1d-4231-b3c4-ec752198021c,0.0,0.0,,
+831,-9.14825366018954,38.7159388963689,832,2202,4,"Praça do Príncipe Real, Jardim França Borges",Bebedouro de Animais,Fontanário,,2c5595bd-e4aa-463c-9c9d-e9bfc0bb96a4,0.0,0.0,,
+832,-9.14502526687371,38.7418336507363,833,2302,4,Campo Pequeno,Fonte no Campo Pequeno,Fonte,,140712b8-1570-40ab-adbe-07a8f49b8a10,0.0,0.0,,
+833,-9.20077279280807,38.6968907602524,834,3202,4,"Praça Afonso de Albuquerque, Jardim Afonso de Albuquerque",Lago Poente Norte do Jardim Afonso de Albuquerque,Lago,,cb7ae1f5-bb7f-4d85-8e6d-dc90b85cd8e5,0.0,0.0,,
+834,-9.17410387994435,38.7072259415786,835,218,4,Rua da Fábrica da Pólvora,Fontanário na Rua da Fábrica da Pólvora,Fontanário,,24214187-b6e4-4b15-a770-fd7b1bdcdeac,0.0,0.0,,
+835,-9.17105657710832,38.7077025223202,836,2603,4,"Calçada das Necessidades, Tapada das Necessidades",Lago 3 da Tapada das Necessidades,Lago,,f62b99b5-c928-4c6a-9954-66acb7daf61d,0.0,0.0,,
+836,-9.12458022275984,38.7214243125694,837,2902,4,Rua Machado de Castro,Fontanário de Santa Engrácia,Fontanário,,473e1292-9481-4357-8b56-5d94729e5fbc,0.0,0.0,,
+837,-9.16897560010823,38.7097577383192,838,2617,4,"Calçada das Necessidades, Tapada das Necessidades",Chafariz 8 da Tapada das Necessidades,Chafariz,,4ba76f38-e382-4033-bcd9-907c3597ec9e,0.0,0.0,,
+838,-9.19995736777016,38.6970430144313,839,3203,4,"Praça Afonso de Albuquerque, Jardim Afonso de Albuquerque",Lago Nascente Norte do Jardim Afonso de Albuquerque,Lago,,1e83e8b4-a146-4fcc-92a5-a057db2142fa,0.0,0.0,,
+839,-9.10663239003296,38.7447381374212,840,2103,4,Rua de José do Patrocínio(antiga Azinhaga dos Cadetes),Tanque 2 da Quinta das Flores,Tanque,,7f769502-2347-4399-8588-744cd585ccd4,0.0,0.0,,
+840,-9.1814382667097,38.7233992274776,841,211,4,"Estrada da Pimenteira, Quinta da Pimenteira",Mina 2 dos Viveiros da Quinta da Pimenteira,Mina,,c19752e4-8bbb-42ec-884a-a67ba6811899,0.0,0.0,,
+841,-9.1395403684462,38.7142063932465,842,3102,4,Praça D. Pedro IV,Fonte Norte da Praça Dom Pedro IV,Fonte,,7ff7e584-c7a8-455e-848f-abeaa4f82bc0,0.0,0.0,,
+842,-9.18128984975339,38.7233332507763,843,205,4,"Estrada da Pimenteira, Quinta da Pimenteira",Tanque 1 dos Viveiros da Quinta da Pimenteira,Tanque,,d11d7075-14ad-4b51-9cac-eded8c6cf0f1,0.0,0.0,,
+843,-9.16944915240017,38.7087283750729,844,2616,4,"Calçada das Necessidades, Tapada das Necessidades",Tanque da Tapada das Necessidades,Tanque,,b95b94e2-0d09-4366-9eba-ec637cf74e03,0.0,0.0,,
+844,-9.12999520800371,38.7243472741097,845,2502,4,Rua Triângulo Vermelho,Fontanário na Rua do Triângulo Vermelho,Fontanário,,4c53d01d-9feb-4ec1-9097-e1625d1ad97e,0.0,0.0,,
+845,-9.2156327134582,38.6948769199832,846,3215,4,Largo da Princesa,Chafariz da Princesa ou da Praia,Chafariz,,9e90b043-68b9-4086-a17f-bf0b609a7194,0.0,0.0,,
+846,-9.17538671369595,38.7071616064156,847,217,4,"Travessa do Fiúza, Rua do Alvito",Fontanário da Travessa do Fiúza/Rua do Alvito,Fontanário,,866cf7dd-e314-4db6-b6f6-08d990942037,0.0,0.0,,
+847,-9.10236446537202,38.7421430863534,848,2110,4,Praça David Leandro da Silva,Fontanário na Praça David Leandro da Silva,Fontanário,,371e629b-af63-48b6-9c5c-a5898757cf88,0.0,0.0,,
+848,-9.17021030841513,38.708317264648,849,2601,4,"Calçada das Necessidades, Tapada das Necessidades",Lago 1 da Tapada das Necessidades,Lago,,360ecee7-10a9-4fb8-a6a2-a03bfccd68a7,0.0,0.0,,
+849,-9.17412396357915,38.7089460024621,850,219,4,Avenida de Ceuta,Fontanário na Avenida de Ceuta,Fontanário,,5f59d4a1-7804-4156-add4-230f34997848,0.0,0.0,,
+850,-9.11774817479967,38.7388621628425,851,2109,4,Estrada de Chelas,Fontanário na Estrada de Chelas,Fontanário,,47b8aa7f-aa3e-477d-bc21-bf80086b94c5,0.0,0.0,,
+851,-9.15049437561343,38.7310851085017,852,5001,4,Rua de São Sebastião da Pedreira,Chafariz de São Sebastião da Pedreira,Chafariz,,f6858a47-fbb1-439d-b47c-f97734c790cf,0.0,0.0,,
+852,-9.10652907209719,38.7458476916987,853,2101,4,Rua de José do Patrocínio(antiga Azinhaga dos Cadetes),Lago na Quinta das Flores,Chafariz,,c2fd6b78-6efb-4ad7-ae38-4448d7cab9b3,0.0,0.0,,
+853,-9.12125327347754,38.7452058853101,854,2113,4,"Praça de Macau, Avenida Virgílio Ferreira",Lago na Praça de Macau,Lago,,7fb4db51-7a07-495a-a995-6e0a3d2b25d7,0.0,0.0,,
+854,-9.18457224349591,38.7042183748421,855,204,4,Rua Filinto Elísio,Lago do Jardim Avelar Brotero,Lago,,f631f382-09aa-495d-9cb2-49d766e2651d,0.0,0.0,,
+855,-9.141786115334,38.7098924925892,856,2001,4,Largo de São Carlos,Fonte com Repuxo (Lago do Largo de São Carlos),Fonte,,4dc0ed26-205d-4022-8158-b1efbdb33ac7,0.0,0.0,,
+856,-9.19266944187131,38.7222357560446,857,201,4,"Estrada de Montes Claros, Miradouro do Ramalho ou Keil do Amaral",Lago - Miradouro do Ramalho ou Keil do Amaral,Lago,,0873022c-b310-4fc3-8940-0541400d8bcc,0.0,0.0,,
+857,-9.15337264695401,38.7655814554444,858,1819,4,"Rua Agostinho Neto(antigo Arruamento B do Plano Urb Quinta do Lambert), Rua Manuel Marques",Lago Parque Europa,Lago,,4e3a19b2-e2ce-488a-a2cc-6102b85c5878,0.0,0.0,,
+858,-9.17755838999697,38.7743072899155,859,1844,4,"Azinhaga da Fonte Velha, junto ao edifício com as letras AMV",Poço na Azinhaga da Fonte Velha,,,10d5c528-182e-4c34-a66f-5f6974420386,0.0,0.0,,
+859,-9.15421800565381,38.7695518386415,860,1802,4,"Alameda das Linhas de Torres, Quinta das Conchas",Mina da Quinta das Conchas,Mina,,8a283f46-5ec4-467f-a2e6-192bf1a17b62,0.0,0.0,,
+860,-9.13641514484411,38.7158226317849,861,3112,4,Praça Martim Moniz,Fonte 4 do Martim Moniz,Fonte,,b8402d77-9514-400b-be0e-9dffde65c679,0.0,0.0,,
+861,-9.18625932631188,38.7200373048502,862,233,4,Estrada do Alvito,Bebedouro 1 no Parque do Alvito,Bebedouro,,f310f86d-6f05-45c2-8397-4892a05f0330,38.7200373048502,-9.18625932631188,BEBEDOURO,Bebedouro 1 no Parque do Alvito - Estrada do Alvito
+862,-9.18649360154811,38.7200364988426,863,234,4,Estrada do Alvito,Bebedouro 2 no Parque do Alvito,Bebedouro,,2535d8ed-16db-4dda-a2fb-d33ef7361ce7,38.7200364988426,-9.18649360154811,BEBEDOURO,Bebedouro 2 no Parque do Alvito - Estrada do Alvito
+863,-9.18650597763775,38.7194508625931,864,237,4,Parque Florestal de Monsanto,Bebedouro 5 no Parque do Alvito,Bebedouro,,62144c08-5286-44bf-b2aa-e55ad7cb9864,38.7194508625931,-9.18650597763775,BEBEDOURO,Bebedouro 5 no Parque do Alvito - Parque Florestal de Monsanto
+864,-9.18566508356493,38.7022531807,865,226,4,Rua Filipe Vaz,Fontanário 1 da Rua Filipe Vaz,,,1f307195-092f-4bec-986f-454330663472,0.0,0.0,,
+865,-9.10894347767957,38.763654951412,866,3387,4,Rua 14 do Cemitério dos Olivais,Bica 2 no Cemitério dos Olivais,Bica,,4a9403fb-8f9a-4462-95f6-87fab51863ee,0.0,0.0,,
+866,-9.10894539737933,38.7636740533303,867,3388,4,Rua 14 do Cemitério dos Olivais,Bica 3 no Cemitério dos Olivais,Bica,,c25a2c29-6ea3-4e04-86b4-c49c2179109d,0.0,0.0,,
+867,-9.10910124340301,38.7645885186789,868,3389,4,Rua 14 do Cemitério dos Olivais,Bica 4 no Cemitério dos Olivais,Bica,,57124310-cc13-496e-bbe1-fb422ad87856,0.0,0.0,,
+868,-9.10843370262043,38.7648636218551,869,3390,4,Rua 14 do Cemitério dos Olivais,Bica 5 no Cemitério dos Olivais,Bica,,81d2a088-075d-46e4-9635-07b8fc296c0c,0.0,0.0,,
+869,-9.10766091162593,38.7642928753882,870,3393,4,Rua 8 do Cemitério dos Olivais,Bica 8 no Cemitério dos Olivais,Bica,,c2ddabc1-0c9a-4eab-82de-3ed4a6cd1031,0.0,0.0,,
+870,-9.10862074443902,38.7639589816748,871,3398,4,Rua 12 do Cemitério dos Olivais,Bica 13 no Cemitério dos Olivais,Bica,,28d9c603-fa7f-4d84-8ae9-8565edd8d501,0.0,0.0,,
+871,-9.18687313077248,38.7436970643951,872,3936,4,Estrada do Barcal,Bebedouro 2 na Mata de São Domingos de Benfica,Bebedouro,,29009fa8-e81c-43e2-a41a-24c498f08d65,38.7436970643951,-9.18687313077248,BEBEDOURO,Bebedouro 2 na Mata de São Domingos de Benfica - Estrada do Barcal
+872,-9.09286320110586,38.7817393699888,873,3385,4,Passeio dos Heróis do Mar,Bebedouro 1 Junto ao Parque Infantil do Parque Tejo,Bebedouro,,ff770796-41e0-4739-b613-6a842b095cbc,38.7817393699888,-9.09286320110586,BEBEDOURO,Bebedouro 1 Junto ao Parque Infantil do Parque Tejo - Passeio dos Heróis do Mar
+873,-9.09179328873786,38.7818795668195,874,3386,4,Caminho da Rainha,Bebedouro 2 Junto ao Parque Infantil do Parque Tejo,Bebedouro,,f5558e37-125f-475b-8e41-f2d72de408e7,38.7818795668195,-9.09179328873786,BEBEDOURO,Bebedouro 2 Junto ao Parque Infantil do Parque Tejo - Caminho da Rainha
+874,-9.12725065268978,38.7517315213539,875,2104,4,Avenida Dr. Arlindo Vicente(antiga Rua 1 da Zona N1 de Chelas),Tanque do Parque da Bela Vista,Tanque,,dba948b3-58a8-4e65-ac7d-46d37817dffc,0.0,0.0,,
+875,-9.12001795880784,38.7197479482688,876,2903,4,"Calçada dos Barbadinhos, nº 32",Estação Elevatória dos Barbadinhos,Reservatório,,76acf788-ab09-4af0-879f-fbb657a46c62,0.0,0.0,,
+876,-9.10681892969326,38.7453161901836,877,2117,4,Rua de José do Patrocínio(antiga Azinhaga dos Cadetes),Chafariz na Quinta das Flores,Tanque,,0e0ec50d-63b6-4216-bcdc-dad1e0c66ac5,0.0,0.0,,
+877,-9.17585599719361,38.7087885779134,878,221,4,Travessa do Sebeiro,Chafariz na Travessa do Sebeiro,Chafariz,,aaed75a6-e8f9-4ebe-b38d-d223ad57eeb3,0.0,0.0,,
+878,-9.16952391289305,38.7087376519342,879,2614,4,"Calçada das Necessidades, Tapada das Necessidades",Chafariz 6 da Tapada das Necessidades,Chafariz,,f3f6e68f-87d9-4595-b470-9240576aa5e7,0.0,0.0,,
+879,-9.18432848923684,38.7039361363163,880,216,4,Rua Filinto Elísio,Fontanário na Rua Filinto Elísio,Fontanário,,f075b256-da06-4562-96af-7701c843fb37,0.0,0.0,,
+880,-9.2156385848469,38.6946957335012,881,3201,4,Largo da Princesa,Chafariz Praia de Belém,Chafariz,,94e1fcd3-7b69-467b-91c9-aa4af0b908fe,0.0,0.0,,
+881,-9.17136695402213,38.7071672607004,882,2609,4,"Calçada das Necessidades, Tapada das Necessidades",Chafariz 1 (Entrada) da Tapada das Necessidades,Chafariz,,ee149166-3396-44eb-ad1b-54780ef8b050,0.0,0.0,,
+882,-9.12041641463695,38.7191414359042,883,2901,4,Calçada dos Barbadinhos,Fontanário da Calçada dos Barbadinhos,Fontanário,,36c4b193-4686-404a-848e-579f55eb0673,0.0,0.0,,
