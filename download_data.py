@@ -40,14 +40,17 @@ for index, row in water_elements_df.iterrows():
   if row['TIPOLOGIA'] == 'Bebedouro':
     water_elements_df.at[index, '_lat_'] = row['Y'] 
     water_elements_df.at[index, '_lng_'] = row['X'] 
-    water_elements_df.at[index, '_type_'] = row['TIPOLOGIA']
+    water_elements_df.at[index, '_type_'] = 'BEBEDOURO'
     water_elements_df.at[index, '_name_'] = f'{row["DESIGNACAO"]} - {row["MORADA"]}'
+  else:
+    water_elements_df.at[index, '_lat_'] = water_elements_df.at[index, '_lng_'] = 0
+    water_elements_df.at[index, '_type_'] = water_elements_df.at[index, '_name_'] = ''
 water_elements_df.to_csv(f'{path}/water_elements.csv')
 
 url = 'https://opendata.arcgis.com/api/v3/datasets/d3ae336f0988464d91bc016ec75db9b1_0/downloads/data?format=csv&spatialRefId=4326'
-download_data_files(url, path, 'micromobilidade.csv')
+# download_data_files(url, path, 'micromobilidade.csv')
 url = 'https://opendata.arcgis.com/api/v3/datasets/440b7424a6284e0b9bf11179b95bf8d1_0/downloads/data?format=csv&spatialRefId=4326'
-download_data_files(url, path, 'rede_ciclavel.csv')
+# download_data_files(url, path, 'rede_ciclavel.csv')
 
 # dados cml
 url = 'http://coiapp.cm-lisboa.pt/api/opendata/public/download/53616c7465645f5f62a975d9194dd0ee7a0d7ffb4f36b0c0b5161a94daf4ed0e.csv?format=csv'
