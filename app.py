@@ -3,9 +3,10 @@ from flask_restful import Api
 from flask_swagger_ui import get_swaggerui_blueprint
 from resources.bike import Bike
 from resources.index import Index
-import os
+from flask_cors import CORS, cross_origin
 
 app = Flask(__name__)
+cors = CORS(app)
 api = Api(app)
 api.add_resource(Bike, '/bikes')
 api.add_resource(Index, '/')
