@@ -1,0 +1,113 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "PeloBairro Python API",
+    "description": "API Desenvolvida para a HACKABIP 2021 para o projeto Pelo Bairro. Essa API que retorna informações de múltiplas bases de dados abertas da Câmara Municipal de Lisboa.",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://pelobairro-py-api.herokuapp.com",
+    },
+    {
+      "url": "http://localhost:5000",
+    }
+  ],
+  "components": {
+    "schemas": {
+      "bikeObject": {
+        "type": "object",
+        "description": "Objeto de retorno de uma informação sobre bicicleta.",
+        "properties": {
+          "distance": {
+            "type": "integer",
+            "format": "int32",
+            "description": "Distância em Km"
+          },
+          "lat": {
+            "type": "number",
+            "format": "float",
+            "description": "Latitude"
+          },
+          "lng": {
+            "type": "number",
+            "format": "float",
+            "description": "Longitude"
+          },
+          "name": {
+            "type": "string",
+            "description": "Nome de exibação da informação"
+          },
+          "type": {
+            "type": "string",
+            "description": "Tipo de informação (HOTSPOT: Estacionamento com Hotspot; BICICLETA: Estacionamento, GIRABIKE: Bicicleta do projeto GIRA, BEBEDOURO: Bebedouro )",
+            "enum": [
+              "HOTSPOT",
+              "ESTACIONAMENTO",
+              "GIRABIKE",
+              "BEBEDOURO"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "paths": {
+    "/bikes": {
+      "get": {
+        "tags": [
+          "Bikes"
+        ],
+        "summary": "Retorna informações relacionadas com bicicletas",
+        "description": "Retorna informações relacionadas com bicicletas com base na latitude, longitude e distância máxima informados.",
+        "parameters": [
+          {
+            "name": "lat",
+            "in": "query",
+            "description": "Latitude",
+            "required": true,
+            "example": 38.746118,
+            "schema": {
+              "type": "number"
+            }
+          },
+          {
+            "name": "lng",
+            "in": "query",
+            "description": "Longitude",
+            "required": true,
+            "example": -9.109845,
+            "schema": {
+              "type": "number"
+            }
+          },
+          {
+            "name": "max",
+            "in": "query",
+            "description": "Distância Máxima em Km",
+            "required": false,
+            "example": 3,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Infomações encontradas com base na localização",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/bikeObject"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

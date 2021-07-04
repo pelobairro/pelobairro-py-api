@@ -1,4 +1,4 @@
-from flask import jsonify
+from flask import jsonify, make_response
 from flask_restful import Resource, request
 import pandas as pd
 import os
@@ -12,7 +12,9 @@ class Bike(Resource):
     max = request.args.get('max', default = 3, type = int)
     results = []
     results = self.getResults(lat, lng, max, results)
-    return jsonify(results)
+    response = make_response(jsonify(results), 200)
+    response.headers["Content-Type"] = "application/json"
+    return response
   
   
   def responseData(self, name, lat, lng, distance, type):
