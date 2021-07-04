@@ -5,4 +5,6 @@ from resources.bike import Bike
 app = Flask(__name__)
 api = Api(app)
 api.add_resource(Bike, '/bikes')
-app.run()
+
+if __name__ == '__main__':
+  app.run()
